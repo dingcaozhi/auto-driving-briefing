@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>汽车自动驾驶每日简报</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%);
+      min-height: 100vh;
+      color: #fff;
+    }
+    .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+    
+    header {
+      text-align: center;
+      padding: 40px 0 30px;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+      margin-bottom: 30px;
+    }
+    header h1 {
+      font-size: 2rem;
+      background: linear-gradient(135deg, #00c6ff 0%, #0072ff 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 10px;
+    }
+    header .subtitle {
+      color: rgba(255,255,255,0.6);
+      font-size: 0.9rem;
+    }
+    header .date {
+      margin-top: 15px;
+      padding: 8px 20px;
+      background: rgba(0, 198, 255, 0.2);
+      border-radius: 20px;
+      display: inline-block;
+      font-size: 0.85rem;
+      color: #00c6ff;
+    }
+    
+    .stats {
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      margin-bottom: 30px;
+      flex-wrap: wrap;
+    }
+    .stat-item {
+      text-align: center;
+      padding: 15px 25px;
+      background: rgba(255,255,255,0.05);
+      border-radius: 15px;
+    }
+    .stat-number {
+      font-size: 1.8rem;
+      font-weight: bold;
+      color: #00c6ff;
+    }
+    .stat-label {
+      font-size: 0.75rem;
+      color: rgba(255,255,255,0.5);
+      margin-top: 5px;
+    }
+    
+    .filters {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 25px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .filter-btn {
+      padding: 8px 16px;
+      background: rgba(255,255,255,0.1);
+      border: none;
+      border-radius: 20px;
+      color: rgba(255,255,255,0.7);
+      cursor: pointer;
+      font-size: 0.85rem;
+      transition: all 0.3s;
+    }
+    .filter-btn:hover, .filter-btn.active {
+      background: #00c6ff;
+      color: #0f2027;
+    }
+    
+    .news-list {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+    .news-item {
+      background: rgba(255,255,255,0.05);
+      border-radius: 15px;
+      padding: 20px;
+      border-left: 3px solid #00c6ff;
+      transition: transform 0.2s;
+      cursor: pointer;
+    }
+    .news-item:hover {
+      transform: translateX(5px);
+      background: rgba(255,255,255,0.08);
+    }
+    .news-item.hidden { display: none; }
+    
+    .news-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 10px;
+    }
+    .news-title {
+      font-size: 1rem;
+      font-weight: 600;
+      line-height: 1.4;
+      flex: 1;
+      margin-right: 10px;
+    }
+    .news-category {
+      padding: 4px 10px;
+      background: rgba(0, 198, 255, 0.3);
+      border-radius: 10px;
+      font-size: 0.7rem;
+      color: #a8e6f0;
+      white-space: nowrap;
+    }
+    
+    .news-summary {
+      font-size: 0.85rem;
+      color: rgba(255,255,255,0.6);
+      line-height: 1.5;
+      margin-bottom: 12px;
+    }
+    
+    .news-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.75rem;
+      color: rgba(255,255,255,0.4);
+    }
+    .news-source {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .news-source::before {
+      content: "🚗";
+    }
+    
+    .loading {
+      text-align: center;
+      padding: 60px 20px;
+    }
+    .loading-spinner {
+      width: 50px;
+      height: 50px;
+      border: 3px solid rgba(0, 198, 255, 0.3);
+      border-top-color: #00c6ff;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 20px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    
+    footer {
+      text-align: center;
+      padding: 40px 20px;
+      color: rgba(255,255,255,0.3);
+      font-size: 0.8rem;
+    }
+    .update-time {
+      margin-top: 10px;
+      font-size: 0.75rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🚗 汽车自动驾驶每日简报</h1>
+      <p class="subtitle">全网自动驾驶行业动态聚合</p>
+      <div class="date" id="currentDate">加载中...</div>
+    </header>
+    
+    <div class="stats">
+      <div class="stat-item">
+        <div class="stat-number" id="totalCount">-</div>
+        <div class="stat-label">今日文章</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number" id="sourceCount">-</div>
+        <div class="stat-label">新闻来源</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number" id="updateTime">09:00</div>
+        <div class="stat-label">每日更新</div>
+      </div>
+    </div>
+    
+    <div class="filters">
+      <button class="filter-btn active" data-filter="all">全部</button>
+      <button class="filter-btn" data-filter="industry">行业动态</button>
+      <button class="filter-btn" data-filter="tech">技术进展</button>
+      <button class="filter-btn" data-filter="product">产品发布</button>
+      <button class="filter-btn" data-filter="policy">政策法规</button>
+    </div>
+    
+    <div class="loading" id="loading">
+      <div class="loading-spinner"></div>
+      <p>正在加载今日简报...</p>
+    </div>
+    
+    <div class="news-list" id="newsList"></div>
+    
+    <footer>
+      <p>Auto Driving Daily Briefing | 自动聚合 · 每日 09:00 更新</p>
+      <p class="update-time">最后更新: <span id="lastUpdate">-</span></p>
+    </footer>
+  </div>
+
+  <script>
+    // 显示当前日期
+    var now = new Date();
+    var dateStr = now.getFullYear() + '年' + (now.getMonth()+1) + '月' + now.getDate() + '日';
+    document.getElementById('currentDate').textContent = dateStr;
+    
+    // 加载数据
+    fetch('news.json?t=' + Date.now())
+      .then(function(res) { return res.json(); })
+      .then(function(data) {
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('totalCount').textContent = data.totalCount || data.news.length;
+        document.getElementById('lastUpdate').textContent = data.lastUpdated || '-';
+        
+        // 统计来源数
+        var sources = {};
+        data.news.forEach(function(n) { sources[n.source] = 1; });
+        document.getElementById('sourceCount').textContent = Object.keys(sources).length;
+        
+        renderNews(data.news);
+      })
+      .catch(function(err) {
+        document.getElementById('loading').innerHTML = '<p>加载失败，请刷新重试</p><p style="font-size:0.8rem;color:#999;">' + err.message + '</p>';
+      });
+    
+    function renderNews(news) {
+      var list = document.getElementById('newsList');
+      if (!news || news.length === 0) {
+        list.innerHTML = '<p style="text-align:center;padding:40px;color:#999;">暂无数据</p>';
+        return;
+      }
+      
+      list.innerHTML = news.map(function(item, index) {
+        return '<div class="news-item" data-category="' + (item.category || 'industry') + '" onclick="window.open(\'' + (item.url || '#') + '\',\'_blank\')">' +
+          '<div class="news-header">' +
+            '<div class="news-title">' + item.title + '</div>' +
+            '<span class="news-category">' + (item.category || '动态') + '</span>' +
+          '</div>' +
+          '<div class="news-summary">' + (item.summary || '') + '</div>' +
+          '<div class="news-meta">' +
+            '<span class="news-source">' + (item.source || '未知来源') + '</span>' +
+            '<span>' + (item.date || '') + '</span>' +
+          '</div>' +
+        '</div>';
+      }).join('');
+    }
+    
+    // 筛选功能
+    document.querySelectorAll('.filter-btn').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        document.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.remove('active'); });
+        btn.classList.add('active');
+        
+        var filter = btn.getAttribute('data-filter');
+        document.querySelectorAll('.news-item').forEach(function(item) {
+          if (filter === 'all' || item.getAttribute('data-category') === filter) {
+            item.classList.remove('hidden');
+          } else {
+            item.classList.add('hidden');
+          }
+        });
+      });
+    });
+  </script>
+</body>
+</html>
