@@ -1,167 +1,149 @@
 {
-  "lastUpdated": "2026-03-14 03:22:16",
-  "totalCount": 26,
+  "lastUpdated": "2026-03-15 03:46:21",
+  "totalCount": 24,
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859534849758971168",
-      "title": "一张F1票根能走多远:上海如何把三天赛事变成两个月..",
-      "summary": "界面新闻记者|范易成界面新闻编辑|庄键谢灵宁在F1刚登陆中国的2004年,叶之峰就曾买票前往上海国际赛车场观赛尝鲜。“那时候除了看比赛,什么都没有。”他清晰记得,散场后,自己直接从嘉定坐车回了家。今年...",
+      "id": "http://www.eeo.com.cn/2026/0314/811012.shtml",
+      "title": "2026 AWE观察:机器人公司来了家电展,家电公司都在做机器人",
+      "summary": "经济观察报记者在展会现场逛了两天,试图弄清楚一个问题:为什么一个知名家电展上最受关注的东西变成机器人和AI了?...",
+      "source": "Eeo",
+      "date": "2026-03-14",
+      "url": "http://www.eeo.com.cn/2026/0314/811012.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859647776821009092",
+      "title": "F1中国大奖赛:安东内利成史上最年轻杆位得主",
+      "summary": "新华社上海3月14日电(记者胡洁菲、董意行)世界一级方程式赛车锦标赛(F1)中国大奖赛14日在上海国际赛车场展开冲刺赛和正赛排位赛争夺,梅赛德斯车手拉塞尔以领先第二名0.6秒的优势获得冲刺赛冠军。在正...",
       "source": "News_Baidu",
-      "date": "2026-03-13",
-      "url": "http://baijiahao.baidu.com/s?id=1859534849758971168",
+      "date": "2026-03-14",
+      "url": "http://baijiahao.baidu.com/s?id=1859647776821009092",
       "category": "industry"
     },
     {
-      "id": "https://www.fx168news.com/article/1003682",
-      "title": "外卖大战卷到巴西,滴滴也惨了!-FX168",
-      "summary": "“外卖大战” 复刻到巴西,滴滴也要不惜代价?网约车龙头$滴滴出行(DIDIY.US) ,今晚(3.13)美股盘前公布了 2025 年最后一季的财报。整体来看,国内业务依然稳健,业务量平稳增长、利润率缓步提升,谈不上亮眼但也没啥大缺陷。大问题是,海外业务因巴西外卖投入继续拉升,虽然市场已有心理准备,实...",
-      "source": "Fx168News",
-      "date": "2026-03-13",
-      "url": "https://www.fx168news.com/article/1003682",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859346631413631646",
-      "title": "黄仁勋罕见发文:AI正如电力一样不可缺少,仍需数万..",
-      "summary": "黄仁勋罕见发布署名长文,再次强调“人类历史上规模最大的基础设施建设”刚刚开始。当地时间3月10日,AI(人工智能)芯片龙头英伟达CEO黄仁勋发布署名长文,分享了对AI“五层蛋糕”结构的分析。黄仁勋表示...",
+      "id": "http://baijiahao.baidu.com/s?id=1859647778179736137",
+      "title": "西部首单背后的“文化+”裂变:两大未来产业数据资产..",
+      "summary": "3月13日,成都市两大数据产品在成都文化产权交易所完成挂牌交易。这不仅是一则简单的交易快讯,更是西部地区在车路协同、具身智能两个未来产业领域,以及成都文交所作为全省唯一持牌机构在文化大数据交易赛道上的...",
       "source": "News_Baidu",
-      "date": "2026-03-13",
-      "url": "http://baijiahao.baidu.com/s?id=1859346631413631646",
+      "date": "2026-03-14",
+      "url": "http://baijiahao.baidu.com/s?id=1859647778179736137",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859554781777064789",
-      "title": "为了共同理想,这群车模爱好者走到了一起!他们还设计..",
-      "summary": "走进方盒模型(FUNBOX)位于嘉定江桥一个园区内的办公室,你可能无法把一群正在看电脑、琢磨模型的年轻人直接与F1联系起来。这些年轻人都是资深的汽车模型爱好者,他们出于共同的兴趣爱好而走到了一起。方盒...",
-      "source": "News_Baidu",
-      "date": "2026-03-13",
-      "url": "http://baijiahao.baidu.com/s?id=1859554781777064789",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859554781776972871",
-      "title": "再度出征F1学院 “铁豆”师炜:不负热爱赴赛场|F..",
-      "summary": "2025年3月,当师炜(铁豆)以中国首位F1学院外卡车手的身份完成首秀后,一种复杂的情绪笼罩了她。外界排山倒海的议论,让她在赛后很长一段时间不敢靠近赛车。“我每天就住在赛道边上,跟自己较劲,也不训练,...",
-      "source": "News_Baidu",
-      "date": "2026-03-13",
-      "url": "http://baijiahao.baidu.com/s?id=1859554781776972871",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859554781777258607",
-      "title": "F1学院重返上海:打破壁垒,新赛季“她”势加速|F..",
-      "summary": "3月13日至15日,2026FORMULA1喜力中国大奖赛将在上海国际赛车场鸣笛开赛,F1学院(F1ACADEMY)新赛季的揭幕战则将同期、同场举行,这也是中国连续第二年承办这项全女性车手参与的单一规...",
-      "source": "News_Baidu",
-      "date": "2026-03-13",
-      "url": "http://baijiahao.baidu.com/s?id=1859554781777258607",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/03-13/10586587.shtml",
-      "title": "两会受权发布|中华人民共和国国民经济和社会发展第十五个五年规划纲要",
-      "summary": "新华社北京3月13日电...",
+      "id": "https://www.chinanews.com.cn/gn/2026/03-14/10586959.shtml",
+      "title": "两会受权发布丨关于2025年国民经济和社会发展计划执行情况与2026年国民经济和社会发展计划草案的报告",
+      "summary": "新华社北京3月14日电...",
       "source": "Chinanews",
-      "date": "2026-03-13",
-      "url": "https://www.chinanews.com.cn/gn/2026/03-13/10586587.shtml",
+      "date": "2026-03-14",
+      "url": "https://www.chinanews.com.cn/gn/2026/03-14/10586959.shtml",
       "category": "product"
     },
     {
-      "id": "https://www.ithome.com/0/928/959.htm",
-      "title": "丰田更新 26 款 GR 雅力士:操控更精准,舒适性提升",
-      "summary": "IT之家 3 月 13 日消息,据汽车媒体 motor.es 今天报道,丰田现已在海外市场推出 2026 款 GR 雅力士汽车,主要在配置和驾驶体验方面进行改进,让这辆三门小钢炮增加一些颇具看点的升级。IT之家援引 motor.es,丰田章男一直公开表达自己热爱高性能车型,甚至表示丰田只需要 GR ...",
-      "source": "Ithome",
-      "date": "2026-03-13",
-      "url": "https://www.ithome.com/0/928/959.htm",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859440468548679511",
-      "title": "交通宣传进农村 共“话”安全零距离",
-      "summary": "大象新闻·河南交通广播记者李鹏为进一步提升农村地区交通参与者的交通安全意识,有效预防和减少道路交通事故的发生,近日,濮阳市公安局交通管理支队工业园区大队组织宣传民辅警走进辖区大口寨村,开展了一场内容生...",
+      "id": "http://baijiahao.baidu.com/s?id=1859620946141882452",
+      "title": "宁夏西吉县总工会为新就业群体送“禁毒锦囊”",
+      "summary": "近日,宁夏回族自治区固原市西吉县总工会深入基层一线,面向大货车司机、快递员等新就业形态劳动者,开展了一场“点对点,面对面”的精准禁毒宣传活动,用实际行动为他们构筑一道坚实的“无毒保护伞”,传递工会组织...",
       "source": "News_Baidu",
-      "date": "2026-03-13",
-      "url": "http://baijiahao.baidu.com/s?id=1859440468548679511",
+      "date": "2026-03-14",
+      "url": "http://baijiahao.baidu.com/s?id=1859620946141882452",
       "category": "industry"
     },
     {
-      "id": "https://www.chinanews.com.cn/txy/2026/03-13/10586544.shtml",
-      "title": "台青赴重庆探索大足石刻文创产业合作机遇",
-      "summary": "中新社重庆3月13日电 (梁钦卿)3月11日至14日,台湾工商建设研究会青年团邀请近20名台湾青年企业家赴重庆考察。13日,台湾青年们来到重庆大足,参访重庆市(大足)台湾青年就业创业基地与世界文化遗产大足石刻,探索渝台两地文创产业合作潜力。...",
-      "source": "Chinanews",
-      "date": "2026-03-13",
-      "url": "https://www.chinanews.com.cn/txy/2026/03-13/10586544.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1859453934297382408",
-      "title": "民航局发布有关无人机新公告,为低空飞行装上 “智慧..",
-      "summary": "3月5日,中国民用航空局发布《关于民用无人驾驶航空器系统网络式运行识别有关事项的公告》(以下简称《公告》),明确民用无人驾驶航空器系统网络式运行识别的具体要求。这份新规是对此前相关标准的细化。5月1日...",
+      "id": "http://baijiahao.baidu.com/s?id=1859434332470112454",
+      "title": "IXDI|高可靠性WWM/RXM绕线贴片电阻如何成..",
+      "summary": "2026年初的电子产业正经历一场结构性剧变。AI服务器、机器人及自动驾驶汽车等“实体AI”应用的落地,引爆了对高端、高可靠性元器件的狂热需求。与此同时,消费电子领域需求疲软,而国际金属原料价格屡创新高...",
       "source": "News_Baidu",
-      "date": "2026-03-13",
-      "url": "http://baijiahao.baidu.com/s?id=1859453934297382408",
-      "category": "product"
+      "date": "2026-03-14",
+      "url": "http://baijiahao.baidu.com/s?id=1859434332470112454",
+      "category": "industry"
     },
     {
-      "id": "https://news.seehua.com/post/1453464",
-      "title": "霹种族情绪敏感事宜受控 警方:更多是个人之间误解",
-      "summary": "(怡保13日讯)霹雳州总警长拿督诺希山指出,针对一些不负责任人士挑起种族情绪敏感问题,霹雳州情况仍处于控制范围 [...]...",
+      "id": "https://news.seehua.com/post/1454058",
+      "title": "企图偷电缆未遂 怡警追缉开四驱车嫌犯",
+      "summary": "(怡保14日讯)怡保警方正积极追缉涉嫌于清晨时分,出动四轮驱口动车,企图盗窃电缆的嫌犯。 怡保警区主任莫哈末纳 [...]...",
       "source": "News_Seehua",
-      "date": "2026-03-13",
-      "url": "https://news.seehua.com/post/1453464",
+      "date": "2026-03-14",
+      "url": "https://news.seehua.com/post/1454058",
       "category": "industry"
     },
     {
-      "id": "https://www.ithome.com/0/928/966.htm",
-      "title": "小鹏汇天飞行汽车再获近 2 亿美元股权融资,高瓴创投、红杉中国等加码",
-      "summary": "IT之家 3 月 13 日消息,小鹏汇天飞行汽车今日宣布,近期完成了近 2 亿美元(IT之家注:现汇率约合 13.76 亿元人民币)的新一轮股权融资,投资机构包括高瓴创投、红杉中国、高榕创投、达晨财智等。其中,高瓴创投和红杉中国在 A 轮融资后继续追加投资。此轮融资后,汇天历史股权融资总额约 10 ...",
-      "source": "Ithome",
-      "date": "2026-03-13",
-      "url": "https://www.ithome.com/0/928/966.htm",
+      "id": "http://baijiahao.baidu.com/s?id=1859616829127172931",
+      "title": "时刻“亮光”护平安 筑牢“车辆”安全防线——济南市..",
+      "summary": "鲁网3月14日讯为切实加强农村道路交通安全管理,有效防范和化解三轮车出行安全风险,近日,济南市莱芜区方下街道道路岗的工作人员扛起“三见面一建档”的大旗,深入辖区各村,为三轮车免费粘贴反光标识,通过常态...",
+      "source": "News_Baidu",
+      "date": "2026-03-14",
+      "url": "http://baijiahao.baidu.com/s?id=1859616829127172931",
       "category": "industry"
     },
     {
-      "id": "https://www.ithome.com/0/928/951.htm",
-      "title": "奇瑞 iCAR V27 上市:号称最好开的 5 米方盒子,16.98 万-19.68 万元",
-      "summary": "IT之家 3 月 13 日消息,今天晚间,奇瑞 iCAR 首款增程 SUV 车型 V27 正式上市,售价区间 16.98-19.68 万元。若在 5 月 31 日前下定,价值 8000 元的超纤绒皮车顶、价值 4000 元的可选装拖车套装将免费赠送。新车是一款硬派方盒子中大型 SUV,搭载 1.5T...",
-      "source": "Ithome",
-      "date": "2026-03-13",
-      "url": "https://www.ithome.com/0/928/951.htm",
+      "id": "http://baijiahao.baidu.com/s?id=1859639574149724188",
+      "title": "远见·AI“临界” 野心优雅丨机器人产业起舞:“硅..",
+      "summary": "本期话题:今年两会上,《政府工作报告》首次提出“打造智能经济新形态”,并明确培育具身智能、脑机接口等未来产业。机器人舞台“破圈”背后,是产业“破局”。2025年,中国“具身智能+机器人”领域融资总额7...",
+      "source": "News_Baidu",
+      "date": "2026-03-14",
+      "url": "http://baijiahao.baidu.com/s?id=1859639574149724188",
       "category": "industry"
     },
     {
-      "id": "https://www.ithome.com/0/928/947.htm",
-      "title": "长城新款坦克 300 申报:Hi4-T/Hi4-Z 插混、车身加长、配备激光雷达",
-      "summary": "IT之家 3 月 13 日消息,在问世至今逾 5 年后,长城汽车新款坦克 300 今晚现身第 405 批《道路机动车辆生产企业及产品公告》新产品公示。相比现款车型长宽高 4750/1930/1903mm、轴距 2750mm,新车尺寸升级到了 4886/1984/1927mm、轴距 3010mm。从外...",
-      "source": "Ithome",
-      "date": "2026-03-13",
-      "url": "https://www.ithome.com/0/928/947.htm",
+      "id": "http://baijiahao.baidu.com/s?id=1859636897596152857",
+      "title": "在上海,把通向机遇的成本降下来",
+      "summary": "投资上海就是投资机遇,投资未来。3月14日,上海全球投资促进大会现场“投资上海会客厅”里,项目洽谈、融资服务、投资路演、政策咨询、要素平台五大专区同时打开。和各区交流,约见投资机构实操人、创新创业合伙...",
+      "source": "News_Baidu",
+      "date": "2026-03-14",
+      "url": "http://baijiahao.baidu.com/s?id=1859636897596152857",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859593980486078224",
+      "title": "大众交通:目前公司与百度萝卜快跑在浦东新区开展自动..",
+      "summary": "证券日报网讯3月13日,大众交通在互动平台回答投资者提问时表示,目前公司与百度萝卜快跑在浦东新区开展自动驾驶出租车示范运营,现有5辆主驾无人Robotaxi投入示范运行。2026年,公司将持...",
+      "source": "News_Baidu",
+      "date": "2026-03-14",
+      "url": "http://baijiahao.baidu.com/s?id=1859593980486078224",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859542810810188648",
+      "title": "莹观天下|“90后”前说唱歌手,有望成为尼泊尔最年..",
+      "summary": "齐鲁晚报·齐鲁壹点记者王晓莹3月12日,尼泊尔公布众议院选举计票结果,由“90后”政客巴伦德拉·沙阿领导的民族独立党在165个直选席位中赢得125席,“断崖式”领先排名第二的尼泊尔大会党。经历去年9月...",
+      "source": "News_Baidu",
+      "date": "2026-03-14",
+      "url": "http://baijiahao.baidu.com/s?id=1859542810810188648",
+      "category": "industry"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0314/233774.shtml",
+      "title": "华为Mate 80系列亮相AWE 2026 从春晚舞台到展会再展旗舰实力",
+      "summary": "3月12日至15日,AWE 2026在上海举行,本届展会以“AI科技、慧享未来”为主题。作为全球三大家电及消费电子展之一,今年共吸引约1200家企业参展。而华为作为消费电子领军企业,在现场展示了多项最新技术成果。更让人惊喜的是,14日,华为终端BG董事长余承东与央视主持人尼格买提在华为展区进行直播互...",
+      "source": "Imobile",
+      "date": "2026-03-14",
+      "url": "http://news.imobile.com.cn/articles/2026/0314/233774.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1859633036829616214",
+      "title": "AI不止于技术!杨浦联手火山引擎,打造政企协同AI..",
+      "summary": "3月16日,“创新开放·机遇杨浦”应用场景对接大会将在杨浦区复兴岛举办。在日前举行的新闻通气会上,记者获悉,本次大会将围绕ai赋能产业发展、深化杨浦区域合作等内容展开。火山引擎也将亮相大会,展现政企携手推动ai从技术愿景...",
+      "source": "News_Baidu",
+      "date": "2026-03-14",
+      "url": "http://baijiahao.baidu.com/s?id=1859633036829616214",
       "category": "tech"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1859547707552516031",
-      "title": "大四学生创业3年,公司估值超千万美金!开学回到高中..",
-      "summary": "潮新闻客户端记者邱伊娜通讯员沈磊三月以来,各类校园招聘会此起彼伏,许多大四学生忙着找工作,但也有人例外。近日,在杭州第九中学新学期开学典礼上,校长把C位让给了该校一位毕业生——时沐朗,现就读于美国北卡...",
+      "id": "http://baijiahao.baidu.com/s?id=1859634122364590666",
+      "title": "蘑菇车联“琴澳医线”自动驾驶巴士今日正式开启运营",
+      "summary": "3月14日,横琴粤澳深度合作区迎来重要时刻,“琴澳医线”自动驾驶巴士服务正式开启运营。该专线由蘑菇车联(MOGOX)、autonoma提供核心技术与车辆运营支持,是国内第一条服务于跨境就医场景的自动驾...",
       "source": "News_Baidu",
-      "date": "2026-03-13",
-      "url": "http://baijiahao.baidu.com/s?id=1859547707552516031",
+      "date": "2026-03-14",
+      "url": "http://baijiahao.baidu.com/s?id=1859634122364590666",
       "category": "industry"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0313/810614.shtml",
-      "title": "“配不上”新能源车的轮胎:橡胶科技代差式落伍|“315\"特别策划",
-      "summary": "当前新能源汽车行业快速发展,电动车的车身自重和电机扭矩大,且叠加汽车和轮胎行业内卷严重,轮胎产业出现了不少质量问题,行业整体有些匹配不上渗透率日益提升的新能源汽车产业...",
-      "source": "Eeo",
-      "date": "2026-03-13",
-      "url": "http://www.eeo.com.cn/2026/0313/810614.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.ithome.com/0/928/943.htm",
-      "title": "比亚迪方程豹钛 3 闪充版上市:续航 565KM/620KM,15.38 万元起",
-      "summary": "IT之家 3 月 13 日消息,比亚迪方程豹钛 3 闪充版今晚上市,提供 620KM 后驱闪充版、565KM 四驱闪充版,显著提升车主补能体验,售价 15.38 万元起。IT之家从发布会获悉,这款新车全系标配比亚迪闪充技术、智能 EVO+ 平台、云辇-C+ 主动预瞄、AI 智能座舱、天神之眼辅助驾驶...",
-      "source": "Ithome",
-      "date": "2026-03-13",
-      "url": "https://www.ithome.com/0/928/943.htm",
+      "id": "https://www.chinanews.com.cn/sh/2026/03-14/10586831.shtml",
+      "title": "北京举办春季大型招聘会 人才市场供需两旺",
+      "summary": "中新网北京3月14日电 (记者 吕少威)由北京市人力资源和社会保障局联合多部门举办的2026年北京春季大型招聘会暨职引未来——全国城市巡回招聘北京站活动14日在中国国际展览中心举行,480余家知名企业携数万个优质岗位亮相。这是北京市落实全国“两会”精神举办的全年首场大型招聘会,紧扣首都科技创新中心定...",
+      "source": "Chinanews",
+      "date": "2026-03-14",
+      "url": "https://www.chinanews.com.cn/sh/2026/03-14/10586831.shtml",
       "category": "industry"
     },
     {
@@ -181,6 +163,24 @@
       "date": "2026-03-13",
       "url": "https://www.reuters.com/business/uber-motional-launch-commercial-robotaxi-service-las-vegas-2026-03-13/",
       "category": "product"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/03/13/tmt-newswire/pr-newswire/ponyai-expands-robotaxi-access-with-integration-into-tencent-mobility-service/2299373",
+      "title": "Pony.ai Expands Robotaxi Access with Integration into Tencent Mobility Service",
+      "summary": "GUANGZHOU, China, March 13, 2026 /PRNewswire/ -- Pony.ai, a global leader in the large-scale commercialization of autonomous driving technology, today...",
+      "source": "The Manila Times",
+      "date": "2026-03-13",
+      "url": "https://www.manilatimes.net/2026/03/13/tmt-newswire/pr-newswire/ponyai-expands-robotaxi-access-with-integration-into-tencent-mobility-service/2299373",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.mercurynews.com/2026/03/12/us-self-driving-startup-nuro-begins-testing-in-tokyo/",
+      "title": "Silicon Valley self-driving startup Nuro begins testing in Tokyo",
+      "summary": "Backed by the likes of Nvidia and Toyota, Mountain View-based Nuro aims to compete with other driverless operators such as Alphabet Inc.’s Waymo and A...",
+      "source": "The Mercury News",
+      "date": "2026-03-12",
+      "url": "https://www.mercurynews.com/2026/03/12/us-self-driving-startup-nuro-begins-testing-in-tokyo/",
+      "category": "industry"
     }
   ]
 }
