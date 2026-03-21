@@ -1,150 +1,159 @@
 {
-  "lastUpdated": "2026-03-20 03:25:48",
-  "totalCount": 26,
+  "lastUpdated": "2026-03-21 03:14:21",
+  "totalCount": 25,
   "news": [
     {
-      "id": "https://www.ithome.com/0/930/805.htm",
-      "title": "从太空指挥全球:国星宇航完成全球首次 OpenClaw 调用太空算力操控地面机器人",
-      "summary": "IT之家 3 月 19 日消息,国星宇航今日宣布,在 3 月 11 日至 13 日,基于开源智能体“龙虾”OpenClaw,国星宇航-上海交通大学太空计算联合实验室成功完成了一项具有里程碑意义的技术试验 —— 全球首次 OpenClaw 调用太空算力操控地面机器人 。 ▲ 图源:国星宇航(后同) 据...",
-      "source": "Ithome",
-      "date": "2026-03-19",
-      "url": "https://www.ithome.com/0/930/805.htm",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.ithome.com/0/930/804.htm",
-      "title": "小米春季新品发布会一文汇总:新一代 SU7 上市,台下友商大佬表情亮了,时隔四年推出“公斤本”",
-      "summary": "IT之家 3 月 19 日消息,小米 2026 春季新品发布会今晚(3 月 19 日晚)如期举行。 作为本次发布会的 C 位产品, 新一代小米 SU7 正式上市 。 与此同时,小米笔记本 Pro 14 和小米手表 S5 两款新品亦相继登台。IT之家为大家一文汇总如下: 01. 新一代小米 SU7 新...",
-      "source": "Ithome",
-      "date": "2026-03-19",
-      "url": "https://www.ithome.com/0/930/804.htm",
-      "category": "product"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3270663",
-      "title": "美股异动 | 特斯拉(TSLA.US)跌近3% FSD调查升级召回风险上升",
-      "summary": "美股异动 | 特斯拉(TSLA.US)跌近3% FSD调查升级召回风险上升...",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3272948",
+      "title": "何小鹏兑现单季盈利“承诺” 全无人Robotaxi、高阶人形机器人将加速量产",
+      "summary": "何小鹏兑现单季盈利“承诺” 全无人Robotaxi、高阶人形机器人将加速量产...",
       "source": "Investing_Cn",
-      "date": "2026-03-19",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3270663",
+      "date": "2026-03-20",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3272948",
       "category": "industry"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3270658",
-      "title": "较预售降万元、新一代小米SU7 “低价”上市 雷军:不想让车主超预算",
-      "summary": "较预售降万元、新一代小米SU7 “低价”上市 雷军:不想让车主超预算...",
-      "source": "Investing_Cn",
-      "date": "2026-03-19",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3270658",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860101683249152938",
-      "title": "长沙启动“星推官”全球招募,意大利工程师董福磊:在..",
-      "summary": "3月19日,2026年度长沙外宣工作协作交流会暨首届长沙对外传播“杜鹃花奖”征集启动大会在长沙举行。会上,由长沙市委宣传部、湖南日报社联合发起的“长沙星推官全球招募计划”正式启动。△董福磊。图/胡雄拍...",
+      "id": "http://baijiahao.baidu.com/s?id=1860076258804855526",
+      "title": "绿控传动核心技术成果显著,展现新能源商用车电驱动领..",
+      "summary": "随着我国新能源汽车产业迈入高质量发展新阶段,核心零部件企业的技术创新能力正成为衡量其市场竞争力的关键标尺。...",
       "source": "News_Baidu",
-      "date": "2026-03-19",
-      "url": "http://baijiahao.baidu.com/s?id=1860101683249152938",
+      "date": "2026-03-20",
+      "url": "http://baijiahao.baidu.com/s?id=1860076258804855526",
+      "category": "tech"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860191384508275809",
+      "title": "紫牛头条|“手搓”机器人、研制机械臂......80后“手..",
+      "summary": "各种具身机器人、人机交互机械臂、机械仿生手......位于苏州工业园区一间工作室里,墙上悬挂着机械骨骼制成的蝴蝶,具身机器人挥舞着手臂,一条硬核机械尾...",
+      "source": "News_Baidu",
+      "date": "2026-03-20",
+      "url": "http://baijiahao.baidu.com/s?id=1860191384508275809",
       "category": "industry"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3270605",
-      "title": "优步将向Rivian投资至多12.5亿美元 拟部署5万辆无人出租车",
-      "summary": "优步将向Rivian投资至多12.5亿美元 拟部署5万辆无人出租车...",
-      "source": "Investing_Cn",
-      "date": "2026-03-19",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3270605",
+      "id": "https://www.ithome.com/0/931/169.htm",
+      "title": "何小鹏:小鹏汽车今年物理 AI 相关研发投入预计提升至 70 亿元",
+      "summary": "IT之家 3 月 20 日消息,在今晚的业绩电话会议上,小鹏汽车董事长兼 CEO 何小鹏透露,在 2025 年公司研发投入中,AI 相关投入为 45 亿元。 何小鹏提到,小鹏已建立涵盖芯片、基座模型和 AI Infra 在内的 物理 AI 全栈自研技术体系 。凭借这一技术体系,2026 年开始,物理...",
+      "source": "Ithome",
+      "date": "2026-03-20",
+      "url": "https://www.ithome.com/0/931/169.htm",
       "category": "industry"
     },
     {
-      "id": "https://www.fx168news.com/article/1005800",
-      "title": "吴泳铭宣布阿里AI战略商业目标:未来五年,云和AI商业化年收入超1000亿美元-FX168",
-      "summary": "面对巨大而长期的AI市场成长动能,在19日晚阿里巴巴集团2026财年Q3财报分析师电话会上,CEO吴泳铭宣布了阿里集团AI战略的商业目标——未来五年,包含MaaS在内的云和AI商业化年收入突破1000亿美元。他详细阐述了阿里的全栈AI布局——以芯片和云计算为AI基础设施层;以Toke...",
+      "id": "https://www.fx168news.com/article/1006280",
+      "title": "优步(UBER)股票3月20日盘中下跌3.04%:关键驱动因素揭晓-FX168",
+      "summary": "优步 (UBER) 盘中下跌3.04%, 所属行业软件与信息技术服务下跌1.12% ,公司涨幅跑输行业涨幅,行业成交额前三股票 微软 (MSFT) 下跌 1.69%;Meta Platforms Inc (META) 下跌 2.07%;谷歌-A (GOOGL) 下跌 1.71%。 今日是什么导致了优...",
       "source": "Fx168News",
-      "date": "2026-03-19",
-      "url": "https://www.fx168news.com/article/1005800",
+      "date": "2026-03-20",
+      "url": "https://www.fx168news.com/article/1006280",
       "category": "industry"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3270527",
-      "title": "涨价4000元!新一代小米SU7上市当天,门店销售开车上门“抢”准车主",
-      "summary": "涨价4000元!新一代小米SU7上市当天,门店销售开车上门“抢”准车主...",
-      "source": "Investing_Cn",
-      "date": "2026-03-19",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3270527",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1005792",
-      "title": "万马科技:3月17日组织现场参观活动,长盛基金、和谐汇一等多家机构参与-FX168",
-      "summary": "证券之星消息,2026年3月19日万马科技(300698)发布公告称公司于2026年3月17日组织现场参观活动,长盛基金杨睿琦、和谐汇一凌晨、国泰海通石佳艺、银河证券赵良毕、兴业证券卢云聪、国海证券胡惠民、北京关呈许宏图、东方财富马成龙 郑景毅、东方红陆嘉余、东吴基金周磊、国联基金焦阳 粱勤之、申万...",
-      "source": "Fx168News",
-      "date": "2026-03-19",
-      "url": "https://www.fx168news.com/article/1005792",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1773923023129421.html",
-      "title": "新SU7标配25项安全辅助功能 雷军:辅助驾驶不是自动驾驶",
+      "id": "https://www.bjnews.com.cn/detail/1774006286169587.html",
+      "title": "《悲伤复原力》:至爱之人离世后,悲伤初期的六种应对策略",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-03-19",
-      "url": "https://www.bjnews.com.cn/detail/1773923023129421.html",
+      "date": "2026-03-20",
+      "url": "https://www.bjnews.com.cn/detail/1774006286169587.html",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860097704110411687",
-      "title": "接连发生,后排乘客未系安全带被甩车外!重要提醒:全..",
-      "summary": "扬子晚报网3月19日讯(记者郭一鹏)今天(19日),公安部交通管理局公布了两起后排乘客未系安全带被甩车外的事故,现场视频看了让人触目惊心。扬子晚报/紫牛新闻记者采访了解到,因为后排乘客不系安全带,在发...",
+      "id": "http://baijiahao.baidu.com/s?id=1860175058564734107",
+      "title": "环卫“黑科技”亮相成都街头 青少年志愿者直呼:原来..",
+      "summary": "封面新闻记者赖芳杰智能清扫设备、高压冲洗车等环卫“黑科技”集中亮相,青少年志愿者围观直呼:“太酷啦!”3月20日,一场别开生面的“传承雷锋精神践行清洁使命”学雷锋主题公益活动在成都街头举行。活动由四川...",
       "source": "News_Baidu",
-      "date": "2026-03-19",
-      "url": "http://baijiahao.baidu.com/s?id=1860097704110411687",
+      "date": "2026-03-20",
+      "url": "http://baijiahao.baidu.com/s?id=1860175058564734107",
       "category": "industry"
     },
     {
-      "id": "https://news.cri.cn/20260319/5d421b28-a2be-9a6c-869b-d2c624e88e0f.html",
-      "title": "联播+|在“钢铁驼队”旁 习近平连发四问-国际在线",
-      "summary": "“班列前景怎么样?在国际货运中会占到什么比例?比例会扩大到多少?本省货占多少?” 2014年5月,河南郑州国际陆港铁路集装箱中心站,一个个发往欧洲的集装箱整齐排列。习近平总书记来到这里,在与工作人员亲切交流中,...",
-      "source": "Cri_Cn",
-      "date": "2026-03-19",
-      "url": "https://news.cri.cn/20260319/5d421b28-a2be-9a6c-869b-d2c624e88e0f.html",
+      "id": "https://www.fx168news.com/article/1006268",
+      "title": "小鹏:只赚吆喝不赚钱,“东方特斯拉\"还讲得下去吗?-FX168",
+      "summary": "核心造车业务四季度完全 “增收不增利\"...",
+      "source": "Fx168News",
+      "date": "2026-03-20",
+      "url": "https://www.fx168news.com/article/1006268",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860094495730692671",
-      "title": "独家|韩国八部委代表团访华 体验百度、小马智行无人..",
-      "summary": "【独家|韩国八部委代表团访华体验百度、小马智行无人驾驶车辆】《科创板日报》19日讯,3月18日至3月20日,由韩国国土交通部、财政经济部等八部委组成的代表团抵达北京,开展了为期三天的实地考察。《科创板...",
+      "id": "https://www.bjnews.com.cn/detail/1774000750129082.html",
+      "title": "易趋项目管理平台:对标国际PPM,破解“业财分离”与“资源孤岛”难题",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-03-20",
+      "url": "https://www.bjnews.com.cn/detail/1774000750129082.html",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/0/931/162.htm",
+      "title": "小米汽车谈为何未公布新一代 SU7 大定量:锁单量数据“更真实”",
+      "summary": "感谢IT之家网友 会弹琴的九号 、 蛋炒鱼 的线索投递! IT之家 3 月 20 日消息,今天晚间,小米汽车官微发布第 216 集“答网友问”。其中提到,本次发布会之所以未公布新一代“大定”数据,而是公布“锁单”数据,是因为不可退的“锁单”数据更能真实、客观地反映用户的选择与认可。此外,此次问答还包...",
+      "source": "Ithome",
+      "date": "2026-03-20",
+      "url": "https://www.ithome.com/0/931/162.htm",
+      "category": "industry"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0320/813670.shtml",
+      "title": "基于千问大模型的智能体上车,智己LS8即将开启预售",
+      "summary": "据官方消息,搭载智己超级智能体IM Ultra Agent的旗舰SUV智己LS8,将于3月26日正式预售。...",
+      "source": "Eeo",
+      "date": "2026-03-20",
+      "url": "http://www.eeo.com.cn/2026/0320/813670.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/dwq/2026/03-20/10590376.shtml",
+      "title": "(粤港澳大湾区)珠港澳合作共育“飞手”",
+      "summary": "中新社珠海3月20日电 (记者 邓媛雯)珠海莲洲机场无人机培训港澳代理合作签约仪式20日在莲洲机场举行。此次合作标志着莲洲机场首次面向港澳市场,系统化、规模化开展无人机培训服务。...",
+      "source": "Chinanews",
+      "date": "2026-03-20",
+      "url": "https://www.chinanews.com.cn/dwq/2026/03-20/10590376.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860170778650559538",
+      "title": "红色传家宝|96岁飞行大队长的排险日记:想让后辈飞..",
+      "summary": "时光深处,总有一些物件承载着记忆。它们是烽火岁月的见证,是信仰与初心的信物,是跨越时空的接力。刻痕字迹,都在无声讲述:何谓英雄,何谓传承。一件红色传家宝,就是一个永不褪色的精神坐标,是一个家族乃至一个...",
       "source": "News_Baidu",
-      "date": "2026-03-19",
-      "url": "http://baijiahao.baidu.com/s?id=1860094495730692671",
+      "date": "2026-03-20",
+      "url": "http://baijiahao.baidu.com/s?id=1860170778650559538",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860076535270041307",
-      "title": "青岛机场民航无人驾驶检测基地顺利完成首次检测",
-      "summary": "中国山东网·新感知3月19日讯近日,青岛机场在无人驾驶技术应用领域取得重要进展。3月5日至10日,青岛机场联合中机检测、西井科技顺利完成民航无人驾驶检测基地首次检测工作,标志着青岛机场民航无人驾驶检测...",
+      "id": "https://www.bjnews.com.cn/detail/1773988632169581.html",
+      "title": "“一个吉利”整合净赚144亿元,吉利的想象空间还有多大?",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-03-20",
+      "url": "https://www.bjnews.com.cn/detail/1773988632169581.html",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1860170465029689002",
+      "title": "新石器无人车获颁连云港首批无人驾驶装备识别标牌",
+      "summary": "近日,连云港市工信局、公安局、交通运输局和邮政管理局联合颁发首批无人驾驶装备识别标牌,新石器无人车获颁00001号牌照。2025年测试运行阶段,在医疗物资配送场景,2025年9月连云港市第一人民医院率...",
       "source": "News_Baidu",
-      "date": "2026-03-19",
-      "url": "http://baijiahao.baidu.com/s?id=1860076535270041307",
+      "date": "2026-03-20",
+      "url": "http://baijiahao.baidu.com/s?id=1860170465029689002",
       "category": "industry"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3270265",
-      "title": "“央国企高端新能源汽车第一股”登场,港股新能源赛道的“稀缺标的”,为什么是岚图?",
-      "summary": "“央国企高端新能源汽车第一股”登场,港股新能源赛道的“稀缺标的”,为什么是岚图?...",
-      "source": "Investing_Cn",
-      "date": "2026-03-19",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3270265",
-      "category": "industry"
+      "id": "https://www.businessinsider.com/uber-autonomous-vehicles-driverless-cancelled-project-catching-up-waymo-tesla-2026-3",
+      "title": "Uber's New Deals Aim to Catch up in Self-Driving Car Tech",
+      "summary": "After a fatal incident, Uber cancelled its autonomous vehicle project in 2018. Should it have kept going?...",
+      "source": "Business Insider",
+      "date": "2026-03-20",
+      "url": "https://www.businessinsider.com/uber-autonomous-vehicles-driverless-cancelled-project-catching-up-waymo-tesla-2026-3",
+      "category": "tech"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860086399179990396",
-      "title": "湖南2026年将投资21.4亿元推进长沙高铁西站综..",
-      "summary": "3月18日,2026年全省道路运输工作暨春运总结、二季度安全生产工作会议召开。记者从会上获悉,2026年将投资21.4亿元推进长沙高铁西站综合客运枢纽、怀化公铁联运物流园综合客货运枢纽、普通客货运站和...",
-      "source": "News_Baidu",
+      "id": "https://www.marketscreener.com/news/uber-s-partnerships-and-investments-in-self-driving-technology-ce7e5edede8efe2c",
+      "title": "Uber's partnerships and investments in self-driving technology",
+      "summary": "Uber Technologies has amassed partnerships with nearly two dozen autonomous vehicle technology companies across every use case, from robotaxis and tru...",
+      "source": "MarketScreener",
       "date": "2026-03-19",
-      "url": "http://baijiahao.baidu.com/s?id=1860086399179990396",
-      "category": "industry"
+      "url": "https://www.marketscreener.com/news/uber-s-partnerships-and-investments-in-self-driving-technology-ce7e5edede8efe2c",
+      "category": "tech"
     },
     {
       "id": "https://www.marketscreener.com/news/uber-to-invest-up-to-1-25bn-in-rivian-for-robotaxi-push-ce7e5ededc8ff021",
@@ -172,15 +181,6 @@
       "date": "2026-03-19",
       "url": "https://indianexpress.com/article/world/waymo-self-driving-car-passenger-safety-san-francisco-attacks-10590803/",
       "category": "industry"
-    },
-    {
-      "id": "https://techstartups.com/2026/03/19/uber-to-invest-1-25-billion-in-rivian-to-launch-50000-robotaxis-across-global-markets/",
-      "title": "Uber to invest $1.25 billion in Rivian to launch 50,000 robotaxis across global markets",
-      "summary": "Uber is making one of its boldest moves yet in autonomous driving, backing Rivian with a multibillion-dollar bet to bring robotaxis to the streets at ...",
-      "source": "TechStartups.com",
-      "date": "2026-03-19",
-      "url": "https://techstartups.com/2026/03/19/uber-to-invest-1-25-billion-in-rivian-to-launch-50000-robotaxis-across-global-markets/",
-      "category": "product"
     }
   ]
 }
