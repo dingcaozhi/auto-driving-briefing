@@ -1,132 +1,150 @@
 {
-  "lastUpdated": "2026-03-27 03:45:26",
-  "totalCount": 23,
+  "lastUpdated": "2026-03-28 03:31:00",
+  "totalCount": 25,
   "news": [
     {
-      "id": "https://www.bjnews.com.cn/detail/1774530625129460.html",
-      "title": "北京市对4类重点群体就业技能提升进行补助,高级工可达两千多元",
+      "id": "http://baijiahao.baidu.com/s?id=1860805238594826994",
+      "title": "突破全球“最严”准入:蘑菇车联进入新加坡公交序列背..",
+      "summary": "自动驾驶行业的2026年,正在被一种前所未有的“现实主义”底色所覆盖。...",
+      "source": "News_Baidu",
+      "date": "2026-03-27",
+      "url": "http://baijiahao.baidu.com/s?id=1860805238594826994",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1009020",
+      "title": "营收1095.41亿元、净利70.19亿元 中国重汽2025年财报交出亮眼答卷-FX168",
+      "summary": "3月27日晚间,中国重汽(03808.HK)发布的2025年度业绩公告显示,公司以重卡销量登顶全球第一的历史性突破,交出了一份高质量发展答卷。2025年,中国重汽实现营业收入1095.41亿元,同比增长15.2%;实现归母净利润70.19亿元,同比增长19.8%,均创历史同期最高纪录,行业龙头地...",
+      "source": "Fx168News",
+      "date": "2026-03-27",
+      "url": "https://www.fx168news.com/article/1009020",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/0/933/505.htm",
+      "title": "小米汽车谈“融资租赁方案”:合法合规,网上所说有违规风险、有套路均不属实",
+      "summary": "IT之家 3 月 27 日消息,小米汽车今日发布答网友问(第 222 集),对“新一代 SU7 新推出的功能,老车主可以 OTA 吗?”“都是 7 年低息金融方案的承接方,融资租赁公司和银行有什么不同吗?”等问题进行了解答。 IT之家整理如下: 1、新一代 SU7 新推出的功能,老车主可以 OTA ...",
+      "source": "Ithome",
+      "date": "2026-03-27",
+      "url": "https://www.ithome.com/0/933/505.htm",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.prnasia.com/story/527155-1.shtml",
+      "title": "MemoryS 2026|江波龙首发SPU及iSA,端侧AI存储创新布局八大看点解读",
+      "summary": "深圳 2026年3月27日 /美通社/ -- 2026年3月27日,CFM | MemoryS 2026在深圳盛大启幕,全球存储产业链精英齐聚,共探AI时代存储产业的变革与未来。江波龙董事长、总经理蔡华波先生受邀出席并发表《集成存储 探索端侧AI》主旨演讲,立足行业发展趋势与江波龙创新积淀,从定位、...",
+      "source": "Prnasia",
+      "date": "2026-03-27",
+      "url": "https://www.prnasia.com/story/527155-1.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://intimes.com.my/news2a/index.php/2018-07-09-11-40-04/item/111622-2",
+      "title": "缅甸推每周燃油配额措施 限一周仅可加2次油",
+      "summary": "(综合27日电)面对缅甸国内燃油供应吃紧情况,缅甸能源部宣布,将在下周起,依据车辆引擎排气量(Engine Capacity)设定每周购买燃油配额。 根据《泰国民族报》引述报道,在该新系统下,每辆交通工具每周可购买的然后总量,将取决于引擎马力。车主可选择每周一次性使用所有额度,或分成最多两次使用。 ...",
+      "source": "Intimes",
+      "date": "2026-03-27",
+      "url": "https://intimes.com.my/news2a/index.php/2018-07-09-11-40-04/item/111622-2",
+      "category": "industry"
+    },
+    {
+      "id": "https://news.cri.cn/20260327/4160dc8f-8e25-bc7a-bdd1-51d7fd635621.html",
+      "title": "从“种地”到“慧种地”:中国智慧春耕跑出“加速度”-国际在线",
+      "summary": "新华社南京3月27日电题:从“种地”到“慧种地”:中国智慧春耕跑出“加速度” 新华社记者何磊静 春日...",
+      "source": "Cri_Cn",
+      "date": "2026-03-27",
+      "url": "https://news.cri.cn/20260327/4160dc8f-8e25-bc7a-bdd1-51d7fd635621.html",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/03-27/10594155.shtml",
+      "title": "“人工智能+产业”论坛在京举办 “全国场景供需对接平台”启动",
+      "summary": "中新网北京3月27日电 (记者 吕少威)新一轮科技革命与产业变革加速演进,人工智能成为全球产业竞争的核心赛道。27日,2026中关村论坛年会“人工智能+产业”论坛举行。论坛上,全国场景供需对接平台正式启动。...",
+      "source": "Chinanews",
+      "date": "2026-03-27",
+      "url": "https://www.chinanews.com.cn/cj/2026/03-27/10594155.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1774614974129353.html",
+      "title": "曹操出行上市后首份年报:去年营收破200亿,四季度经调整盈利",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-03-26",
-      "url": "https://www.bjnews.com.cn/detail/1774530625129460.html",
+      "date": "2026-03-27",
+      "url": "https://www.bjnews.com.cn/detail/1774614974129353.html",
       "category": "industry"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3282907",
-      "title": "小马智行:去年Robotaxi业务收入翻倍 今年加速海内外超20城落地|财报解读",
-      "summary": "小马智行:去年Robotaxi业务收入翻倍 今年加速海内外超20城落地|财报解读...",
-      "source": "Investing_Cn",
-      "date": "2026-03-26",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3282907",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.orientaldaily.com.my/news/nation/2026/03/26/806813",
-      "title": "陆交局:驾照过期逾36个月者 不享有BUDI95资格",
-      "summary": "(吉隆坡26日讯)陆路交通局总监拿督艾迪表示,驾照逾期超过36个月的大马人,将不符合昌明慈悯RON95燃油补贴计划(BUDI95)的资格。他解释,BUDI95补贴的资格取决于驾照状态,并提醒所有持证者,须在规定期限内更新驾照,确保驾照有效,以维持补贴资格。“所谓有效驾照,是指自上一次更新日起未逾期超...",
-      "source": "Orientaldaily",
-      "date": "2026-03-26",
-      "url": "https://www.orientaldaily.com.my/news/nation/2026/03/26/806813",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860641099274734463",
-      "title": "石泉路街道丨《解放日报》头版头条报道:落实上海“十..",
-      "summary": "3月23日,《解放日报》头版头条报道普陀:“核心增长走廊”资源奔涌3月的上海,春江水暖、河清岸绿。在普陀区大渡河路上的信泰中心,热气腾腾的氛围已早早荡漾开来。从信泰中心42楼眺望,沪宁高速入城段车流不...",
+      "id": "http://baijiahao.baidu.com/s?id=1860808917039634336",
+      "title": "衣食住行皆科技:2026中关村论坛上的“未来生活”",
+      "summary": "国际在线报道(记者马睿丽):2026中关村论坛年会如约而至,这场以“科技创新与产业创新深度融合”为主题的科技盛会,让人们真切感受到:科技正在悄然改变我们的衣食住行。AR眼镜让“交流”无障碍在论坛开幕式...",
       "source": "News_Baidu",
-      "date": "2026-03-26",
-      "url": "http://baijiahao.baidu.com/s?id=1860641099274734463",
+      "date": "2026-03-27",
+      "url": "http://baijiahao.baidu.com/s?id=1860808917039634336",
       "category": "industry"
     },
     {
-      "id": "https://www.ithome.com/0/933/099.htm",
-      "title": "Epic 喜加二:《Hyper Echelon》《Havendock》游戏免费领取",
-      "summary": "IT之家 3 月 26 日消息,Epic 本周送出的游戏是《Hyper Echelon》《Havendock》,下周送出的游戏是《Clone Drone in the Danger Zone》。 领取链接: 《Hyper Echelon》 , 《Havendock》 IT之家附《Hyper Eche...",
-      "source": "Ithome",
-      "date": "2026-03-26",
-      "url": "https://www.ithome.com/0/933/099.htm",
-      "category": "industry"
-    },
-    {
-      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3282776",
-      "title": "RBC Capital重申特斯拉股票跑赢大盘评级,目标价500美元",
-      "summary": "RBC Capital重申特斯拉股票跑赢大盘评级,目标价500美元...",
-      "source": "Investing_Cn",
-      "date": "2026-03-26",
-      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3282776",
-      "category": "industry"
-    },
-    {
-      "id": "https://news.seehua.com/post/1459441",
-      "title": "男女骗走100公升柴油 误导油站向后方司机拿钱后逃走",
-      "summary": "(合艾26日讯) 泰南宋卡府合艾一间PTT加油站发生一宗令人啼笑皆非的骗油事件,一对驾驶白色皮卡车的男女,在加 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-03-26",
-      "url": "https://news.seehua.com/post/1459441",
-      "category": "industry"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0326/233920.shtml",
-      "title": "售15.19万-17.99万元,比亚迪宋Ultra EV开启B级SUV闪充时代",
-      "summary": "3月26日,比亚迪宋Ultra EV 正式上市,共4款车型,包括605KM领先型、605KM超越型、710KM超越型和710KM卓越型,官方指导价15.19万-17.99万元。新车全系搭载比亚迪第二代刀片电池及闪充技术,同时拥有710公里CLTC纯电续航、天神之眼B、云辇-C、TBC高速爆胎稳行系统...",
-      "source": "Imobile",
-      "date": "2026-03-26",
-      "url": "http://news.imobile.com.cn/articles/2026/0326/233920.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1860727768029077920",
-      "title": "“龙虾”一键领养、暖心机器人陪伴,徐汇智造亮相全球..",
-      "summary": "3月27日至29日,全球开发者先锋大会(gdps)将在徐汇滨江精彩启幕,本届大会以“人工智能+”为核心,汇聚全球前沿ai技术与产品。会前探营中,记者走进徐汇本土参展企业,解锁两大重磅亮点——零基础可......",
+      "id": "http://baijiahao.baidu.com/s?id=1860799798541562128",
+      "title": "两部门:根据空间业务实际占用带宽向卫星运营商收取无..",
+      "summary": "【两部门:根据空间业务实际占用带宽向卫星运营商收取无线电频率占用费】财联社3月27日电,国家发展改革委、财政部发布关于优化完善无线电频率占用费标准的通知,一、优化空间业务收费标准体系。非对地静止轨道(...",
       "source": "News_Baidu",
-      "date": "2026-03-26",
-      "url": "http://baijiahao.baidu.com/s?id=1860727768029077920",
+      "date": "2026-03-27",
+      "url": "http://baijiahao.baidu.com/s?id=1860799798541562128",
       "category": "industry"
     },
     {
-      "id": "https://cn.investing.com/news/transcripts/article-93CH-3282443",
-      "title": "财报电话会议实录:小马智行第四季度每股收益超预期,首次实现盈利",
-      "summary": "财报电话会议实录:小马智行第四季度每股收益超预期,首次实现盈利...",
+      "id": "http://baijiahao.baidu.com/s?id=1860819020185062926",
+      "title": "寻找我身边的温暖|扶淇河畔施援手,文明新风润龙城",
+      "summary": "3月24日上午,潍坊诸城市密州路扶淇河大桥上,一位老人驾驶电动三轮车突发意外侧翻被困,诸城市创城办四名工作人员途经此处,第一时间联手施救,用凡人善举温暖了龙城大地。当日上午9时许,密州路扶淇河大桥上车...",
+      "source": "News_Baidu",
+      "date": "2026-03-27",
+      "url": "http://baijiahao.baidu.com/s?id=1860819020185062926",
+      "category": "industry"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3284936",
+      "title": "“宏图计划5.0”猜想:Wedbush预测特斯拉(TSLA.US)与SpaceX或于明年迎来历史性合并",
+      "summary": "“宏图计划5.0”猜想:Wedbush预测特斯拉(TSLA.US)与SpaceX或于明年迎来历史性合并...",
       "source": "Investing_Cn",
-      "date": "2026-03-26",
-      "url": "https://cn.investing.com/news/transcripts/article-93CH-3282443",
+      "date": "2026-03-27",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3284936",
       "category": "industry"
     },
     {
-      "id": "https://www.ithome.com/0/933/080.htm",
-      "title": "大众、小鹏合作首款车型:中大型 SUV 与众 08 预售,23.99 万-29.99 万元",
-      "summary": "IT之家 3 月 26 日消息,今天晚间,大众汽车与小鹏汽车联合开发的首款车型 —— 中大型 SUV 与众 08 正式开启预售,价格区间为 23.99 万元-29.99 万元 。 据悉,该车被视为大众“在中国,为中国”战略的重要落地成果,搭载 800 伏高压超快充平台,全系标配小鹏汽车 VLA 全场...",
-      "source": "Ithome",
-      "date": "2026-03-26",
-      "url": "https://www.ithome.com/0/933/080.htm",
+      "id": "http://baijiahao.baidu.com/s?id=1860817352143576565",
+      "title": "2026中关村论坛年会|专访光轮智能总裁杨海波:数..",
+      "summary": "春回大地,天气转暖,一台台满载苏打水的配送机器人穿梭在2026中关村论坛年会现场,供与会嘉宾方便快捷地取用。而让一台机器人——不管是人形、轮式,抑或机械臂、灵巧手,稳定抓取一瓶矿泉水、精准控制力度拧开...",
+      "source": "News_Baidu",
+      "date": "2026-03-27",
+      "url": "http://baijiahao.baidu.com/s?id=1860817352143576565",
       "category": "industry"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1774527725129417.html",
-      "title": "从iF奖看产业升级:欧定以创新引领中国“服装智造”新路径",
+      "id": "https://www.bjnews.com.cn/detail/1774612882129329.html",
+      "title": "情绪识别类的公司如何重塑人机交互?技术解析与市场格局透视",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-03-26",
-      "url": "https://www.bjnews.com.cn/detail/1774527725129417.html",
-      "category": "industry"
+      "date": "2026-03-27",
+      "url": "https://www.bjnews.com.cn/detail/1774612882129329.html",
+      "category": "tech"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1860727781262108651",
-      "title": "从“大车空跑”到“地铁接驳”:长沙公交开通地铁微巴..",
-      "summary": "当城市进入地铁时代,公交要往哪里开?这是全国公交行业共同面临的命题。交通运输部数据显示,2019年至2024年,城市公共汽电车在城市公共客运量中的比重从54%跌至36%。在长沙,地铁运营里程突破236...",
+      "id": "http://baijiahao.baidu.com/s?id=1860815285772416823",
+      "title": "DeepWay深向完成100台签约50台交付,携手..",
+      "summary": "3月26日,DeepWay深向与腾运物流在四川雅安举行100台签约暨50台智能新能源重卡交付仪式,并携手宁德时代正式启动成-雅-甘重卡走廊。...",
       "source": "News_Baidu",
-      "date": "2026-03-26",
-      "url": "http://baijiahao.baidu.com/s?id=1860727781262108651",
+      "date": "2026-03-27",
+      "url": "http://baijiahao.baidu.com/s?id=1860815285772416823",
       "category": "industry"
     },
     {
-      "id": "https://www.ithome.com/0/933/073.htm",
-      "title": "长城汽车魏牌赵永坡:智能驾驶路线上传感器越多未必越好,内耗反而抵消优势",
-      "summary": "IT之家 3 月 26 日消息,长城汽车魏牌 CEO 赵永坡昨日发布视频,谈及了智能驾驶路线的选择。他表示,特斯拉笃信纯视觉,国内多数车企选择激光雷达 + 视觉融合。 但传感器越多未必越好,内耗反而抵消优势 。 赵永坡视频用气球举例,当搭载激光雷达 + 视觉融合方案的车辆在行驶过程中遇到了一个气球时...",
+      "id": "https://www.ithome.com/0/933/472.htm",
+      "title": "零跑 A10 小车确认搭载禾赛 ATX 激光雷达,全车共 27 个高精度感知硬件",
+      "summary": "IT之家 3 月 27 日消息,3 月 26 日晚, 零跑“智能精品长续航 SUV”新车 A10 正式上市 ,提供 505 激光雷达版,售价区间为 6.58 万-8.68 万元。 IT之家从禾赛科技官方获悉, 零跑 A10 小车 505 激光雷达版搭载含禾赛 ATX 激光雷达在内的 27 个高精度感...",
       "source": "Ithome",
-      "date": "2026-03-26",
-      "url": "https://www.ithome.com/0/933/073.htm",
-      "category": "industry"
+      "date": "2026-03-27",
+      "url": "https://www.ithome.com/0/933/472.htm",
+      "category": "tech"
     },
     {
       "id": "https://www.manilatimes.net/2026/03/26/tmt-newswire/globenewswire/pony-ai-inc-scales-with-160-robotaxi-revenues-growth-yoy-and-500-fare-charging-revenues-surge-yoy-in-q4-targeting-deployment-in-20-cities-by-year-end/2308172",
@@ -162,24 +180,6 @@
       "source": "Seeking Alpha",
       "date": "2026-03-25",
       "url": "https://seekingalpha.com/news/4568429-kodiak-ai-rallies-after-its-autonomous-driving-system-is-tasked-to-help-combat-attack-drones",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.bloomberg.com/news/articles/2026-03-25/autonomous-driving-firm-deeproute-ai-is-said-to-consider-hong-kong-ipo",
-      "title": "Autonomous Driving Firm DeepRoute.ai Is Said to Consider Hong Kong IPO",
-      "summary": "Chinese autonomous driving company DeepRoute.ai is considering an initial public offering in Hong Kong, people familiar with the matter said, joining ...",
-      "source": "Bloomberg",
-      "date": "2026-03-25",
-      "url": "https://www.bloomberg.com/news/articles/2026-03-25/autonomous-driving-firm-deeproute-ai-is-said-to-consider-hong-kong-ipo",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.prnewswire.co.uk/news-releases/global-autonomous-driving-software-market-to-reach-usd-4-4-billion-by-2032--driven-by-rising-integration-of-ai-powered-mobility-solutions-says-markntel-advisors-302721982.html",
-      "title": "Global Autonomous Driving Software Market to Reach USD 4.4 Billion by 2032, Driven by Rising Integration of AI-Powered Mobility Solutions, Says MarkNtel Advisors",
-      "summary": "/PRNewswire/ -- According to the latest market research study published by MarkNtel Advisors, the Global Autonomous Driving Software Market is project...",
-      "source": "PR Newswire UK",
-      "date": "2026-03-25",
-      "url": "https://www.prnewswire.co.uk/news-releases/global-autonomous-driving-software-market-to-reach-usd-4-4-billion-by-2032--driven-by-rising-integration-of-ai-powered-mobility-solutions-says-markntel-advisors-302721982.html",
       "category": "industry"
     }
   ]
