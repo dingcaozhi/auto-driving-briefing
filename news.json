@@ -1,95 +1,167 @@
 {
-  "lastUpdated": "2026-04-04 03:28:55",
-  "totalCount": 18,
+  "lastUpdated": "2026-04-05 03:51:30",
+  "totalCount": 26,
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861412838399240311",
-      "title": "全省劳动和技能竞赛发动百万职工大练兵 在产业链最前..",
-      "summary": "伴随着“嗡嗡”的轰鸣声,无人机螺旋桨开始极速旋转。赛场上,选手们目光如炬,操作无人机在10分钟内穿越开元寺、清源山老君岩等地标,完成一系列技能考核,在空中赛道一较高下。3月25日,泉州市举办2026年...",
-      "source": "News_Baidu",
-      "date": "2026-04-03",
-      "url": "http://baijiahao.baidu.com/s?id=1861412838399240311",
-      "category": "industry"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aggmoq67/",
-      "title": "北京率先启动!L2-L4级智能网联汽车专属保险来了",
-      "summary": "智能驾驶车主的福音来了!3月29日,2026中关村论坛年会上传来重磅消息,北京率先在全国启动智能网联新能源汽车商业保险的开发应用,成功打破现有车险无法适配智能驾驶场景的困境,全面覆盖L2至L4全级别智能网联新能源汽车,如今已进入4月,这项专属保险的开发工......",
+      "id": "https://post.smzdm.com/p/aww3wz5g/",
+      "title": "CVT变速箱寿命解析:30万公里设计背后的技术与维护逻辑",
+      "summary": "CVT变速箱常因“娇气”、“钢带打滑”等标签被消费者质疑耐用性。然而,从变速器开发工程角度来看,CVT的设计寿命标准为30万公里,足以满足普通车主约15年的使用需求。这一可靠性指标建立在严苛的测试标准、核心材料技术的迭代以及智能保护逻辑之上,同时也对车主......",
       "source": "Smzdm",
-      "date": "2026-04-03",
-      "url": "https://post.smzdm.com/p/aggmoq67/",
-      "category": "industry"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aomlg94m/",
-      "title": "技术狂飙!5家车企密集亮底牌,快充、智驾集体突破",
-      "summary": "近期(3月底至4月初)的车圈,堪称一场“技术发布会盛宴”!小鹏、鸿蒙智行、比亚迪、奇瑞、极氪五大厂商密集亮出核心技术底牌,从智能驾驶到动力电池,从超级快充到固态电池,全方位展现核心实力,彻底拉开中国新能源汽车“内力比拼”的序幕,行业竞争也正式从“拼颜值、......",
-      "source": "Smzdm",
-      "date": "2026-04-03",
-      "url": "https://post.smzdm.com/p/aomlg94m/",
+      "date": "2026-04-04",
+      "url": "https://post.smzdm.com/p/aww3wz5g/",
       "category": "tech"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861393983492315090",
-      "title": "从一棵树到一度电,从生态固碳到能源减碳,同济宝藏“..",
-      "summary": "又到一年樱花季,同济的樱花大道,漫天飞“雪”。你知道,同济大学有多少棵树吗?每一棵树能吸收多少碳?同济“最爱学习的鸟儿”住在哪里?校园建筑能耗又是多少?......这些都能在同济大学“智慧校园”的动态电子时空地图上找到答案。“从...",
-      "source": "News_Baidu",
-      "date": "2026-04-03",
-      "url": "http://baijiahao.baidu.com/s?id=1861393983492315090",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-03/10598612.shtml",
-      "title": "张雪夺冠背后的“隐形力量”:全国每出口5辆摩托车,就有1辆产自这里",
-      "summary": "北京时间3月28日,世界超级摩托车锦标赛(WSBK)葡萄牙站,张雪机车820RR-RS赛车以近4秒优势夺冠,一举打破了欧美日品牌长达数十年的垄断。...",
-      "source": "Chinanews",
-      "date": "2026-04-03",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-03/10598612.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861414907818610025",
-      "title": "擎旗领战挽强弓,他们把备战打仗指挥棒立在练兵备战最..",
-      "summary": "擎旗领战挽强弓——来自岭南一线演兵场的调查报告■解放军报记者陈典宏李志彬杨晓敏南部战区陆军某旅组织营战术训练(资料照片)。谭文鹏摄发言直击矛盾不回避,既议问题本质又提解决方案......",
-      "source": "News_Baidu",
-      "date": "2026-04-03",
-      "url": "http://baijiahao.baidu.com/s?id=1861414907818610025",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.prnasia.com/story/528065-1.shtml",
-      "title": "广汽一季度海外业务强劲增长,AION V与香港市场表现亮眼",
-      "summary": "广州 2026年4月3日 /美通社/ -- 广汽3月份海外业务延续强劲势头,自主品牌月销量达17,031辆。一季度累计销量为42,165辆,同比增长86%。在\"One GAC 2.0\"战略和\"科技广汽,生态出海\"主题的推动下,广汽正加速从产品出口向全球运营转型。 AION V继续保持领先地位,3月销...",
-      "source": "Prnasia",
-      "date": "2026-04-03",
-      "url": "https://www.prnasia.com/story/528065-1.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/04-03/10598562.shtml",
-      "title": "青海万余名中小学生同步观影 开启一堂航天科普与思政教育课",
-      "summary": "中新网西宁4月3日电 题:青海万余名中小学生同步观影 开启一堂航天科普与思政教育课...",
-      "source": "Chinanews",
-      "date": "2026-04-03",
-      "url": "https://www.chinanews.com.cn/sh/2026/04-03/10598562.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ad7xo2vk/",
-      "title": "张雪机车WSBK夺冠:体育营销助力麻阳红糖脱销",
-      "summary": "2026年3月底,葡萄牙站WSBK中量级赛事中,张雪机车打破国际豪强37年的垄断,由法国车手瓦伦丁·德比斯驾驶53号赛车连夺两冠。这一竞技成绩不仅刷新了中国摩托车制造在国际赛事的历史,也通过车身上的“麻阳古法红糖”标识,引发了一场体育营销带动乡村振兴的商......",
+      "id": "https://post.smzdm.com/p/a5rerovl/",
+      "title": "花30多万买330Li,半年后我后悔了吗?",
+      "summary": "去年9月提的25款330Li,目前已经行驶4300公里,度过了新车兴奋期。针对这款车的用车体验,从实际驾驶感受出发,总结其优缺点,供准备购买3系的消费者参考。01用车槽点:原厂配置的妥协轮胎配置存在差异原厂轮胎存在“抽奖”情况,部分车主抽到的是普利司通,......",
       "source": "Smzdm",
-      "date": "2026-04-03",
-      "url": "https://post.smzdm.com/p/ad7xo2vk/",
+      "date": "2026-04-04",
+      "url": "https://post.smzdm.com/p/a5rerovl/",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861446549723166619",
-      "title": "疏解人员扎根雄安共创美好未来",
-      "summary": "近日,在雄安气象人工智能创新研究院展示大厅,窦则胜(左)和工作人员正在探讨人工智能气象预报科学模型“风源”的迭代升级工作。本报记者李畅摄□本报记者李畅3月23日,习近平总书记来到河北雄安新区考察。...",
+      "id": "https://www.ithome.com/0/936/059.htm",
+      "title": "一汽奥迪 A6L e-tron 车型 4 月 10 日正式上市:搭载华为乾崑智驾,预售 31.3 万元起",
+      "summary": "IT之家 4 月 4 日消息,一汽奥迪 A6L e-tron 将于 4 月 10 日正式上市,届时奥迪 Q6L e-tron 家族也将同步焕新登场。奥迪 A6L e-tron 已于 3 月 25 日开启预售,共推出 4 款车型,预售价 31.3~44.3 万元。 外观方面,新车保留了家族式的大嘴中网...",
+      "source": "Ithome",
+      "date": "2026-04-04",
+      "url": "https://www.ithome.com/0/936/059.htm",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260404-%E7%89%B9%E6%9C%97%E6%99%AE-%E7%95%99%E7%BB%99%E4%BC%8A%E6%9C%97%E7%9A%84%E6%97%B6%E9%97%B4%E4%B8%8D%E5%A4%9A%E4%BA%86%EF%BC%8C48%E5%B0%8F%E6%97%B6%E5%90%8E%EF%BC%8C%E5%9C%B0%E7%8B%B1%E4%B9%8B%E9%97%A8%E5%B0%86%E9%99%8D%E4%B8%B4",
+      "title": "特朗普:留给伊朗的时间不多了,48小时后,地狱将降临到他们头上",
+      "summary": "美国总统特朗普(Donald Trump)周六在其社媒平台“真相社交”发文称,“还记得我曾给伊朗十天时间,要么达成协议,要么开放霍尔木兹海峡吗?时间不多了——48小时后,地狱将降临到他们头上。荣耀归于上帝!” 此前,特朗普26日发文称,“应伊朗政府请求”,他将对伊朗能源设施的“摧毁”行动推迟10天,...",
+      "source": "Rfi_Fr",
+      "date": "2026-04-04",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260404-%E7%89%B9%E6%9C%97%E6%99%AE-%E7%95%99%E7%BB%99%E4%BC%8A%E6%9C%97%E7%9A%84%E6%97%B6%E9%97%B4%E4%B8%8D%E5%A4%9A%E4%BA%86%EF%BC%8C48%E5%B0%8F%E6%97%B6%E5%90%8E%EF%BC%8C%E5%9C%B0%E7%8B%B1%E4%B9%8B%E9%97%A8%E5%B0%86%E9%99%8D%E4%B8%B4",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/0/936/058.htm",
+      "title": "何小鹏:中国汽车行业已进入转折最关键阶段,规模只是第一个门槛",
+      "summary": "IT之家 4 月 4 日消息,4 月 2 日,小鹏集团董事长、CEO 何小鹏在接受澎湃新闻等媒体采访时指出,时至今日,规模已经不是汽车行业最核心的变量。 他认为:“从去年开始的 4-5 年左右, 是中国汽车行业转折最关键的 4-5 年 。规模很重要,但是规模不是绝对的,有很多的规模其实价值并不大。”...",
+      "source": "Ithome",
+      "date": "2026-04-04",
+      "url": "https://www.ithome.com/0/936/058.htm",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861539170047171639",
+      "title": "从“云品出滇”到“智运西南”,欧马可Z以硬核实力助..",
+      "summary": "3月22日,以“高端传承智慧新生”为主题的欧马可Z智慧生态高端轻卡上市发布会在云南昆明盛大举行。来自云南各地的经销商、客户齐聚春城,近距离感受欧马可Z“尝鲜不踩坑、悦己不将就、稳赢不费力”的独特魅力。...",
       "source": "News_Baidu",
-      "date": "2026-04-03",
-      "url": "http://baijiahao.baidu.com/s?id=1861446549723166619",
+      "date": "2026-04-04",
+      "url": "http://baijiahao.baidu.com/s?id=1861539170047171639",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861544396771866555",
+      "title": "做人形机器人,不是拼人头:马斯克与王兴兴正在改写规..",
+      "summary": "人多即强者——这条在众多行业通行的法则,在人形机器人这条赛道上,可能正要失效。近日,一张合照引爆科技圈。特斯拉Optimus全员大合影曝光,囊括研发、采购、测试等,总团队仅约200多人。这个规模,甚至...",
+      "source": "News_Baidu",
+      "date": "2026-04-04",
+      "url": "http://baijiahao.baidu.com/s?id=1861544396771866555",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861432161264422694",
+      "title": "清明假期,北京这些路段容易堵!交管提示出行注意",
+      "summary": "清明节假期临近,4月4日(周六)至6日(周一)放假,共3天。假期机动车尾号不限行,高速公路7座及以下小客车免费通行。市民祭扫、踏青出游等出行叠加,各条高速公路也将迎来车流高峰。为有效引导市民群众理性、...",
+      "source": "News_Baidu",
+      "date": "2026-04-04",
+      "url": "http://baijiahao.baidu.com/s?id=1861432161264422694",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/apq8qzg2/",
+      "title": "别克首款纯电MPV GL8陆尊 PHEV核心实力解析",
+      "summary": "别克首款纯电MPV GL8陆尊纯电版已开启预售,作为行业内首款基于900V高压平台打造的MPV,该车型在补能效率、动态性能及智能驾驶方面进行了全面升级。以下为该车型的核心产品力解析。01核心参数:续航与充电项目参数/表现电池容量96度CLTC续航601公......",
+      "source": "Smzdm",
+      "date": "2026-04-04",
+      "url": "https://post.smzdm.com/p/apq8qzg2/",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861536814375390839",
+      "title": "重庆广阳岛一飞行器坠落,机上两人受伤,游客协力施救..",
+      "summary": "据新华社报道,4月4日下午,重庆广阳岛发生一起固定三角翼飞行器坠落事故,机上两人受伤,已送医治疗。红星新闻记者从重庆市南岸区文化和旅游发展委员会获悉,该飞行器项目是否经文旅部门核准,尚在核查。▲飞行器...",
+      "source": "News_Baidu",
+      "date": "2026-04-04",
+      "url": "http://baijiahao.baidu.com/s?id=1861536814375390839",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861502213594298193",
+      "title": "潮评丨泰国总理改乘中国电动车背后的机遇与挑战",
+      "summary": "潮新闻评论员项向荣新能源汽车零部件有序下线。据视觉中国“加不上油了!”这并非某个司机的街头抱怨,而是当下全球不少消费者面对持续攀升的油价时内心的真实呐喊。在这场由地缘冲突引爆的能源焦虑中,中国电动汽车...",
+      "source": "News_Baidu",
+      "date": "2026-04-04",
+      "url": "http://baijiahao.baidu.com/s?id=1861502213594298193",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861498024420418707",
+      "title": "「祖国好 家乡美」3辆专线公交暖心守护148名学子..",
+      "summary": "专线开通。吴婷婷李颖红摄青海新闻网·江源新闻客户端讯4月1日放学铃响,海西蒙古族藏族自治州德令哈市滨河路小学门口渐渐热闹起来,身着蓝色校服的孩子们背着书包,有序走出校园。在校门一侧,3辆公交车早已整齐...",
+      "source": "News_Baidu",
+      "date": "2026-04-04",
+      "url": "http://baijiahao.baidu.com/s?id=1861498024420418707",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861544174547044839",
+      "title": "场景在园区4|出门即测,半天攻克技术难题!成都这个..",
+      "summary": "下午两点,成都高新区新川创新科技园的地下停车场。一辆SUV缓缓驶入,驾驶员推门下车,低头在手机上点了一下,车门自动锁上,车子自己开走了。它绕过一根立柱,避让了一辆正在倒车的网约车,精准地拐进一个车位,...",
+      "source": "News_Baidu",
+      "date": "2026-04-04",
+      "url": "http://baijiahao.baidu.com/s?id=1861544174547044839",
+      "category": "tech"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861542085391870804",
+      "title": "“古董”战机纷纷上战场,暴露美军装备尴尬",
+      "summary": "随着美以对伊朗动武进入第5周,有个现象逐渐引起外界关注:美军赖以作战的多型武器装备,岁数似乎都有点大。据《纽约时报》4月1日报道,五角大楼称将派遣18架A-10“疣猪”攻击机前往中东,准备参加美军可能...",
+      "source": "News_Baidu",
+      "date": "2026-04-04",
+      "url": "http://baijiahao.baidu.com/s?id=1861542085391870804",
+      "category": "industry"
+    },
+    {
+      "id": "https://news.seehua.com/post/1463756",
+      "title": "温夏妮:严重疏忽致死是重大社会伤害 鲁莽醉酒驾驶致死新法需引入",
+      "summary": "(古晋4日讯)国会受促严正考虑引入新罪行,即有关“因严重鲁莽或醉酒驾驶导致死亡”的特定法定罪行,以将有关罪行与 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-04-04",
+      "url": "https://news.seehua.com/post/1463756",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/0/936/041.htm",
+      "title": "别克至境 E7 SUV 展车已到店:4 月 10 日预售,CLTC 综合续航超 1600 公里",
+      "summary": "IT之家 4 月 4 日消息,别克至境品牌首款 SUV—— 至境 E7 展车及试驾车已于本周在全国陆续到店,覆盖 250 个城市的 550 家经销店。该车型将于 4 月 10 日开启预售,并计划在 4 月下旬开始交付。 外观方面,至境 E7 延续了至境 SUV 先导车的飞翼造型,采用新能源车型常见的...",
+      "source": "Ithome",
+      "date": "2026-04-04",
+      "url": "https://www.ithome.com/0/936/041.htm",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/0/936/055.htm",
+      "title": "千里科技 2025 年营收 99.99 亿元同比增长 42%,AI 转型与汽车业务双轮驱动",
+      "summary": "IT之家 4 月 4 日消息,千里科技于 4 月 3 日发布 2025 年年度报告。报告显示,2025 年公司实现营业收入 99.99 亿元,同比增长 42.13%,主要系汽车业务、摩托车业务销量增长,带动收入增加;实现归属于上市公司股东的净利润 0.84 亿元, 同比增长 110.93% 。 报告...",
+      "source": "Ithome",
+      "date": "2026-04-04",
+      "url": "https://www.ithome.com/0/936/055.htm",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/az8w8580/",
+      "title": "小鹏X9超级增程春节长测,两家七口来回汕头是什么体验?车漫部落的微博视频",
+      "summary": "小鹏X9超级增程版作为一款面向年轻家庭的MPV,上市后数据显示其用户中57.2%为90后,女性用户占比22%。为了验证其在春节家庭出行场景下的实际表现,本次测试模拟了广州至汕头往返、两家七口满载的用车环境,重点考察了长途续航、空间装载、智能驾驶及细节功能......",
+      "source": "Smzdm",
+      "date": "2026-04-04",
+      "url": "https://post.smzdm.com/p/az8w8580/",
       "category": "industry"
     },
     {
@@ -102,66 +174,12 @@
       "category": "industry"
     },
     {
-      "id": "https://www.straitstimes.com/life/motoring/autonomous-vehicles-you-can-take-my-commute-but-not-my-sunday",
-      "title": "Autonomous vehicles, you can take my commute but not my Sunday",
-      "summary": "Let's preserve the joy of driving, just for the sake of it. Read more at straitstimes.com....",
-      "source": "The Straits Times",
-      "date": "2026-04-03",
-      "url": "https://www.straitstimes.com/life/motoring/autonomous-vehicles-you-can-take-my-commute-but-not-my-sunday",
-      "category": "industry"
-    },
-    {
       "id": "https://interestingengineering.com/transportation/wuhan-robotaxi-outage-100-vehicles",
       "title": "Passengers stranded after 100 robotaxis fail in Wuhan traffic",
       "summary": "A major robotaxi outage in Wuhan saw self-driving cars stop on busy roads, highlighting risks in autonomous vehicle systems....",
       "source": "Interesting Engineering",
       "date": "2026-04-01",
       "url": "https://interestingengineering.com/transportation/wuhan-robotaxi-outage-100-vehicles",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.telegraph.co.uk/cars/news/human-drivers-fallible-self-driving-cars/",
-      "title": "A human driver is simply too fallible. Self-driving cars can’t come quickly enough",
-      "summary": "Many of us are lazy, impatient and impetuous – autonomous vehicles have the potential to save us from ourselves...",
-      "source": "The Telegraph",
-      "date": "2026-04-01",
-      "url": "https://www.telegraph.co.uk/cars/news/human-drivers-fallible-self-driving-cars/",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.straitstimes.com/asia/east-asia/baidu-robotaxis-freeze-in-chinas-wuhan-sparking-flurry-of-police-calls",
-      "title": "Baidu robotaxis freeze in China’s Wuhan, sparking flurry of police calls",
-      "summary": "The freeze raised concerns about the safety and reliability of autonomous driving technology. Read more at straitstimes.com....",
-      "source": "The Straits Times",
-      "date": "2026-04-01",
-      "url": "https://www.straitstimes.com/asia/east-asia/baidu-robotaxis-freeze-in-chinas-wuhan-sparking-flurry-of-police-calls",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/04/01/tmt-newswire/globenewswire/weride-and-grab-officially-launch-singapores-first-autonomous-public-ride-service-in-punggol/2312173",
-      "title": "WeRide and Grab Officially Launch Singapore's First Autonomous Public Ride Service in Punggol",
-      "summary": "The Ai.R (Autonomously Intelligent Ride) service is operated by Grab and features WeRide’s GXR and Robobus autonomous vehicle (AV) models. The Ai.R fl...",
-      "source": "The Manila Times",
-      "date": "2026-04-01",
-      "url": "https://www.manilatimes.net/2026/04/01/tmt-newswire/globenewswire/weride-and-grab-officially-launch-singapores-first-autonomous-public-ride-service-in-punggol/2312173",
-      "category": "product"
-    },
-    {
-      "id": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/",
-      "title": "Toyota's Woven Capital appoints new CIO and COO in push for finding the 'future of mobility'",
-      "summary": "Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomous driving....",
-      "source": "TechCrunch",
-      "date": "2026-04-01",
-      "url": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.wistv.com/2026/03/31/man-arrested-dui-after-being-found-passed-out-intoxicated-moving-tesla-police-say/",
-      "title": "Man arrested for DUI after being found passed out, intoxicated in moving Tesla, police say",
-      "summary": "Police in California have arrested a man for driving under the influence after they say he was in an autonomous vehicle while passed out behind the wh...",
-      "source": "WIS10",
-      "date": "2026-03-31",
-      "url": "https://www.wistv.com/2026/03/31/man-arrested-dui-after-being-found-passed-out-intoxicated-moving-tesla-police-say/",
       "category": "industry"
     }
   ]
