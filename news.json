@@ -1,168 +1,33 @@
 {
-  "lastUpdated": "2026-04-10 03:55:39",
-  "totalCount": 27,
+  "lastUpdated": "2026-04-11 03:33:00",
+  "totalCount": 9,
   "news": [
     {
-      "id": "https://www.prnasia.com/story/528551-1.shtml",
-      "title": "长电科技发布2025年年报:全年营收创历史新高,利润总额同比增长",
-      "summary": "上海 2026年4月9日 /美通社/ -- 今日,全球领先的集成电路成品制造和技术服务提供商长电科技(600584.SH)公布了2025年年度报告。报告显示,公司2025全年实现营业收入人民币388.7亿元,同比增长8.1%,创历史新高;全年实现利润总额人民币17.4亿元,同比增长5.4%,归属于上...",
-      "source": "Prnasia",
-      "date": "2026-04-09",
-      "url": "https://www.prnasia.com/story/528551-1.shtml",
+      "id": "https://www.benzinga.com/markets/tech/26/04/51750506/beyond-chatbots-alibabas-290-million-push-for-real-world-ai-begins",
+      "title": "What's Going On With Alibaba Stock Friday?",
+      "summary": "Alibaba (BABA) pivots to \"world models,\" investing $290M in ShengShu to bridge AI with robotics and autonomous driving. Read the full update....",
+      "source": "Benzinga",
+      "date": "2026-04-10",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51750506/beyond-chatbots-alibabas-290-million-push-for-real-world-ai-begins",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/04/10/tmt-newswire/pr-newswire/ponyai-launches-ponyworld-20-a-self-improving-physical-ai-engine-for-autonomous-driving/2317810",
+      "title": "Pony.ai Launches PonyWorld 2.0, a Self-Improving Physical AI Engine for Autonomous Driving",
+      "summary": "New world model upgrade enables AI to diagnose its own weaknesses, guide targeted data collection, and support the next phase of large-scale L4 commer...",
+      "source": "The Manila Times",
+      "date": "2026-04-10",
+      "url": "https://www.manilatimes.net/2026/04/10/tmt-newswire/pr-newswire/ponyai-launches-ponyworld-20-a-self-improving-physical-ai-engine-for-autonomous-driving/2317810",
       "category": "product"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1775712118129524.html",
-      "title": "山西临汾:一座资源型城市的“云上”逆袭",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-04-09",
-      "url": "https://www.bjnews.com.cn/detail/1775712118129524.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://post.smzdm.com/p/am9dk8kd/",
-      "title": "夸张吗?张雪称豪爵踏板比国际其他品牌都要好!",
-      "summary": "也许是最近张雪机车实在太出圈了,但鉴于自身的驾驶技能,还无法驯服——820RR。不少摩友借着这波热度,又在呼吁张老板赶紧推出踏板车型。张老板对于这件事情也做出了回应,他亲自发视频说“虽然我们也会出踏板车,但更多是偏玩乐属性的运动类车型;其实国内豪爵做踏板......",
-      "source": "Smzdm",
-      "date": "2026-04-09",
-      "url": "https://post.smzdm.com/p/am9dk8kd/",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.ithome.com/0/937/580.htm",
-      "title": "小米汽车:未来 YU7、第一代 SU7、 SU7 Ultra 将通过 OTA 推送把萌宠“放到”车机功能",
-      "summary": "IT之家 4 月 9 日消息,小米汽车官方今日继续更新答网友问(第 232 集),针对新一代 SU7 的车主管理模式有什么用、萌宠“放到”车机功能能否 OTA 下放给老车型等问题进行了解答。 IT之家附重点内容如下: 新一代 SU7 的车主管理模式是干什么用的? 车主管理模式可以让车主通过中控屏或手...",
-      "source": "Ithome",
-      "date": "2026-04-09",
-      "url": "https://www.ithome.com/0/937/580.htm",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.ithome.com/0/937/567.htm",
-      "title": "特斯拉被曝正开发全新紧凑型 SUV:在中国生产,比 Model 3 还便宜",
-      "summary": "北京时间 4 月 9 日,据路透社报道,四位知情人士称,特斯拉正在开发一款全新、更小、更便宜的电动 SUV。 据知情人士透露,特斯拉最近几周已联系供应商,讨论这款紧凑型 SUV 的计划细节。它将是一款全新车型,而非特斯拉现有 Model 3 或 Model Y 的改款版本。这些讨论涉及制造工艺以及多...",
-      "source": "Ithome",
-      "date": "2026-04-09",
-      "url": "https://www.ithome.com/0/937/567.htm",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.ithome.com/0/937/551.htm",
-      "title": "蔚来 ES9 旗舰 SUV 发布:电池租用预售价 42 万元起,号称“十一年体系创新集大成之作”",
-      "summary": "IT之家 4 月 9 日消息,蔚来今晚为 ES9 旗舰 SUV 举行了一场产品技术发布会。新车拥有超 40 项行业首创技术,号称蔚来十一年体系创新的集大成之作,是行政旗舰 SUV 的全新标杆, 预售价 42 万元起(电池租用方式购买) 。 行政豪华版:整车购买预售价 528,000 元起、电池租用方...",
-      "source": "Ithome",
-      "date": "2026-04-09",
-      "url": "https://www.ithome.com/0/937/551.htm",
+      "id": "https://www.marketscreener.com/news/pony-ai-launches-ponyworld-2-0-a-self-improving-physical-ai-engine-for-autonomous-driving-ce7e50d8dc80fe22",
+      "title": "Pony.ai launches Ponyworld 2.0, a self-improving physical AI engine for autonomous driving",
+      "summary": "Pony AI Inc:\nPony.ai launches Ponyworld 2.0, a self-improving physical AI engine for autonomous driving\n......",
+      "source": "MarketScreener",
+      "date": "2026-04-10",
+      "url": "https://www.marketscreener.com/news/pony-ai-launches-ponyworld-2-0-a-self-improving-physical-ai-engine-for-autonomous-driving-ce7e50d8dc80fe22",
       "category": "product"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260409-8868739",
-      "title": "大法官:AI时代剧变 企业律师应扮演“牧羊人”引领企业",
-      "summary": "生成式人工智能的崛起,并不意味着律师职业的终结,而是标志着一种“全新律师物种”的诞生。大法官梅达顺呼吁企业律师在剧变中担当“牧羊人”角色,引领企业在人工智能时代稳健前行。...",
-      "source": "Zaobao",
-      "date": "2026-04-09",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260409-8868739",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-09/10601158.shtml",
-      "title": "4个算力项目落子广州 总投资达48.39亿元",
-      "summary": "中新网广州4月9日电 (张璐 孙旭东)据广州黄埔官方9日消息,近日,在广州市算力新基建开工暨算力供需会上,4个算力项目(简称“项目”)集体开工。项目全部落子广州开发区、黄埔区,总投资达48.39亿元,建成后将新增智算规模超4万P,标志着广州实现单体“万卡万P”智算中心建设零的突破。...",
-      "source": "Chinanews",
-      "date": "2026-04-09",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-09/10601158.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0409/833183.shtml",
-      "title": "白犀牛为鑫源“装上大脑”,合资打造Robovan主机厂",
-      "summary": "",
-      "source": "Eeo",
-      "date": "2026-04-09",
-      "url": "http://www.eeo.com.cn/2026/0409/833183.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-09/10601166.shtml",
-      "title": "记者手记|油价高企助推购车需求转向——中国电动车在德国市场热度攀升",
-      "summary": "",
-      "source": "Chinanews",
-      "date": "2026-04-09",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-09/10601166.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861987347012288787",
-      "title": "普法+执法:护航苗乡侗寨道路畅安",
-      "summary": "4月9日,贵州省交通运输综合行政执法七支队十六大队深入剑河县柳川镇开展全民国家安全教育日普法宣传与执法检查行动。执法人员给村民进行普法宣传。万家加摄双语宣讲全覆盖,安全知识入民心。活动现场,执法人员通...",
-      "source": "News_Baidu",
-      "date": "2026-04-09",
-      "url": "http://baijiahao.baidu.com/s?id=1861987347012288787",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861985769357328012",
-      "title": "武汉雨水渐弱,今天晚高峰还有雨吗?刚刚预报:局地有..",
-      "summary": "本文转自【长江日报】;雨下了一天,目前武汉雨势逐渐减弱,今天晚高峰还有雨吗?武汉市气象台15时发布预报:过去3小时(9日12—15时),我市中部出现大雨到暴雨,南部、北部小到中雨,伴有雷电、短时强降水...",
-      "source": "News_Baidu",
-      "date": "2026-04-09",
-      "url": "http://baijiahao.baidu.com/s?id=1861985769357328012",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861989513053647397",
-      "title": "91岁“红姑娘”送来锦旗:夸赞70年时光流转背后的..",
-      "summary": "91岁的李世裕老人是重庆第一代“红姑娘”客运队的传奇驾驶员,作为见证这座城市公共交通70年发展的老人,她在近七八年乘坐118路公交车的过程中深有感触,决定将一面写着“长江后浪推前浪,一代更比一代强”的...",
-      "source": "News_Baidu",
-      "date": "2026-04-09",
-      "url": "http://baijiahao.baidu.com/s?id=1861989513053647397",
-      "category": "industry"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0409/234065.shtml",
-      "title": "内存太贵了!传部分厂商下一代超大杯机型或面临停更",
-      "summary": "【iMobile爱科技资讯】近日受近期存储芯片价格上涨影响,手机厂商正重新审视下一代产品的规划。根据数码闲聊站最新消息,由于内存采购成本大幅波动,部分厂商可能会暂停更新其旗舰系列中的“超大杯”机型。 由于DRAM与NAND闪存占整机成本比重上升,若维持超大杯原有的高规格存储配置,终端零售价可能出现明...",
-      "source": "Imobile",
-      "date": "2026-04-09",
-      "url": "http://news.imobile.com.cn/articles/2026/0409/234065.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861987846739058255",
-      "title": "新石器无人车加速交付中国邮政 年内已落地数十城市",
-      "summary": "近日,新石器无人车与中国邮政重庆市巴南分公司联合举行无人车交付仪式,正式交付新一批无人车。据了解,这批交付是新石器与中国邮政战略合作的最新一个城市的落地,有业内人士透露,仅今年以来,新石器就已向中国邮...",
-      "source": "News_Baidu",
-      "date": "2026-04-09",
-      "url": "http://baijiahao.baidu.com/s?id=1861987846739058255",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1861985928091948572",
-      "title": "惊!14岁少年开车上路,还搭载4人!幸被交警及时拦..",
-      "summary": "4月7日,淄博市交通管理支队高新区大队利用科技手段,依托稽查布控“三级联动”防控体系,现场查获一起严重交通违法案件——一名14岁未成年人无证驾驶机动车,竟违规搭载4名同伴,5人同车行驶。高新区大队第一...",
-      "source": "News_Baidu",
-      "date": "2026-04-09",
-      "url": "http://baijiahao.baidu.com/s?id=1861985928091948572",
-      "category": "industry"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aww30z6m/",
-      "title": "新能源车选购指南:明确需求与预算",
-      "summary": "现在新能源车确实热门,各人需求差异很大。建议你先明确自己的预算、常用场景和核心需求,比如更看重续航、智能驾驶还是空间。目前市场上热度高的车型,像问界M7、理想L系列、比亚迪汉、特斯拉Model Y和小鹏G7,它们的特点差异明显。问界和理想的增程式适合有里......",
-      "source": "Smzdm",
-      "date": "2026-04-09",
-      "url": "https://post.smzdm.com/p/aww30z6m/",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.ithome.com/0/937/573.htm",
-      "title": "零跑 Lafa5 Ultra 展车到店:具备全国城区领航辅助功能,本月上市",
-      "summary": "IT之家 4 月 9 日消息,零跑 Lafa5 顶配版本 ——Lafa5 Ultra 将于本月正式上市,并将亮相 2026 北京车展(IT之家注:4 月 24 日开幕)。 零跑汽车官方今日宣布 Lafa5 Ultra 展车在全国陆续到店,且终端试驾车已具备全国城区领航辅助功能。 Lafa5 Ultr...",
-      "source": "Ithome",
-      "date": "2026-04-09",
-      "url": "https://www.ithome.com/0/937/573.htm",
-      "category": "industry"
     },
     {
       "id": "https://www.manilatimes.net/2026/04/09/tmt-newswire/pr-newswire/2026-kia-ceo-investor-day-kia-to-drive-exponential-growth-and-manufacturing-innovation-by-expanding-its-full-electrified-vehicle-lineup-and-strengthening-future-business-capabilities/2317039",
@@ -180,6 +45,42 @@
       "source": "Benzinga",
       "date": "2026-04-09",
       "url": "https://www.benzinga.com/markets/tech/26/04/51723627/xpeng-ceo-says-he-cant-wait-to-get-international-media-to-test-companys-autonomous-driving-model",
+      "category": "industry"
+    },
+    {
+      "id": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
+      "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
+      "summary": "An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. \"It didn't slow down or hesitate at all, just steamrolled r...",
+      "source": "TechCrunch",
+      "date": "2026-04-08",
+      "url": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.cnet.com/roadshow/news/uber-volkswagen-self-driving-vehicles-start-on-road-testing/",
+      "title": "Uber and Volkswagen's Self-Driving Vans Are Hitting the Streets. Here's When You Can Ride",
+      "summary": "The companies are starting on-road testing of the autonomous ID Buzz vehicle in Los Angeles....",
+      "source": "CNET",
+      "date": "2026-04-08",
+      "url": "https://www.cnet.com/roadshow/news/uber-volkswagen-self-driving-vehicles-start-on-road-testing/",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/04/08/tmt-newswire/pr-newswire/ponyai-advances-global-deployment-with-launch-of-europes-first-commercial-robotaxi-service-in-zagreb/2316157",
+      "title": "Pony.ai Advances Global Deployment with Launch of Europe's First Commercial Robotaxi Service in Zagreb",
+      "summary": "Members of the public can now book rides through the Verne app in Zagreb, Croatia, with Uber app integration to followThe launch marks a new milestone...",
+      "source": "The Manila Times",
+      "date": "2026-04-08",
+      "url": "https://www.manilatimes.net/2026/04/08/tmt-newswire/pr-newswire/ponyai-advances-global-deployment-with-launch-of-europes-first-commercial-robotaxi-service-in-zagreb/2316157",
+      "category": "product"
+    },
+    {
+      "id": "https://www.manilatimes.net/2026/04/07/tmt-newswire/pr-newswire/ponyais-singapore-av-deployment-enters-by-invite-rides-advancing-dual-engine-strategy/2315226",
+      "title": "Pony.ai's Singapore AV Deployment Enters By-Invite Rides, Advancing Dual-Engine Strategy",
+      "summary": "Received regulatory approval to enter by-invite rides in Singapore, the final phase before public-facing servicesMarks a key milestone in Pony.ai's co...",
+      "source": "The Manila Times",
+      "date": "2026-04-07",
+      "url": "https://www.manilatimes.net/2026/04/07/tmt-newswire/pr-newswire/ponyais-singapore-av-deployment-enters-by-invite-rides-advancing-dual-engine-strategy/2315226",
       "category": "industry"
     }
   ]
