@@ -1,7 +1,151 @@
 {
-  "lastUpdated": "2026-04-11 03:33:00",
-  "totalCount": 9,
+  "lastUpdated": "2026-04-12 03:58:15",
+  "totalCount": 24,
   "news": [
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862183141830399438",
+      "title": "地平线斥资3904万港元回购股票:一场“留人之战”",
+      "summary": "中经记者陈茂利张硕北京报道4月9日晚间,港股智驾科技公司地平线机器人-W(9660.HK,以下简称“地平线”)发布公告称,公司于2026年4月9日通过集中竞价交易回购557.7万股,回购金额达3904...",
+      "source": "News_Baidu",
+      "date": "2026-04-11",
+      "url": "http://baijiahao.baidu.com/s?id=1862183141830399438",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/0/938/187.htm",
+      "title": "滴滴自动驾驶 CEO 张博:十年积累,已实现 L4 级全栈核心技术的自主可控",
+      "summary": "IT之家 4 月 11 日消息,智能电动汽车发展高层论坛(2026)于 4 月 11 日至 12 日在北京国家会议中心二期举行,主题为“推进新能源汽车智能化、绿色化、融合化、国际化发展”。 滴滴联合创始人、滴滴自动驾驶公司 CEO 张博在此次论坛上发表演讲。他表示,滴滴自动驾驶经过十年发展和技术积累...",
+      "source": "Ithome",
+      "date": "2026-04-11",
+      "url": "https://www.ithome.com/0/938/187.htm",
+      "category": "tech"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862067475328447374",
+      "title": "小马智行发布PonyWorld世界模型2.0:可自..",
+      "summary": "4月10日,小马智行正式发布其在物理AI领域的最新技术成果——PonyWorld世界模型2.0。这是自动驾驶核心训练体系的一次重大升级。与1.0相比,2.0最本质的变化在于世界模型具备了自我诊断与定向...",
+      "source": "News_Baidu",
+      "date": "2026-04-11",
+      "url": "http://baijiahao.baidu.com/s?id=1862067475328447374",
+      "category": "product"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862163892548843282",
+      "title": "中国航母体系作战能力新阶段!福建舰远海训练“呼之欲..",
+      "summary": "2023年4月,山东舰航母编队首次成体系、成规模远赴西太平洋海域,标志着国产航母正式加入了远海训练序列。今年,我国的第三艘航母福建舰也有望开展远海训练...",
+      "source": "News_Baidu",
+      "date": "2026-04-11",
+      "url": "http://baijiahao.baidu.com/s?id=1862163892548843282",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862181970493551195",
+      "title": "重庆南开中学校长为南渝初三学子点亮成长之路",
+      "summary": "4月10日,重庆南开中学党委副书记、校长肖力走进南渝中学“梦想加油站”,以“九秩南开,一生热爱”为主题,为初三师生带来一场内容丰富、情真意切的专题讲座。讲座围绕“大美、大爱、大学、大模”四个维度展开,...",
+      "source": "News_Baidu",
+      "date": "2026-04-11",
+      "url": "http://baijiahao.baidu.com/s?id=1862181970493551195",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862169618177609081",
+      "title": "滴滴自动驾驶张博:深耕AI、硬件、场景三大能力 持..",
+      "summary": "央广网北京4月11日消息(记者纪爱玲)4月11日,智能电动汽车发展高层论坛(2026)在北京国家会议中心举办。滴滴联合创始人、滴滴自动驾驶公司CEO张博在演讲中表示,安全与体验是自动驾驶行稳致远的根基...",
+      "source": "News_Baidu",
+      "date": "2026-04-11",
+      "url": "http://baijiahao.baidu.com/s?id=1862169618177609081",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/china/story20260411-8877663",
+      "title": "华为高管:华为以一己之力推动辅助驾驶快速发展",
+      "summary": "",
+      "source": "Zaobao",
+      "date": "2026-04-11",
+      "url": "https://www.zaobao.com.sg/news/china/story20260411-8877663",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/04-11/10602208.shtml",
+      "title": "滴滴自动驾驶张博:聚焦安全和体验 推动自动驾驶全球化落地",
+      "summary": "4月11日,智能电动汽车发展高层论坛(2026)在北京国家会议中心举办。滴滴联合创始人、滴滴自动驾驶公司CEO张博在演讲中表示,安全与体验是自动驾驶行稳致远的根基,滴滴自动驾驶以混合出行网络探索可持续的发展路径,依托全栈技术能力和本地化服务积累,推动中国自动驾驶产业走向全球。...",
+      "source": "Chinanews",
+      "date": "2026-04-11",
+      "url": "https://www.chinanews.com.cn/cj/2026/04-11/10602208.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.zaobao.com.sg/news/sea/story20260411-8878129",
+      "title": "新加坡男子新山违规添RON95被抓",
+      "summary": "(新山/吉隆坡综合讯)一名新加坡籍男子在柔佛州新山油站为自己驾驶的新加坡注册车辆添购受管制的RON95汽油,被执法员当场抓获,连人带车被扣。...",
+      "source": "Zaobao",
+      "date": "2026-04-11",
+      "url": "https://www.zaobao.com.sg/news/sea/story20260411-8878129",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862175215470220088",
+      "title": "巨舰列阵向深蓝,三航母时代体系作战能力进入全新阶段",
+      "summary": "2012年9月25日,辽宁舰正式加入人民海军,舷号16。从这一天开始,中国人有了自己的航空母舰。2016年12月至2017年1月,辽宁舰航母编队连续取得重大突破,先是首次进行实际使用武器演习,在渤海进...",
+      "source": "News_Baidu",
+      "date": "2026-04-11",
+      "url": "http://baijiahao.baidu.com/s?id=1862175215470220088",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/tp/2026/04-11/10602183.shtml",
+      "title": "四川成都科技与竞技演绎空中盛宴",
+      "summary": "图为机器人跳舞吸引民众和孩童围观。中新社记者 刘忠俊 摄 图为学生们体验无人驾驶和无人机穿越飞行。中新社记者 刘忠俊 摄 图为一名外国留学生正在参与无人机投篮比赛项目。中新社记者 刘忠俊 摄 图为无人机击剑比赛现场。中新社记者 刘忠俊 摄 图为两架无人机正在进行举重比赛。中新社记者 刘忠俊 摄 图为...",
+      "source": "Chinanews",
+      "date": "2026-04-11",
+      "url": "https://www.chinanews.com.cn/tp/2026/04-11/10602183.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://news.seehua.com/post/1466967",
+      "title": "陌生男车外徘徊试图开门 女子受惊鸣笛驱赶",
+      "summary": "(吉隆坡11日讯)一名女子在帝帝旺沙(Titiwangsa)一处停车场泊车时,突遭陌生男子试图从外打开车门,令 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-04-11",
+      "url": "https://news.seehua.com/post/1466967",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862170865203542406",
+      "title": "爱芯元智创始人仇肖莘:未来两三年国产智驾芯片市占率..",
+      "summary": "“AI计算正从云端加速下沉至边缘与端侧,智能汽车是核心落地场景。”4月11日,爱芯元智创始人、董事长仇肖莘在智能电动汽车发展高层论坛(2026)期间接受《每日经济新闻》记者采访时直言,独立芯片厂商唯有...",
+      "source": "News_Baidu",
+      "date": "2026-04-11",
+      "url": "http://baijiahao.baidu.com/s?id=1862170865203542406",
+      "category": "tech"
+    },
+    {
+      "id": "https://www.ithome.com/0/938/179.htm",
+      "title": "深蓝 CEO:深蓝汽车 3 月市占率创纪录,多款新车 4 月将亮相",
+      "summary": "IT之家 4 月 11 日消息,今天晚间,深蓝汽车 CEO 姜海荣在微博转发了一则深蓝 S05 获 3 月新能源紧凑型 SUV 销量第一的新闻消息,并配文表示:除了 S05,深蓝其他车型也多点开花全面突破,从行业上险数据来看,2026 年 3 月深蓝汽车全行业市场占有率创下品牌成立以来新纪录。 同时...",
+      "source": "Ithome",
+      "date": "2026-04-11",
+      "url": "https://www.ithome.com/0/938/179.htm",
+      "category": "product"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1861969385382056906",
+      "title": "“小案小事”里的温度与速度:重庆大足“治小事”提升..",
+      "summary": "不规范停车、不礼让斑马线、高空抛物、垃圾分类不准确等“小案小事”看似琐碎,却是连接城市形象与居民素养的“毛细血管”。如何推进城市文明建设,考验一座城市的智慧与温度。“群众利益无小事,我们从人民关切、反...",
+      "source": "News_Baidu",
+      "date": "2026-04-11",
+      "url": "http://baijiahao.baidu.com/s?id=1861969385382056906",
+      "category": "industry"
+    },
+    {
+      "id": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "title": "TechCrunch is heading to Tokyo - and bringing the Startup Battlefield with it",
+      "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid...",
+      "source": "TechCrunch",
+      "date": "2026-04-10",
+      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "category": "tech"
+    },
     {
       "id": "https://www.benzinga.com/markets/tech/26/04/51750506/beyond-chatbots-alibabas-290-million-push-for-real-world-ai-begins",
       "title": "What's Going On With Alibaba Stock Friday?",
@@ -36,51 +180,6 @@
       "source": "The Manila Times",
       "date": "2026-04-09",
       "url": "https://www.manilatimes.net/2026/04/09/tmt-newswire/pr-newswire/2026-kia-ceo-investor-day-kia-to-drive-exponential-growth-and-manufacturing-innovation-by-expanding-its-full-electrified-vehicle-lineup-and-strengthening-future-business-capabilities/2317039",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.benzinga.com/markets/tech/26/04/51723627/xpeng-ceo-says-he-cant-wait-to-get-international-media-to-test-companys-autonomous-driving-model",
-      "title": "Xpeng CEO Says He 'Can't Wait' To Get International Media To Test Company's Autonomous Driving Model",
-      "summary": "XPENG CEO invites international media to test VLA 2.0 driving system, showcasing its advanced technology and build global credibility....",
-      "source": "Benzinga",
-      "date": "2026-04-09",
-      "url": "https://www.benzinga.com/markets/tech/26/04/51723627/xpeng-ceo-says-he-cant-wait-to-get-international-media-to-test-companys-autonomous-driving-model",
-      "category": "industry"
-    },
-    {
-      "id": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
-      "title": "A self-driving car in Texas hit and killed a mother duck, sparking neighborhood outrage",
-      "summary": "An Avride autonomous vehicle near Austin hit the duck, facing backlash from the community. \"It didn't slow down or hesitate at all, just steamrolled r...",
-      "source": "TechCrunch",
-      "date": "2026-04-08",
-      "url": "https://techcrunch.com/2026/04/08/avride-self-driving-car-austin-kills-duck-mueller/",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.cnet.com/roadshow/news/uber-volkswagen-self-driving-vehicles-start-on-road-testing/",
-      "title": "Uber and Volkswagen's Self-Driving Vans Are Hitting the Streets. Here's When You Can Ride",
-      "summary": "The companies are starting on-road testing of the autonomous ID Buzz vehicle in Los Angeles....",
-      "source": "CNET",
-      "date": "2026-04-08",
-      "url": "https://www.cnet.com/roadshow/news/uber-volkswagen-self-driving-vehicles-start-on-road-testing/",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/04/08/tmt-newswire/pr-newswire/ponyai-advances-global-deployment-with-launch-of-europes-first-commercial-robotaxi-service-in-zagreb/2316157",
-      "title": "Pony.ai Advances Global Deployment with Launch of Europe's First Commercial Robotaxi Service in Zagreb",
-      "summary": "Members of the public can now book rides through the Verne app in Zagreb, Croatia, with Uber app integration to followThe launch marks a new milestone...",
-      "source": "The Manila Times",
-      "date": "2026-04-08",
-      "url": "https://www.manilatimes.net/2026/04/08/tmt-newswire/pr-newswire/ponyai-advances-global-deployment-with-launch-of-europes-first-commercial-robotaxi-service-in-zagreb/2316157",
-      "category": "product"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/04/07/tmt-newswire/pr-newswire/ponyais-singapore-av-deployment-enters-by-invite-rides-advancing-dual-engine-strategy/2315226",
-      "title": "Pony.ai's Singapore AV Deployment Enters By-Invite Rides, Advancing Dual-Engine Strategy",
-      "summary": "Received regulatory approval to enter by-invite rides in Singapore, the final phase before public-facing servicesMarks a key milestone in Pony.ai's co...",
-      "source": "The Manila Times",
-      "date": "2026-04-07",
-      "url": "https://www.manilatimes.net/2026/04/07/tmt-newswire/pr-newswire/ponyais-singapore-av-deployment-enters-by-invite-rides-advancing-dual-engine-strategy/2315226",
       "category": "industry"
     }
   ]
