@@ -1,140 +1,149 @@
 {
-  "lastUpdated": "2026-04-12 03:58:15",
-  "totalCount": 24,
+  "lastUpdated": "2026-04-13 04:15:44",
+  "totalCount": 25,
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862183141830399438",
-      "title": "地平线斥资3904万港元回购股票:一场“留人之战”",
-      "summary": "中经记者陈茂利张硕北京报道4月9日晚间,港股智驾科技公司地平线机器人-W(9660.HK,以下简称“地平线”)发布公告称,公司于2026年4月9日通过集中竞价交易回购557.7万股,回购金额达3904...",
-      "source": "News_Baidu",
-      "date": "2026-04-11",
-      "url": "http://baijiahao.baidu.com/s?id=1862183141830399438",
+      "id": "https://www.bjnews.com.cn/detail/1776005348168443.html",
+      "title": "岚图汽车卢放:智驾不要纠结于数字,整车综合能力才是关键",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-12",
+      "url": "https://www.bjnews.com.cn/detail/1776005348168443.html",
       "category": "industry"
     },
     {
-      "id": "https://www.ithome.com/0/938/187.htm",
-      "title": "滴滴自动驾驶 CEO 张博:十年积累,已实现 L4 级全栈核心技术的自主可控",
-      "summary": "IT之家 4 月 11 日消息,智能电动汽车发展高层论坛(2026)于 4 月 11 日至 12 日在北京国家会议中心二期举行,主题为“推进新能源汽车智能化、绿色化、融合化、国际化发展”。 滴滴联合创始人、滴滴自动驾驶公司 CEO 张博在此次论坛上发表演讲。他表示,滴滴自动驾驶经过十年发展和技术积累...",
+      "id": "https://www.ithome.com/0/938/364.htm",
+      "title": "广汽科技日发布五大核心技术:星源插混让 2 吨大车油耗降至 3 升,昊铂 GT 攀登版 5 月上市",
+      "summary": "IT之家 4 月 12 日消息,在今晚的 2026 广汽科技日活动上,广汽集团集中发布了星源动力、星舰车身、星河智舱、星灵电子电气架构 4.0 以及车规级芯片生态等领域的最新成果。 在动力技术方面,广汽发布了新一代星源动力技术品牌,涵盖星源插混与星源超级双擎(HEV + )两大系统。 星源插混搭载 ...",
       "source": "Ithome",
-      "date": "2026-04-11",
-      "url": "https://www.ithome.com/0/938/187.htm",
-      "category": "tech"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862067475328447374",
-      "title": "小马智行发布PonyWorld世界模型2.0:可自..",
-      "summary": "4月10日,小马智行正式发布其在物理AI领域的最新技术成果——PonyWorld世界模型2.0。这是自动驾驶核心训练体系的一次重大升级。与1.0相比,2.0最本质的变化在于世界模型具备了自我诊断与定向...",
-      "source": "News_Baidu",
-      "date": "2026-04-11",
-      "url": "http://baijiahao.baidu.com/s?id=1862067475328447374",
+      "date": "2026-04-12",
+      "url": "https://www.ithome.com/0/938/364.htm",
       "category": "product"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1862163892548843282",
-      "title": "中国航母体系作战能力新阶段!福建舰远海训练“呼之欲..",
-      "summary": "2023年4月,山东舰航母编队首次成体系、成规模远赴西太平洋海域,标志着国产航母正式加入了远海训练序列。今年,我国的第三艘航母福建舰也有望开展远海训练...",
-      "source": "News_Baidu",
-      "date": "2026-04-11",
-      "url": "http://baijiahao.baidu.com/s?id=1862163892548843282",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862181970493551195",
-      "title": "重庆南开中学校长为南渝初三学子点亮成长之路",
-      "summary": "4月10日,重庆南开中学党委副书记、校长肖力走进南渝中学“梦想加油站”,以“九秩南开,一生热爱”为主题,为初三师生带来一场内容丰富、情真意切的专题讲座。讲座围绕“大美、大爱、大学、大模”四个维度展开,...",
-      "source": "News_Baidu",
-      "date": "2026-04-11",
-      "url": "http://baijiahao.baidu.com/s?id=1862181970493551195",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862169618177609081",
-      "title": "滴滴自动驾驶张博:深耕AI、硬件、场景三大能力 持..",
-      "summary": "央广网北京4月11日消息(记者纪爱玲)4月11日,智能电动汽车发展高层论坛(2026)在北京国家会议中心举办。滴滴联合创始人、滴滴自动驾驶公司CEO张博在演讲中表示,安全与体验是自动驾驶行稳致远的根基...",
-      "source": "News_Baidu",
-      "date": "2026-04-11",
-      "url": "http://baijiahao.baidu.com/s?id=1862169618177609081",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/china/story20260411-8877663",
-      "title": "华为高管:华为以一己之力推动辅助驾驶快速发展",
+      "id": "http://www.eeo.com.cn/2026/0412/836364.shtml",
+      "title": "元戎启行引入DeepSeek“大牛”,基座模型突破将成为胜负手",
       "summary": "",
-      "source": "Zaobao",
-      "date": "2026-04-11",
-      "url": "https://www.zaobao.com.sg/news/china/story20260411-8877663",
+      "source": "Eeo",
+      "date": "2026-04-12",
+      "url": "http://www.eeo.com.cn/2026/0412/836364.shtml",
       "category": "industry"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/04-11/10602208.shtml",
-      "title": "滴滴自动驾驶张博:聚焦安全和体验 推动自动驾驶全球化落地",
-      "summary": "4月11日,智能电动汽车发展高层论坛(2026)在北京国家会议中心举办。滴滴联合创始人、滴滴自动驾驶公司CEO张博在演讲中表示,安全与体验是自动驾驶行稳致远的根基,滴滴自动驾驶以混合出行网络探索可持续的发展路径,依托全栈技术能力和本地化服务积累,推动中国自动驾驶产业走向全球。...",
-      "source": "Chinanews",
-      "date": "2026-04-11",
-      "url": "https://www.chinanews.com.cn/cj/2026/04-11/10602208.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/sea/story20260411-8878129",
-      "title": "新加坡男子新山违规添RON95被抓",
-      "summary": "(新山/吉隆坡综合讯)一名新加坡籍男子在柔佛州新山油站为自己驾驶的新加坡注册车辆添购受管制的RON95汽油,被执法员当场抓获,连人带车被扣。...",
-      "source": "Zaobao",
-      "date": "2026-04-11",
-      "url": "https://www.zaobao.com.sg/news/sea/story20260411-8878129",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862175215470220088",
-      "title": "巨舰列阵向深蓝,三航母时代体系作战能力进入全新阶段",
-      "summary": "2012年9月25日,辽宁舰正式加入人民海军,舷号16。从这一天开始,中国人有了自己的航空母舰。2016年12月至2017年1月,辽宁舰航母编队连续取得重大突破,先是首次进行实际使用武器演习,在渤海进...",
+      "id": "http://baijiahao.baidu.com/s?id=1862277887937198980",
+      "title": "济宁太白湖新区:一座生态新城的产业“逆袭”",
+      "summary": "提及济宁太白湖新区,太白湖景区闻名遐迩,优美生态环境令人向往。而今,这方沃土之上,产业迎来跨越式发展,逐步构建起“2+3+N”产业体系——重点突破文化旅游、智能制造两大主导产业,大力培育数字经济、商务...",
       "source": "News_Baidu",
-      "date": "2026-04-11",
-      "url": "http://baijiahao.baidu.com/s?id=1862175215470220088",
+      "date": "2026-04-12",
+      "url": "http://baijiahao.baidu.com/s?id=1862277887937198980",
       "category": "industry"
     },
     {
-      "id": "https://www.chinanews.com.cn/tp/2026/04-11/10602183.shtml",
-      "title": "四川成都科技与竞技演绎空中盛宴",
-      "summary": "图为机器人跳舞吸引民众和孩童围观。中新社记者 刘忠俊 摄 图为学生们体验无人驾驶和无人机穿越飞行。中新社记者 刘忠俊 摄 图为一名外国留学生正在参与无人机投篮比赛项目。中新社记者 刘忠俊 摄 图为无人机击剑比赛现场。中新社记者 刘忠俊 摄 图为两架无人机正在进行举重比赛。中新社记者 刘忠俊 摄 图为...",
-      "source": "Chinanews",
-      "date": "2026-04-11",
-      "url": "https://www.chinanews.com.cn/tp/2026/04-11/10602183.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "https://news.seehua.com/post/1466967",
-      "title": "陌生男车外徘徊试图开门 女子受惊鸣笛驱赶",
-      "summary": "(吉隆坡11日讯)一名女子在帝帝旺沙(Titiwangsa)一处停车场泊车时,突遭陌生男子试图从外打开车门,令 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-04-11",
-      "url": "https://news.seehua.com/post/1466967",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1862170865203542406",
-      "title": "爱芯元智创始人仇肖莘:未来两三年国产智驾芯片市占率..",
-      "summary": "“AI计算正从云端加速下沉至边缘与端侧,智能汽车是核心落地场景。”4月11日,爱芯元智创始人、董事长仇肖莘在智能电动汽车发展高层论坛(2026)期间接受《每日经济新闻》记者采访时直言,独立芯片厂商唯有...",
+      "id": "http://baijiahao.baidu.com/s?id=1862186188046356370",
+      "title": "新芯航途X7大算力芯片:软硬协同实现10倍模型参数..",
+      "summary": "当智能驾驶竞赛进入大模型时代,芯片算力的比拼转向更本质的追问:如何让有限的硬件资源承载日益膨胀的算法需求?新芯航途给出的答案是——不堆砌算力,而是重构算力的使用方式。...",
       "source": "News_Baidu",
-      "date": "2026-04-11",
-      "url": "http://baijiahao.baidu.com/s?id=1862170865203542406",
+      "date": "2026-04-12",
+      "url": "http://baijiahao.baidu.com/s?id=1862186188046356370",
       "category": "tech"
     },
     {
-      "id": "https://www.ithome.com/0/938/179.htm",
-      "title": "深蓝 CEO:深蓝汽车 3 月市占率创纪录,多款新车 4 月将亮相",
-      "summary": "IT之家 4 月 11 日消息,今天晚间,深蓝汽车 CEO 姜海荣在微博转发了一则深蓝 S05 获 3 月新能源紧凑型 SUV 销量第一的新闻消息,并配文表示:除了 S05,深蓝其他车型也多点开花全面突破,从行业上险数据来看,2026 年 3 月深蓝汽车全行业市场占有率创下品牌成立以来新纪录。 同时...",
-      "source": "Ithome",
-      "date": "2026-04-11",
-      "url": "https://www.ithome.com/0/938/179.htm",
-      "category": "product"
+      "id": "http://baijiahao.baidu.com/s?id=1862265405000501381",
+      "title": "靳玉志:L3是迈向完全自动驾驶必经之路|快讯",
+      "summary": "4月11日,封面新闻最新消息,华为智能汽车解决方案BUCEO、引望公司CEO靳玉志在2026智能电动汽车发展高层论坛上发表主旨演讲时指出:“2026年是全球自动驾驶开启的元年,L3是走向完全自动驾驶的...",
+      "source": "News_Baidu",
+      "date": "2026-04-12",
+      "url": "http://baijiahao.baidu.com/s?id=1862265405000501381",
+      "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1861969385382056906",
-      "title": "“小案小事”里的温度与速度:重庆大足“治小事”提升..",
-      "summary": "不规范停车、不礼让斑马线、高空抛物、垃圾分类不准确等“小案小事”看似琐碎,却是连接城市形象与居民素养的“毛细血管”。如何推进城市文明建设,考验一座城市的智慧与温度。“群众利益无小事,我们从人民关切、反...",
+      "id": "http://baijiahao.baidu.com/s?id=1862275282598999175",
+      "title": "停车忘关车窗10余分钟,男子回来时傻眼:蜜蜂已在车..",
+      "summary": "4月9日,杭州消防救援支队指挥中心接到一名市民求助,他说自己仅离开车辆10余分钟,返回时发现有数十只蜜蜂已在车内忙着筑巢!“我也就离开了15分钟左右,回来时就看到车窗边围着一群蜜蜂,已经在副驾驶位上方...",
       "source": "News_Baidu",
-      "date": "2026-04-11",
-      "url": "http://baijiahao.baidu.com/s?id=1861969385382056906",
+      "date": "2026-04-12",
+      "url": "http://baijiahao.baidu.com/s?id=1862275282598999175",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/0/938/355.htm",
+      "title": "新石器 CEO 余恩源:无人车不会替代快递员,人类承担更具价值的服务",
+      "summary": "IT之家 4 月 12 日消息,据新浪科技今天报道,新石器无人车 CEO 余恩源在智能电动汽车发展高层论坛 2026 期间表示,无人车不会替代快递员, 而是会优化他们的工作模式 。 他对此解释道:“快递员全年无休,每日工作 10 小时,其中 6 小时用于上下楼收派件,4 小时用于运输。无人车将替代运...",
+      "source": "Ithome",
+      "date": "2026-04-12",
+      "url": "https://www.ithome.com/0/938/355.htm",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1014189",
+      "title": "台积电 vs. 英伟达:哪只 AI 股票是更佳的投资选择?-FX168",
+      "summary": "台积电在 AI 技术栈中的地位 TradingKey - 台积电 (TSM) 已确立其作为人工智能 (AI) 供应链中关键参与者的地位,这已开始体现在台积电的股票表现中。 台积电的规模和工艺领先地位使其在先进半导体制造领域形成了准垄断地位,其产品包括 GPU、AI ASIC、高性能 CPU 以及驱动...",
+      "source": "Fx168News",
+      "date": "2026-04-12",
+      "url": "https://www.fx168news.com/article/1014189",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862269145632942160",
+      "title": "中国游记|春色不负万里客!老外爱上“春日中国行”",
+      "summary": "来源:中央广电总台国际在线一朵牡丹,值得飞越万里。近期,马达加斯加姑娘嘉德为一朵牡丹“打飞的”来华,在上海古猗园沉浸式体验花神民俗文化,拍中国古风写真。“我的头饰绣上了牡丹,是一千年前的流行款!”嘉德...",
+      "source": "News_Baidu",
+      "date": "2026-04-12",
+      "url": "http://baijiahao.baidu.com/s?id=1862269145632942160",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1776000848169043.html",
+      "title": "两岁幼童将自己反锁在车内哭闹不止,北京大兴消防紧急破窗救援",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-12",
+      "url": "https://www.bjnews.com.cn/detail/1776000848169043.html",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862271726628468896",
+      "title": "跨越27年感恩重逢!全网牵挂的90岁“骑行爷爷”安..",
+      "summary": "这两天,闫长江与90岁骑行老人张中义的重逢故事,温暖了整座城市。“见到你,这辈子就没遗憾了”,二十几年光阴流转,千里路途迢迢,老人终于在嘉兴有了安稳的家!这场迟来的重逢,在嘉兴街头,定格成了最动人的人...",
+      "source": "News_Baidu",
+      "date": "2026-04-12",
+      "url": "http://baijiahao.baidu.com/s?id=1862271726628468896",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/04-12/10602650.shtml",
+      "title": "中国游记 | 春色不负万里客!老外爱上“春日中国行”",
+      "summary": "一朵牡丹,值得飞越万里。近期,马达加斯加姑娘嘉德为一朵牡丹“打飞的”来华,在上海古猗园沉浸式体验花神民俗文化,拍中国古风写真。“我的头饰绣上了牡丹,是一千年前的流行款!”嘉德满意地说。...",
+      "source": "Chinanews",
+      "date": "2026-04-12",
+      "url": "https://www.chinanews.com.cn/sh/2026/04-12/10602650.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1862076112979469403",
+      "title": "从启航到远航,中国人寿加速赋能具身智能和机器人产业..",
+      "summary": "1996年央视春晚,蔡明在小品《机器人趣话》中扮演人形机器人,2026年,来自松延动力的具身智能机器人登上春晚舞台,与蔡明同台表演《奶奶的最爱》。...",
+      "source": "News_Baidu",
+      "date": "2026-04-12",
+      "url": "http://baijiahao.baidu.com/s?id=1862076112979469403",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1775988426129322.html",
+      "title": "比亚迪廉玉波:新能源汽车产业正进入确定性与不确定性并存的阶段",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-04-12",
+      "url": "https://www.bjnews.com.cn/detail/1775988426129322.html",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity",
+      "title": "Gary Black Says Tesla's $30K EV Could Have 'Huge Upside'",
+      "summary": "Gary Black suggested that Tesla's move could reflect challenges in its autonomous driving goals and growing EV competition....",
+      "source": "Benzinga",
+      "date": "2026-04-12",
+      "url": "https://www.benzinga.com/markets/tech/26/04/51770206/gary-black-tesla-sub-30k-model-q-huge-upside-opportunity",
       "category": "industry"
     },
     {
@@ -172,15 +181,6 @@
       "date": "2026-04-10",
       "url": "https://www.marketscreener.com/news/pony-ai-launches-ponyworld-2-0-a-self-improving-physical-ai-engine-for-autonomous-driving-ce7e50d8dc80fe22",
       "category": "product"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/04/09/tmt-newswire/pr-newswire/2026-kia-ceo-investor-day-kia-to-drive-exponential-growth-and-manufacturing-innovation-by-expanding-its-full-electrified-vehicle-lineup-and-strengthening-future-business-capabilities/2317039",
-      "title": "2026 Kia CEO Investor Day: Kia to Drive Exponential Growth and Manufacturing Innovation by Expanding Its Full Electrified Vehicle Lineup and Strengthening Future Business Capabilities",
-      "summary": "Kia presents its 2030 mid- to long-term strategy, detailing its vehicle- and region-specific exponential growth plansTargets global sales of 4.13 mill...",
-      "source": "The Manila Times",
-      "date": "2026-04-09",
-      "url": "https://www.manilatimes.net/2026/04/09/tmt-newswire/pr-newswire/2026-kia-ceo-investor-day-kia-to-drive-exponential-growth-and-manufacturing-innovation-by-expanding-its-full-electrified-vehicle-lineup-and-strengthening-future-business-capabilities/2317039",
-      "category": "industry"
     }
   ]
 }
