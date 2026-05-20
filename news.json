@@ -1,186 +1,186 @@
 {
-  "lastUpdated": "2026-05-19 04:53:19",
-  "totalCount": 24,
+  "lastUpdated": "2026-05-20 04:57:29",
+  "totalCount": 28,
   "news": [
     {
-      "id": "https://post.smzdm.com/p/arzg8qxg/",
-      "title": "海豹06智驾版实测:高速能减负,但离“真智能”还差激光雷达",
-      "summary": "截至2026年5月,海豹06智驾版搭载的天神之眼C系统在高速场景下能有效缓解疲劳,但在变道策略、施工识别和极端天气应对上仍存在明显短板,远未达到“类人驾驶”水平。1很多用户误以为“智驾版”等于“自动驾驶”,实则不然。海豹06 DM-i智驾版全系标配的是L......",
-      "source": "Smzdm",
-      "date": "2026-05-18",
-      "url": "https://post.smzdm.com/p/arzg8qxg/",
-      "category": "tech"
-    },
-    {
-      "id": "https://www.ithome.com/0/952/038.htm",
-      "title": "何小鹏:小鹏 Robotaxi 将在广州开启示范运营",
-      "summary": "IT之家 5 月 18 日消息,今天,小鹏首台量产的 Robotaxi 在广州工厂下线了。小鹏集团董事长、CEO 何小鹏今日宣布, 未来几个月,小鹏 Robotaxi 会在广州开启示范运营 。 IT之家从官方介绍获悉,作为中国首款全栈自研、前装量产的 Robotaxi, 基于小鹏旗舰车型 GX 打造...",
-      "source": "Ithome",
-      "date": "2026-05-18",
-      "url": "https://www.ithome.com/0/952/038.htm",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cj/2026/05-18/10623781.shtml",
-      "title": "零下40度修轻轨 中亚首条“中国标准”轻轨如何建成?",
-      "summary": "中新网北京5月18日电 (记者 徐文欣)当地时间5月16日,哈萨克斯坦阿斯塔纳轻轨一期工程正式通车运营。作为共建“一带一路”的重点项目,这条全长约22.4公里的轻轨线路,是中亚地区首条全部采用中国标准、中国技术、中国装备建设的轨道交通项目,也是中亚地区首条全自动无人驾驶智能轨道交通线。...",
-      "source": "Chinanews",
-      "date": "2026-05-18",
-      "url": "https://www.chinanews.com.cn/cj/2026/05-18/10623781.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1779104322129914.html",
-      "title": "新闻8点见丨驾校“文盲包过”的秘密;“娜塔莎”娃娃爆火背后",
+      "id": "https://www.bjnews.com.cn/detail/1779203028129844.html",
+      "title": "北京市政府2026年立法工作计划已印发,哪些重点内容需关注?",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-05-18",
-      "url": "https://www.bjnews.com.cn/detail/1779104322129914.html",
+      "date": "2026-05-19",
+      "url": "https://www.bjnews.com.cn/detail/1779203028129844.html",
       "category": "industry"
     },
     {
-      "id": "https://news.seehua.com/post/1486497",
-      "title": "车疑闯红灯撞人撞车致死58岁妇 疑似肇事司机竖拇指引众怒",
-      "summary": "(新加坡18日讯)一辆轿车被指闯红灯后撞飞路人,也把另一辆车撞到原地转半圈,58岁妇女送院后不治。 《新明日报 [...]...",
-      "source": "News_Seehua",
-      "date": "2026-05-18",
-      "url": "https://news.seehua.com/post/1486497",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.ithome.com/0/952/015.htm",
-      "title": "34.98 万元起,长城魏牌 V9X AI 豪华六座旗舰上市",
-      "summary": "IT之家 5 月 18 日消息,长城汽车旗下魏牌 V9X 现已上市,新车共推出 3 款车型,售价 34.98 万元起。此次上市车型均为超级 Hi4 插电混动版本,在今年晚些时候魏牌 V9X 还会进一步推出 HEV(油电混动版本)和 EV(纯电动版本)。 据IT之家了解,作为长城汽车归元 S 平台的首...",
-      "source": "Ithome",
-      "date": "2026-05-18",
-      "url": "https://www.ithome.com/0/952/015.htm",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.ithome.com/0/952/008.htm",
-      "title": "老款车型无法支持无监督 FSD,车主起诉特斯拉虚假宣传胜诉",
-      "summary": "IT之家 5 月 18 日消息,多年来,特斯拉一直以车辆终将实现全自动驾驶为卖点售卖车型。然而就在上月,首席执行官埃隆 · 马斯克向投资者抛出重磅消息:部分老旧款特斯拉车型若不进行大规模硬件升级,将无法启用无需人为监督的 FSD 功能。 这一消息让众多老车主失望、倍感气愤,其中不少人早已斥资数千美元...",
-      "source": "Ithome",
-      "date": "2026-05-18",
-      "url": "https://www.ithome.com/0/952/008.htm",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.prnasia.com/story/533402-1.shtml",
-      "title": "双赛激战碰撞频发,摩纳哥周末星光熠熠",
-      "summary": "摩纳哥 2026年5月18日 /美通社/ -- 随着2025/26赛季赛程过半,FE电动方程式重返最具传奇色彩的舞台之一——摩纳哥街道赛道,于5月16日和17日进行了第十二赛季的第9回合与第10回合比赛。 FE摩纳哥站,碰撞不断 多年来,摩纳哥始终是赛车世界中最特别的名字之一。蔚蓝海岸的阳光再次洒落...",
-      "source": "Prnasia",
-      "date": "2026-05-18",
-      "url": "https://www.prnasia.com/story/533402-1.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.newscase.com/%E8%85%BE%E5%8A%BF%E7%A0%B4%E4%BA%94%E5%8D%81%E4%B8%87%E8%BE%86%E5%8D%B4%E9%81%87%E6%97%97%E8%88%B0%E6%BB%91%E5%9D%A1%EF%BC%8C%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B1%AA%E5%8D%8E%E6%88%98%E7%95%A5%E8%83%BD/",
-      "title": "腾势破五十万辆却遇旗舰滑坡,比亚迪豪华战略能否借闪充与出口破局?",
-      "summary": "比亚迪旗下豪华品牌腾势正经历冰火两重天。一方面,第50万辆新车正式下线,标志着品牌自2021年重组以来迈入新阶段;另一方面,旗舰SUV腾势N9在华月销量从去年4月超过5000辆骤降至不足1000辆,迫使比亚迪火速推出技术升级版以求逆转颓势。 N9“闪充版”于5月18日正式上市,预售价区间为45万至5...",
-      "source": "Newscase",
-      "date": "2026-05-18",
-      "url": "https://www.newscase.com/%E8%85%BE%E5%8A%BF%E7%A0%B4%E4%BA%94%E5%8D%81%E4%B8%87%E8%BE%86%E5%8D%B4%E9%81%87%E6%97%97%E8%88%B0%E6%BB%91%E5%9D%A1%EF%BC%8C%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B1%AA%E5%8D%8E%E6%88%98%E7%95%A5%E8%83%BD/",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1779094235169733.html",
-      "title": "驾校放话“文盲包过”,是给“马路杀手”开绿灯 | 新京报快评",
+      "id": "https://www.bjnews.com.cn/detail/1779201603129836.html",
+      "title": "平谷区试点开通跨区定制通勤公交,单程耗时缩短约一小时",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-05-18",
-      "url": "https://www.bjnews.com.cn/detail/1779094235169733.html",
+      "date": "2026-05-19",
+      "url": "https://www.bjnews.com.cn/detail/1779201603129836.html",
       "category": "industry"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/central/2026/05/18/819710",
-      "title": "严谴危险“快闪骚动”事件 方贵伦促警方尽快追查逮捕涉及者",
-      "summary": "(吉隆坡18日讯)武吉免登区国会议员方贵伦严厉谴责日前在武吉免登发生的危险“快闪骚动”事件,并对有关人士罔顾公共安全、目无法纪的行为感到愤怒与失望。他今日发出文告说,武吉免登是吉隆坡重要旅游区,也是国内外游客聚集的地点,涉案人士在公共道路上进行危险驾驶、燃放照明弹及扰乱秩序的行为,不仅危及道路使用者...",
-      "source": "Orientaldaily",
-      "date": "2026-05-18",
-      "url": "https://www.orientaldaily.com.my/news/central/2026/05/18/819710",
+      "id": "https://www.fx168news.com/article/1032551",
+      "title": "特斯拉(TSLA)股票5月19日盘中下跌3.19%:真相来了-FX168",
+      "summary": "特斯拉 (TSLA) 盘中下跌3.19%, 所属行业汽车与零部件下跌2.57% ,公司涨幅跑输行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 下跌 3.19%;Rivian Automotive Inc (RIVN) 下跌 3.93%;Cummins Inc (CMI) 下跌 3.99%。 今日...",
+      "source": "Fx168News",
+      "date": "2026-05-19",
+      "url": "https://www.fx168news.com/article/1032551",
       "category": "industry"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3373300",
-      "title": "马斯克再画蓝图:全无人驾驶年内全美普及 十年后九成里程由AI掌控",
-      "summary": "",
-      "source": "Investing_Cn",
-      "date": "2026-05-18",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3373300",
-      "category": "industry"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3372890",
-      "title": "小鹏汽车在广州启动首款无人驾驶出租车量产",
-      "summary": "",
-      "source": "Investing_Cn",
-      "date": "2026-05-18",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3372890",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.ithome.com/0/951/959.htm",
-      "title": "百度 2026 财年第一财季净利润 34.45 亿元,同比下降 55.36%",
-      "summary": "IT之家 5 月 18 日消息,百度今日发布 2026 财年(2026 年 1 月 1 日~2026 年 12 月 31 日)第一财季(2026 年 1 月 1 日~2026 年 3 月 31 日)业绩快报报告: 营业总收入 : 320.75 亿元,同比下降 1.16% 归母净利润 : 34.45 ...",
-      "source": "Ithome",
-      "date": "2026-05-18",
-      "url": "https://www.ithome.com/0/951/959.htm",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/05-18/10623503.shtml",
-      "title": "最高检联合中国残联发布残疾未成年人权益保护典型案例",
-      "summary": "中新网5月18日电 据最高检网站消息,近日,最高人民检察院联合中国残疾人联合会发布一批残疾未成年人权益保护典型案例。...",
+      "id": "https://www.chinanews.com.cn/sh/2026/05-19/10624615.shtml",
+      "title": "近期多地持续降雨 出行如何避免安全隐患",
+      "summary": "根据中央气象台发布的消息,预计到19日,大范围较强降雨过程将逐渐东移南压,华北、黄淮、江汉、江南、华南等地部分地区有暴雨灾害风险。...",
       "source": "Chinanews",
-      "date": "2026-05-18",
-      "url": "https://www.chinanews.com.cn/gn/2026/05-18/10623503.shtml",
+      "date": "2026-05-19",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-19/10624615.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/05-19/10624540.shtml",
+      "title": "“世界唐卡艺术之都”青海同仁推出文旅主题活动 探寻人文山水",
+      "summary": "中新网青海黄南5月19日电 (祁绣娟)5月19日中国旅游日,“清清黄河”旅游带热贡文化长廊“骑云游德隆·隆务溯汉唐·同心宴锅庄”系列文旅主题活动在青海省黄南藏族自治州同仁市隆务河畔精彩上演,邀请八方游客畅游“清清黄河”、探秘千年热贡、邂逅高原诗意。...",
+      "source": "Chinanews",
+      "date": "2026-05-19",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-19/10624540.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/05-19/10624570.shtml",
+      "title": "扎根桂乡 洋媳妇读懂中国烟火与温情",
+      "summary": "中新网南宁5月19日电(俞靖)“在中国生活,要心存接纳,才能融入并读懂中国的美好。”意大利姑娘柯恣娅19日在广西南宁受访时表示。...",
+      "source": "Chinanews",
+      "date": "2026-05-19",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-19/10624570.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/05-19/10624508.shtml",
+      "title": "马来西亚入境旅行团抵穗开启“精彩广东”之旅",
+      "summary": "中新网广州5月19日电 (记者 程景伟)一个马来西亚入境旅行团19日飞抵广州白云国际机场,开启为期6天5晚的“精彩广东”之旅。...",
+      "source": "Chinanews",
+      "date": "2026-05-19",
+      "url": "https://www.chinanews.com.cn/sh/2026/05-19/10624508.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://cn.investing.com/news/company-news/article-93CH-3375806",
+      "title": "Lucid Group Inc股价触及52周低点$5.61,全年表现承压",
+      "summary": "",
+      "source": "Investing_Cn",
+      "date": "2026-05-19",
+      "url": "https://cn.investing.com/news/company-news/article-93CH-3375806",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1779190457129678.html",
+      "title": "北京市政府立法工作计划已印发,共安排立法项目25项",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-19",
+      "url": "https://www.bjnews.com.cn/detail/1779190457129678.html",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1779195040129796.html",
+      "title": "2026年第一季度“丰台好人”评选榜单发布",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-05-19",
+      "url": "https://www.bjnews.com.cn/detail/1779195040129796.html",
       "category": "product"
     },
     {
-      "id": "https://www.ithome.com/0/952/022.htm",
-      "title": "比亚迪腾势 N9 闪充版 SUV 上市:CLTC 纯电续航 420km,40.98 万元起",
-      "summary": "IT之家 5 月 18 日消息,比亚迪腾势 N9 闪充版今晚上市,定位“科技驾控旗舰 SUV”,共推出三款车型,售价 40.98 万元起。 IT之家从发布会获悉,腾势 N9 闪充版搭载第二代刀片电池, CLTC 纯电续航达到 420km ,综合续航达 1520km。10%-70% 充电时间 5 分钟...",
+      "id": "http://news.imobile.com.cn/articles/2026/0519/234474.shtml",
+      "title": "腾势N9闪充版正式上市 以五大旗舰科技重划大型豪华SUV价值边界",
+      "summary": "2026年5月18日,腾势汽车在深圳总部正式推出科技驾控旗舰SUV——腾势N9闪充版。新车共推出闪充尊荣型、闪充尊越型与闪充旗舰型三款配置,官方指导价为40.98万元至46.98万元。相比此前发布的预售区间,起售价下调超过4万元,使高端旗舰的准入门槛进一步亲民化。即日起下订的用户,还可限时享受至高价...",
+      "source": "Imobile",
+      "date": "2026-05-19",
+      "url": "http://news.imobile.com.cn/articles/2026/0519/234474.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/05-19/10624463.shtml",
+      "title": "20万级满配运动SUV昊铂S600开启预售,权益价18.89万起",
+      "summary": "5月17日,广汽昊铂新豪华智慧运动SUV昊铂S600预售发布会正式举行,新车推出纯电660Max、纯电660Max+、增程230Max、增程215四驱Ultra+四款配置版本,官方预售价为20.99-22.99万元,预售权益价18.89-20.89万元。昊铂S600在性能、智能辅助驾驶、智舱、安全、...",
+      "source": "Chinanews",
+      "date": "2026-05-19",
+      "url": "https://www.chinanews.com.cn/cj/2026/05-19/10624463.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/0/952/477.htm",
+      "title": "亿咖通进军 Robotaxi 领域,与美企 May Mobility 达成合作",
+      "summary": "IT之家 5 月 19 日消息,亿咖通科技今日宣布与美国企业 May Mobility 达成战略框架协议,将 向后者的自动驾驶出租车车队提供智能驾驶全栈解决方案 。亿咖通也由此进军 Robotaxi 领域。 在这份合作关系中,亿咖通将向 May Mobility 交付数万套定制 L4 级中央计算平台...",
       "source": "Ithome",
-      "date": "2026-05-18",
-      "url": "https://www.ithome.com/0/952/022.htm",
+      "date": "2026-05-19",
+      "url": "https://www.ithome.com/0/952/477.htm",
       "category": "industry"
     },
     {
-      "id": "https://www.prnewswire.co.uk/news-releases/einride-ab-and-legato-merger-corp-iii-announce-effectiveness-of-registration-statement-ahead-of-planned-business-combination-and-nasdaq-listing-302774603.html",
-      "title": "Einride AB and Legato Merger Corp. III Announce Effectiveness of Registration Statement Ahead of Planned Business Combination and Nasdaq Listing",
-      "summary": "/PRNewswire/ -- Einride AB (\"Einride\" or the \"Company\"), a technology company driving the transition to cost-efficient electric and autonomous freight...",
-      "source": "PR Newswire UK",
-      "date": "2026-05-18",
-      "url": "https://www.prnewswire.co.uk/news-releases/einride-ab-and-legato-merger-corp-iii-announce-effectiveness-of-registration-statement-ahead-of-planned-business-combination-and-nasdaq-listing-302774603.html",
+      "id": "https://www.fx168news.com/article/1032500",
+      "title": "Bitget 推出 UEX Jumpstart 计划,总奖池达 43 万 USDT-FX168",
+      "summary": "塞舌尔维多利亚, May 19, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget,正式推出 UEX Jumpstart 计划。该多产品入驻计划奖池总额达 43 万 USDT,覆盖加密货币期货、贵金属、股票及差价合约 (CFD)。 该计划于 5 月至 ...",
+      "source": "Fx168News",
+      "date": "2026-05-19",
+      "url": "https://www.fx168news.com/article/1032500",
       "category": "industry"
     },
     {
-      "id": "https://www.marketscreener.com/news/tesla-expects-wider-us-use-of-fully-self-driving-cars-by-year-end-ce7f5adada8ef223",
-      "title": "Tesla Expects Wider US Use of Fully Self-Driving Cars by Year-End",
-      "summary": "Tesla chief Elon Musk said he expects fully self-driving cars without human safety monitors to become more widely used in the US later this year, mark...",
-      "source": "MarketScreener",
-      "date": "2026-05-18",
-      "url": "https://www.marketscreener.com/news/tesla-expects-wider-us-use-of-fully-self-driving-cars-by-year-end-ce7f5adada8ef223",
+      "id": "https://www.zaobao.com.sg/news/china/story20260519-9073580",
+      "title": "百度营收超预期 寻求在AI行业重新洗牌中突围",
+      "summary": "(北京彭博电)中国网络搜索巨头百度营收超出预期,为它争取更多时间在人工智能(AI)服务领域追赶阿里巴巴集团等竞争对手。...",
+      "source": "Zaobao",
+      "date": "2026-05-19",
+      "url": "https://www.zaobao.com.sg/news/china/story20260519-9073580",
       "category": "industry"
     },
     {
-      "id": "https://www.businessinsider.com/tech-exec-sued-tesla-full-self-driving-promises-model-3-2026-5",
-      "title": "This Tech Exec Sued Tesla Over Its Full Self-Driving Promises",
-      "summary": "Tesla's FSD rollbacks have sparked frustration among many long-time owners, some of whom paid thousands of dollars for fully autonomous driving....",
-      "source": "Business Insider",
-      "date": "2026-05-18",
-      "url": "https://www.businessinsider.com/tech-exec-sued-tesla-full-self-driving-promises-model-3-2026-5",
+      "id": "https://news.seehua.com/post/1486944",
+      "title": "新航SQ321乱流事故调查报告出炉 不排除气象雷达系统异常",
+      "summary": "(新加坡19日讯)新加坡交通安全调查局今日公布,两年前发生的新航SQ321航班遇乱流事故调查结果。报告指出,鉴 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-05-19",
+      "url": "https://news.seehua.com/post/1486944",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/al32673o/",
+      "title": "智界V9四款配置怎么选?核心差异与选购建议全解析",
+      "summary": "智界V9上市后热度持续走高,面对Max、Max+、Ultra、Ultra+四款配置,用户往往在选择上存在纠结。这四款配置在智能驾驶硬件、舒适豪华配置以及影音系统等方面存在明显差异。针对华为智能科技、家庭舒适出行、商务接待以及顶奢体验等不同需求,各配置版本......",
+      "source": "Smzdm",
+      "date": "2026-05-19",
+      "url": "https://post.smzdm.com/p/al32673o/",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1032514",
+      "title": "禾赛:割肉死守,“龙一” 压力山大?-FX168",
+      "summary": "",
+      "source": "Fx168News",
+      "date": "2026-05-19",
+      "url": "https://www.fx168news.com/article/1032514",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/05-19/10624462.shtml",
+      "title": "40.98万元起,标配第二代刀片电池及闪充技术,腾势N9闪充版上市",
+      "summary": "5月18日,科技驾控旗舰SUV——腾势N9闪充版上市,推出闪充尊荣型、闪充尊越型、闪充旗舰型三款车型,官方指导价40.98万元—46.98万元。华语乐坛巨星王力宏,成为腾势汽车第50万辆车主,也是腾势N9闪充版首位车主。新车全系标配第二代刀片电池及闪充技术、易三方、云辇-A闭式双腔空悬、天神之眼5....",
+      "source": "Chinanews",
+      "date": "2026-05-19",
+      "url": "https://www.chinanews.com.cn/cj/2026/05-19/10624462.shtml",
       "category": "tech"
     },
     {
-      "id": "https://economictimes.indiatimes.com/tech/technology/uber-open-to-teaming-up-with-travis-kalanick-on-autonomous-vehicles-ceo-dara-khosrowshahi/articleshow/131167455.cms",
-      "title": "Uber open to teaming up with Travis Kalanick on autonomous vehicles: CEO Dara Khosrowshahi",
-      "summary": "Uber CEO Dara Khosrowshahi expressed openness to partnering with ousted founder Travis Kalanick on his new autonomous vehicle venture. This marks a si...",
-      "source": "The Economic Times",
-      "date": "2026-05-18",
-      "url": "https://economictimes.indiatimes.com/tech/technology/uber-open-to-teaming-up-with-travis-kalanick-on-autonomous-vehicles-ceo-dara-khosrowshahi/articleshow/131167455.cms",
-      "category": "industry"
+      "id": "https://www.manilatimes.net/2026/05/19/tmt-newswire/pr-newswire/ezgo-technologies-signed-three-party-strategic-framework-agreement-with-autotraxai-and-zhejiang-hengyuan-to-build-a-us-assembled-autonomous-vehicle-platform-powered-by-lithium-battery-and-ichassis-technology/2347234",
+      "title": "EZGO Technologies Signed Three-Party Strategic Framework Agreement with Autotrax.ai and Zhejiang Hengyuan to Build a U.S.-Assembled Autonomous Vehicle Platform Powered by Lithium Battery and iChassis",
+      "summary": "Three-party alliance integrating EZGO's high-performance lithium battery and vehicle control system (VCS) technology, Zhejiang Hengyuan's iChassis pla...",
+      "source": "The Manila Times",
+      "date": "2026-05-19",
+      "url": "https://www.manilatimes.net/2026/05/19/tmt-newswire/pr-newswire/ezgo-technologies-signed-three-party-strategic-framework-agreement-with-autotraxai-and-zhejiang-hengyuan-to-build-a-us-assembled-autonomous-vehicle-platform-powered-by-lithium-battery-and-ichassis-technology/2347234",
+      "category": "tech"
     }
   ]
 }
