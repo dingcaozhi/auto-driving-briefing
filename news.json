@@ -1,158 +1,167 @@
 {
-  "lastUpdated": "2026-06-26 05:02:36",
+  "lastUpdated": "2026-06-27 04:43:43",
   "totalCount": 27,
   "news": [
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0625/234850.shtml",
-      "title": "零跑D99上市:24.98万起售,全域自研打造宜商宜家全能旗舰MPV",
-      "summary": "2026年6月25日,零跑旗舰D平台首款MPV——零跑D99正式上市,售价24.98-31.98万元,限时享至高价值61279元上市权益、四项终身免费质保及尊享服务。作为零跑十年全域自研技术沉淀的旗舰力作,新车定位“科技豪华旗舰MPV”,承袭D系列“百万级体验、科技普惠”的核心理念,以30万级价格带...",
-      "source": "Imobile",
-      "date": "2026-06-25",
-      "url": "http://news.imobile.com.cn/articles/2026/0625/234850.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "https://post.smzdm.com/p/arz2ml4x/",
-      "title": "深圳L3/L4自动驾驶事故责任2026年重新划分,车主注意了",
-      "summary": "01深圳率先落地智驾事故责任划分新规深圳市交通运输局联合多部门发布的《智能网联汽车管理条例》修订版将于2026年7月1日起正式施行,明确对L2、L3、L4三个级别的智能驾驶事故责任进行差异化拆分。修订条例第五十一条、第五十三条针对不同自动化等级的事故归责......",
-      "source": "Smzdm",
-      "date": "2026-06-25",
-      "url": "https://post.smzdm.com/p/arz2ml4x/",
-      "category": "industry"
-    },
-    {
-      "id": "https://news.cri.cn/20260625/4dbfd0d7-fa6d-6882-2162-adafd6179fde.html",
-      "title": "守护多彩土地 种出多样丰收(美丽中国)-国际在线",
-      "summary": "数据来源:水利部 今年6月25日是第三十六个全国土地日,主题为“珍惜每一寸土地促进高质量发展”。 我国幅员辽阔、地大物博,不同类型的土壤孕育出丰富多样的作物。保护好...",
-      "source": "Cri_Cn",
-      "date": "2026-06-25",
-      "url": "https://news.cri.cn/20260625/4dbfd0d7-fa6d-6882-2162-adafd6179fde.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1782393563169553.html",
-      "title": "北京西城消防开展夜间防汛专项训练,实战锤炼“夜战”硬实力",
+      "id": "https://www.bjnews.com.cn/detail/1782480999169576.html",
+      "title": "禁毒防范、无人机管理......北京昌平公安走进大学校园宣讲",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-06-25",
-      "url": "https://www.bjnews.com.cn/detail/1782393563169553.html",
+      "date": "2026-06-26",
+      "url": "https://www.bjnews.com.cn/detail/1782480999169576.html",
       "category": "industry"
     },
     {
-      "id": "https://www.fx168news.com/article/1049060",
-      "title": "零跑D99重磅上市:24.98万起售,全域自研打造宜商宜家全能旗舰MPV-FX168",
-      "summary": "2026年6月25日,零跑旗舰D平台首款MPV——零跑D99正式上市,售价24.98-31.98万元,限时享至高价值61279元上市权益、四项终身免费质保及尊享服务。作为零跑十年全域自研技术沉淀的旗舰力作,新车定位“科技豪华旗舰MPV”,承袭D系列“百万级体验、科技普惠”的核心理念,以30万级价格带...",
-      "source": "Fx168News",
-      "date": "2026-06-25",
-      "url": "https://www.fx168news.com/article/1049060",
-      "category": "industry"
-    },
-    {
-      "id": "http://news.imobile.com.cn/articles/2026/0625/234849.shtml",
-      "title": "拒绝伪需求!试驾别克至境E7",
+      "id": "http://baijiahao.baidu.com/s?id=1863627598961849613",
+      "title": "二十年戍边铸军魂 雪域高原写忠诚——记边防某团三级..",
       "summary": "",
-      "source": "Imobile",
-      "date": "2026-06-25",
-      "url": "http://news.imobile.com.cn/articles/2026/0625/234849.shtml",
+      "source": "News_Baidu",
+      "date": "2026-06-26",
+      "url": "http://baijiahao.baidu.com/s?id=1863627598961849613",
       "category": "industry"
     },
     {
-      "id": "https://www.ithome.com/0/968/684.htm",
-      "title": "美国拟不再要求无人驾驶汽车必须配备刹车踏板,为 Robotaxi 扩大规模铺路",
-      "summary": "IT之家 6 月 25 日消息,据彭博社 25 日(今天)报道,美国交通部拟取消无人驾驶汽车必须配备制动踏板的规定,为特斯拉、Waymo 等企业在美国扩大自动驾驶出租车投放规模降低监管门槛。 报道称美国国家公路交通安全管理局(NHTSA)计划修改《联邦机动车安全标准》,专为完全无人驾驶设计的车辆将不...",
+      "id": "https://www.ithome.com/0/969/265.htm",
+      "title": "2026 款奇瑞捷途山海 T1 四驱版车型上市:搭 1.5T 混合动力系统,限时焕新价 14.99 万元起",
+      "summary": "IT之家 6 月 26 日消息,在今天的奇瑞第二届方盒子大会暨新品发布会中,2026 款捷途山海 T1 四驱版上市,该车采用 1.5T 混合动力系统, 官方指导价区间为 15.99-18.99 万元,限时焕新价区间为 14.99-17.99 万元。 车型 上市指导价(万元) 限时焕新价(万元) 15...",
       "source": "Ithome",
-      "date": "2026-06-25",
-      "url": "https://www.ithome.com/0/968/684.htm",
+      "date": "2026-06-26",
+      "url": "https://www.ithome.com/0/969/265.htm",
       "category": "industry"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/06-25/10647395.shtml",
-      "title": "四川达州“赶场公交”点亮城乡烟火 20公里便民专线暖民心",
-      "summary": "中新网达州6月25日电 (任枺早 张浪)6月下旬凌晨五点的达州通川区蒲家镇,细雨淅沥、天色未明,城市尚在酣睡,镇域公交站台已是一派热闹景象。数十名菜农背着装满豇豆、土豆、鸡蛋的背篓,静静等候49路公交。这条往返城乡、全程20公里的专线公交,自2023年开通以来,彻底改写了当地菜农的进城售卖之路,以细...",
-      "source": "Chinanews",
-      "date": "2026-06-25",
-      "url": "https://www.chinanews.com.cn/sh/2026/06-25/10647395.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.ithome.com/0/968/672.htm",
-      "title": "138.8 万元起,尊界 S800 Grand Design 典藏大观正式发布",
-      "summary": "IT之家 6 月 25 日消息,在今晚的发布会上,华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东发布了全新的尊界 S800 Grand Design 典藏大观车型(IT之家注:预计 8 月底陆续交付)。 尊界 S800 Grand Design 典藏大观提供增程 / 纯电版本可选,提...",
+      "id": "https://www.ithome.com/0/969/262.htm",
+      "title": "2026 款奇瑞捷途自由者 7 PLUS 燃油 SUV 正式上市,限时焕新价 11.99 万元起",
+      "summary": "IT之家 6 月 26 日消息,在今天的奇瑞第二届方盒子大会暨新品发布会中,2026 款捷途自由者 7 PLUS 正式上市, 指导价区间为 14.49-15.99 万元,限时红包价区间为 13.99-15.49 万元,限时焕新价区间为 11.99-13.49 万元。 车型 上市指导价(万元) 限时红...",
       "source": "Ithome",
-      "date": "2026-06-25",
-      "url": "https://www.ithome.com/0/968/672.htm",
-      "category": "product"
-    },
-    {
-      "id": "https://www.ithome.com/0/968/664.htm",
-      "title": "一汽大众迈腾 PHEV / 探岳 L PHEV 上市,16.99 万元起",
-      "summary": "IT之家 6 月 25 日消息,一汽大众“黄金超混”迈腾 PHEV / 探岳 L PHEV 双车今日上市, 均为 16.99 万元起: 迈腾 PHEV PRO:16.99 万元 迈腾 PHEV PRIME:19.49 万元 探岳 L PHEV PRO:16.99 万元 探岳 L PHEV PRIME...",
-      "source": "Ithome",
-      "date": "2026-06-25",
-      "url": "https://www.ithome.com/0/968/664.htm",
+      "date": "2026-06-26",
+      "url": "https://www.ithome.com/0/969/262.htm",
       "category": "industry"
     },
     {
-      "id": "https://www.ithome.com/0/968/700.htm",
-      "title": "宝马回应“多名新能源车主收到更换蓄电池提醒”:相关提示信息为误报,正积极推进解决方案确保不再出现",
-      "summary": "IT之家 6 月 25 日消息,近日,多名宝马 i3、i4 车型新车车主发帖表示,在启动车辆时收到“您可以继续驾驶,请更换蓄电池”的相关车机提醒,引发部分车主担忧。 据潇湘晨报,宝马官方工作人员表示,相关提示信息为误报信息,车主可以放心使用车辆。 宝马官方同时向相关车主车机推送了服务信息进行说明。说...",
-      "source": "Ithome",
-      "date": "2026-06-25",
-      "url": "https://www.ithome.com/0/968/700.htm",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3436044",
+      "title": "Oppenheimer:物理AI有望成为下一增长引擎 予SpaceX(SPCX.US)250美元目标价",
+      "summary": "Oppenheimer:物理AI有望成为下一增长引擎 予SpaceX(SPCX.US)250美元目标价...",
+      "source": "Investing_Cn",
+      "date": "2026-06-26",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3436044",
       "category": "industry"
     },
     {
-      "id": "https://news.seehua.com/post/1504452",
-      "title": "6女教师共车遇祸1死5伤 对撞司机亦丧命",
-      "summary": "(玲珑25日讯)6名女教师今午共乘一辆本田Odyssey多用途休旅车行驶途中,与一辆丰田Vios轿车发生碰撞, [...]...",
-      "source": "News_Seehua",
-      "date": "2026-06-25",
-      "url": "https://news.seehua.com/post/1504452",
+      "id": "https://www.zaobao.com.sg/news/world/story20260626-9271999",
+      "title": "挂新加坡旗货船阿曼湾遇袭 疏散滞留船只行动暂停",
+      "summary": "(伦敦/麦纳麦综合电)一艘货船星期四在阿曼湾遭袭后,联合国国际海事组织宣布暂停在霍尔木兹海峡疏散滞留船舶的行动。这再次引发各界对美伊初步停火协议是否能维持下去的担忧。...",
+      "source": "Zaobao",
+      "date": "2026-06-26",
+      "url": "https://www.zaobao.com.sg/news/world/story20260626-9271999",
       "category": "industry"
     },
     {
-      "id": "https://www.orientaldaily.com.my/news/society/2026/06/25/828420",
-      "title": "6女教师共车遇祸1死5伤 对撞轿车警长身亡",
-      "summary": "(玲珑25日讯)六名女教师今午共乘一辆本田Odyssey多用途休旅车途中,与一辆丰田Vios轿车迎面碰撞,造成2死5伤惨剧。其中,一名女教师当场身亡,另一辆轿车的警官司机也不幸丧命。两名死者分别为47岁的女教师祖莱达,她在宜力技职学院任教,以及41岁的梅尔温达星警长,隶属上霹雳高乌警区总部,两人皆因...",
-      "source": "Orientaldaily",
-      "date": "2026-06-25",
-      "url": "https://www.orientaldaily.com.my/news/society/2026/06/25/828420",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1049024",
-      "title": "英伟达2026股东大会有何看点?黄仁勋:每个Token都是利润,AI变现已有答案-FX168",
-      "summary": "TradingKey - 美东时间6月24日,英伟达(NVDA)年度股东大会上,CEO黄仁勋以一场长达两小时的演讲,为AI产业的下一阶段发展定调。他宣告\"有用的AI时代\"正式到来,智能体(Agent)将成为驱动未来数十年算力需求的核心引擎,并将这一轮计算范式转变定性为60年来规模最大的行业重置。 每...",
+      "id": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1049664",
+      "title": "港股大模型概念股周报(2026-06-22至06-26)-FX168",
+      "summary": "本周港股大盘剧烈震荡,恒指与恒科指分别累跌5.2%与7.5%。港股大模型板块呈现“先扬后抑”格局,明略科技表现抗跌,而MINIMAX因面临大比例股份解禁压力跌幅居前。行业基本面依然强劲:全球模型调用量连涨九周,中国模型包揽前四,DeepSeek以3400亿估值登榜独角兽并开启翻倍扩招;政策端五部门力...",
       "source": "Fx168News",
-      "date": "2026-06-25",
-      "url": "https://www.fx168news.com/article/1049024",
+      "date": "2026-06-26",
+      "url": "https://www.fx168news.com/article/%E4%BA%9A%E5%A4%AA%E8%82%A1%E5%B8%82-1049664",
       "category": "industry"
     },
     {
-      "id": "https://post.smzdm.com/p/aggreqdm/",
-      "title": "小米YU7实测:全系标配智能驾驶硬件能否超越特斯拉?第三方测评结果给出了答案",
-      "summary": "小米YU7作为小米汽车推出的首款中大型SUV,自2025年6月上市以来,其智能驾驶系统便成为市场关注的焦点。基于多源素材信息,本文将从硬件配置、功能实测、第三方测评成绩、用户体验等多个维度,对小米YU7的智能驾驶能力进行结构化梳理,旨在为关注该车型的消费......",
+      "id": "https://post.smzdm.com/p/a3mnwpdr/",
+      "title": "L4自动驾驶2026大爆发:成本从百万降至23万,哪些场景已跑通?",
+      "summary": "2026年被称为L4级自动驾驶规模化落地的关键年份。从政策端看,公安部发布《智能网联汽车道路测试与示范应用安全通行规范》(GA/T 2388-2026),明确L4级可在15个试点城市指定区域开展道路测试;从技术端看,激光雷达成本降至500美元以下,算力芯......",
       "source": "Smzdm",
-      "date": "2026-06-25",
-      "url": "https://post.smzdm.com/p/aggreqdm/",
+      "date": "2026-06-26",
+      "url": "https://post.smzdm.com/p/a3mnwpdr/",
       "category": "industry"
     },
     {
-      "id": "https://post.smzdm.com/p/a036pd7z/",
-      "title": "25-30万买电车,特斯拉Model 3和小米SU7谁续航更实在?真实对比来了",
-      "summary": "特斯拉Model 3焕新版与小米SU7作为当前25-30万元价位区间内关注度最高的两款纯电轿车,经常被消费者放在一起比较。两款车型分别代表了传统新能源巨头与新势力品牌的最新技术成果,在智能驾驶、续航补能、内饰配置、动力性能等核心维度上各有侧重。对于有意选......",
-      "source": "Smzdm",
-      "date": "2026-06-25",
-      "url": "https://post.smzdm.com/p/a036pd7z/",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.ithome.com/0/968/667.htm",
-      "title": "哈弗全新旗舰方盒子 SUV 长城 H10 正式亮相,基于归元平台打造",
-      "summary": "IT之家 6 月 25 日消息,在今晚举行的“长城 H10 造型美学直播暨实车正式亮相”活动中,哈弗全新旗舰方盒子 SUV 长城 H10 正式亮相。 该车在国内定名“ 长城 H10 ”、海外统一命名“GWM H10”,基于归元平台打造,提供 5 座和 6 座两种布局,并搭载 1.5T 插电混动系统。...",
+      "id": "https://www.ithome.com/0/969/250.htm",
+      "title": "启境 GX7 全球首秀:定位智能阔五座 SUV 车型,首创 20 秒一键自动成床",
+      "summary": "IT之家 6 月 26 日消息,广汽集团与华为乾崑联合打造的高端智能新能源汽车品牌“启境”首款车型 GT7 今日正式宣布上市。 在发布会现场,启境品牌第二款战略车型 —— 启境 GX7 正式迎来全球首秀。IT之家从官方获悉,新车定位新一代智能“阔”五座 SUV,官方表示 GX7 寓意“Grand E...",
       "source": "Ithome",
+      "date": "2026-06-26",
+      "url": "https://www.ithome.com/0/969/250.htm",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/al3do2np/",
+      "title": "电车vs油车:真实操控差距到底在哪",
+      "summary": "如今电动车加速迅猛、底盘稳定,让很多人误以为电车操控全面超越油车。事实上,电车和油车的操控逻辑完全不同:电车胜在稳定、容错高,油车赢在轻盈、灵动和驾驶质感,真正的驾驶乐趣,依旧存在明显差距。 电车最大优势来自结构先天优势。电池平铺底盘,让整车重心极低且分......",
+      "source": "Smzdm",
+      "date": "2026-06-26",
+      "url": "https://post.smzdm.com/p/al3do2np/",
+      "category": "industry"
+    },
+    {
+      "id": "https://cn.investing.com/news/economy-news/article-3436122",
+      "title": "特朗普称伊朗以无人机袭击货船,违反停火协议",
+      "summary": "",
+      "source": "Investing_Cn",
+      "date": "2026-06-26",
+      "url": "https://cn.investing.com/news/economy-news/article-3436122",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/06-26/10648161.shtml",
+      "title": "尊界S800 Grand Design典藏大观138.8万元起,东方意境邂逅极致匠心",
+      "summary": "2026年6月25日,鸿蒙智行尊界品牌盛典,尊界全新超高端豪华系列Grand Design典藏大观首款产品——尊界S800 Grand Design典藏大观正式上市,售价138.8万元起。...",
+      "source": "Chinanews",
+      "date": "2026-06-26",
+      "url": "https://www.chinanews.com.cn/cj/2026/06-26/10648161.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0626/931563.shtml",
+      "title": "G7易流翟学魂:未来十年,70%—80%的卡车司机不会因自动驾驶而失业",
+      "summary": "从功能上看,拍拍豆主要解决三个问题:AI实时识别破损、数量异常并即时推送管理者,实现前置干预;装卸交接过程自动录像,纠纷时可一键调取对应节点画面;货物流转全程可追溯,关键节点自动标记,实现透明化管理。......",
+      "source": "Eeo",
+      "date": "2026-06-26",
+      "url": "http://www.eeo.com.cn/2026/0626/931563.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://news.cri.cn/20260626/cf52e4cd-c119-49d7-8375-cf50004fac1c.html",
+      "title": "在霍尔木兹海峡遇袭的新加坡籍货船轻微损伤-国际在线",
+      "summary": "新加坡海事及港务管理局26日发布声明说,25日在霍尔木兹海峡被不明投射物击中的新加坡籍集装箱货船出现轻微损伤,船上21名船员均安全。 声明说,这艘名为“长悦”号的货船在驶离霍尔木兹海峡时,驾驶台区域被不明投射物击中。目前,该船已顺利穿...",
+      "source": "Cri_Cn",
+      "date": "2026-06-26",
+      "url": "https://news.cri.cn/20260626/cf52e4cd-c119-49d7-8375-cf50004fac1c.html",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/0/969/236.htm",
+      "title": "20.99 万元起启境 GT7 猎装轿跑正式上市:首批搭载华为 ADS 5 智驾",
+      "summary": "IT之家 6 月 26 日消息,由广汽集团与华为乾崑联合打造的高端智能新能源品牌“启境汽车”今日正式上市。新车定位中大型智能猎装轿跑,官方指导价 20.99 万元起。IT之家汇总如下: 启境 GT7 标准版:20.99 万元 启境 GT7 Ultra:23.99 万元 启境 GT7 Ultra 超长...",
+      "source": "Ithome",
+      "date": "2026-06-26",
+      "url": "https://www.ithome.com/0/969/236.htm",
+      "category": "industry"
+    },
+    {
+      "id": "https://news.seehua.com/post/1504982",
+      "title": "李玉顺呼吁联邦政府提高沙砂及纳闽柴油补贴配额",
+      "summary": "(亚庇26日讯)民统党(UPKO)必打丹区部主席李玉顺呼吁联邦政府,应提高沙巴、砂拉越及纳闽「BUDI MAD [...]...",
+      "source": "News_Seehua",
+      "date": "2026-06-26",
+      "url": "https://news.seehua.com/post/1504982",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/al3do2x8/",
+      "title": "6.48万起还带192线激光雷达!极狐S3把高阶智驾价格打下来了",
+      "summary": "01极狐S3与同价位竞品对比:智驾配置与购车方案解析极狐S3于2026年北京车展正式开启预售,定位为十万内唯一高阶智驾平民电车。从官方公布的配置信息来看,极狐S3在智能驾驶硬件、续航补能方案、座舱智能化等方面均采用了越级配置策略。其顶配版本搭载192线激......",
+      "source": "Smzdm",
+      "date": "2026-06-26",
+      "url": "https://post.smzdm.com/p/al3do2x8/",
+      "category": "tech"
+    },
+    {
+      "id": "https://thenextweb.com/news/trump-dot-brake-pedal-autonomous-vehicles-tesla-zoox",
+      "title": "Trump DOT proposes dropping brake pedal requirement for autonomous vehicles, clearing a path for Tesla and Zoox",
+      "summary": "The DOT proposed removing brake pedal mandates for vehicles built exclusively for autonomous driving, easing the path for Tesla's Cybercab and Zoox....",
+      "source": "TNW",
       "date": "2026-06-25",
-      "url": "https://www.ithome.com/0/968/667.htm",
+      "url": "https://thenextweb.com/news/trump-dot-brake-pedal-autonomous-vehicles-tesla-zoox",
       "category": "industry"
     },
     {
@@ -171,15 +180,6 @@
       "source": "India Today",
       "date": "2026-06-25",
       "url": "https://www.indiatoday.in/technology/news/story/amazons-zoox-unveils-new-robotaxi-design-as-it-plans-to-offer-paid-rides-2933922-2026-06-25",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/06/25/un-first-global-rules-adopted-for-self-driving-cars",
-      "title": "UN: First global rules adopted for self-driving cars",
-      "summary": "The first global regulations for fully autonomous vehicles were adopted on June 24, a UN agency said, establishing uniform international safety requir...",
-      "source": "The Star",
-      "date": "2026-06-25",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/25/un-first-global-rules-adopted-for-self-driving-cars",
       "category": "industry"
     }
   ]
