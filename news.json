@@ -1,149 +1,167 @@
 {
-  "lastUpdated": "2026-07-03 04:35:28",
-  "totalCount": 23,
+  "lastUpdated": "2026-07-04 04:27:20",
+  "totalCount": 24,
   "news": [
     {
-      "id": "https://www.bjnews.com.cn/detail/1782982610129273.html",
-      "title": "京东携手长安汽车打造业采融合新标杆",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-07-02",
-      "url": "https://www.bjnews.com.cn/detail/1782982610129273.html",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869618467097910059",
-      "title": "新闻深一度丨六省“抢迪”,四川亮出了什么牌?",
-      "summary": "7月1日,四川省委副书记、省长施小琳在成都会见比亚迪董事长王传福。就在前一天,四川省委常委、成都市委书记曹立军已先行与王传福就集成电路、智能终端等领域深入交谈。把时间线拉长——3月24日湖南,4月2日...",
-      "source": "News_Baidu",
-      "date": "2026-07-02",
-      "url": "http://baijiahao.baidu.com/s?id=1869618467097910059",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869586509821934234",
-      "title": "今天美国队赢球后,全场合唱的这首“美国版《海阔天空..",
-      "summary": "潮新闻客户端记者陈宇浩北京时间7月2日上午,2026年美加墨世界杯一场16分之一决赛,美国队以2:0的比分击败波黑挺进八强。终场哨响,球员们没有急着离场。他们肩并肩站在中圈,和看台上数万名球迷一起,唱...",
-      "source": "News_Baidu",
-      "date": "2026-07-02",
-      "url": "http://baijiahao.baidu.com/s?id=1869586509821934234",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260702-9303924",
-      "title": "黄总理抵东帝汶访问 与旅居当地新加坡人会面",
-      "summary": "",
-      "source": "Zaobao",
-      "date": "2026-07-02",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260702-9303924",
-      "category": "industry"
-    },
-    {
-      "id": "https://news.cri.cn/20260702/34c4158e-9a28-a62f-154b-8e08fc2cf361.html",
-      "title": "视频丨“热穹顶”笼罩美多地 数千万人受影响-国际在线",
-      "summary": "受“热穹顶”天气系统影响,极端高温高湿天气7月1日继续笼罩美国多地,并自美国中西部、南部向人口稠密的东海岸地区蔓延。目前,高温预警已覆盖全美大约4600万人。 根据美国国家气象局发布的预警,费城及周边地区7月1...",
-      "source": "Cri_Cn",
-      "date": "2026-07-02",
-      "url": "https://news.cri.cn/20260702/34c4158e-9a28-a62f-154b-8e08fc2cf361.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://news.cri.cn/20260702/9902c1f9-cd66-5b8f-b4b7-6abaaefa384f.html",
-      "title": "全球瞭望丨美媒:中国人工智能发展愿景以人为本-国际在线",
-      "summary": "新华社纽约7月2日电 美国《纽约时报》“全球新闻通讯”栏目主笔卡特琳·本霍尔德日前在该报网站发表署名文章说,中美两国在人工智能(AI)发展方面抱有截然不同的愿景。美国放任企业追求...",
-      "source": "Cri_Cn",
-      "date": "2026-07-02",
-      "url": "https://news.cri.cn/20260702/9902c1f9-cd66-5b8f-b4b7-6abaaefa384f.html",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869616255691082420",
-      "title": "百年公交邂逅四十余载民生情怀!生活报主题公交与您一..",
+      "id": "http://baijiahao.baidu.com/s?id=1869607209138411284",
+      "title": "“雪龙”号“雪龙2”号“极地”号停靠大连码头 各界..",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-07-02",
-      "url": "http://baijiahao.baidu.com/s?id=1869616255691082420",
+      "date": "2026-07-03",
+      "url": "http://baijiahao.baidu.com/s?id=1869607209138411284",
       "category": "industry"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/china/story20260702-9303973",
-      "title": "中国官方定性小飞机撞“中国尊”:个人原因造成的危害公共安全案件",
-      "summary": "一架小飞机上周五(6月26日)撞上位于北京中央商务区的中信大厦(又称“中国尊”)近一周后,官方星期四(7月2日)将事件定性为“因个人原因造成的危害公共安全案件”,并称驾驶员日记中多次出现“结束生命”的表述。...",
-      "source": "Zaobao",
-      "date": "2026-07-02",
-      "url": "https://www.zaobao.com.sg/news/china/story20260702-9303973",
+      "id": "http://baijiahao.baidu.com/s?id=1869690980928288703",
+      "title": "记者手记:青藏铁路20年,重访“天路人”",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-03",
+      "url": "http://baijiahao.baidu.com/s?id=1869690980928288703",
       "category": "industry"
     },
     {
-      "id": "https://www.chinanews.com.cn/gn/2026/07-02/10651784.shtml",
-      "title": "良机里有良“机”(“三农”观察)",
-      "summary": "岁岁麦浪,季季耕耘。一台台农机跨区驰骋,夏粮归仓,新种入田。在山东省东阿县,大型智能收割机搭载北斗自动驾驶系统,按照设定好的路线高效作业。在湖北省孝昌县,烘干机组连轴转,除湿、风干无缝衔接。今年夏收期间,9个麦收重点省份密切协同,组织动员28万多台履带式收割机、7万多台各型烘干机,“抢”出丰收。...",
+      "id": "http://baijiahao.baidu.com/s?id=1869651628429618432",
+      "title": "“社区小巴”打通出行“最后一公里” 聊城开通首批6..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-03",
+      "url": "http://baijiahao.baidu.com/s?id=1869651628429618432",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869683932641875329",
+      "title": "晨露摘菜,专线直达菜市场!宣城一地开通“菜篮子专线..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-03",
+      "url": "http://baijiahao.baidu.com/s?id=1869683932641875329",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/07-03/10652509.shtml",
+      "title": "1.04亿人次、8.24亿吨,一条天路如何重塑雪域高原?",
+      "summary": "7月的高原,清冽的风中带着阳光的炽热,雪域大地上透着盎然生机。列车穿峡谷、跨戈壁、越草原,在雪山下荡起铿锵回响。...",
       "source": "Chinanews",
-      "date": "2026-07-02",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-02/10651784.shtml",
+      "date": "2026-07-03",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-03/10652509.shtml",
       "category": "industry"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0702/234909.shtml",
-      "title": "一汽-大众迈腾PHEV、探岳L PHEV重磅上市",
-      "summary": "近日,搭载黄金超混的一汽-大众迈腾PHEV、探岳L PHEV重磅上市,其中,迈腾PHEV PRO版16.99万元、PRIME版19.49万元;探岳L PHEV PRO版16.99万元、PRIME版18.19万元。同时,一汽-大众为两款新车配备“三大黄金特权、七大满级权益”。 两款车均搭载了全新一代黄...",
-      "source": "Imobile",
-      "date": "2026-07-02",
-      "url": "http://news.imobile.com.cn/articles/2026/0702/234909.shtml",
+      "id": "https://www.chinanews.com.cn/cj/2026/07-03/10652506.shtml",
+      "title": "市场规模预计超3000亿元,工业旅游如何长效发展?",
+      "summary": "近年来,工业旅游在全国各地蓬勃兴起,众多工业遗存与工业厂区变身为创意园区、博物馆等文化新空间,一批大国重器成为热门旅游目的地。前不久,七部门联合印发《关于弘扬工业文化 保护工业遗产 发展工业旅游的通知》(以下简称《通知》),为行业擘画了清晰路径。...",
+      "source": "Chinanews",
+      "date": "2026-07-03",
+      "url": "https://www.chinanews.com.cn/cj/2026/07-03/10652506.shtml",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869600006931406755",
-      "title": "2026MC法老「生于未来」巡回演唱会—郑州站 郑..",
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260703-9309580",
+      "title": "交通业迈向智能化 载客司机望获培训国会将探讨助转型",
+      "summary": "交通领域采用人工智能与自动驾驶等新兴科技有助提升我国整体竞争力,但也引发部分员工及点对点载客司机对生计与职业前景的担忧。如何在推动创新的同时,协助受影响人员提升技能、实现顺利转型,将是下星期二(7月7日)国会复会时讨论的重点之一。...",
+      "source": "Zaobao",
+      "date": "2026-07-03",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260703-9309580",
+      "category": "industry"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0703/941624.shtml",
+      "title": "车市“成人礼”:一年内82项新国标炸场",
+      "summary": "据中国汽研统计,2026年全年共有82项汽车国家标准即将实施,其中包括26项强制性检测国家标准。如此的国家标准出台密度和力度,在中国汽车行业发展史上并不多见。这标志着中国汽车行业正式从“规模扩张”阶段迈入“规则引领”阶段。...",
+      "source": "Eeo",
+      "date": "2026-07-03",
+      "url": "http://www.eeo.com.cn/2026/0703/941624.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869608587432479857",
+      "title": "从仰望英雄到成为应急青年",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-07-02",
-      "url": "http://baijiahao.baidu.com/s?id=1869600006931406755",
+      "date": "2026-07-03",
+      "url": "http://baijiahao.baidu.com/s?id=1869608587432479857",
       "category": "industry"
     },
     {
-      "id": "https://www.ithome.com/0/971/951.htm",
-      "title": "何小鹏:自动驾驶发展速度超过预期,未来 3 到 5 年可以看到 L4 甚至 L5 落地",
-      "summary": "7 月 2 日晚间消息,在小鹏 MONA L03 中国首秀发布会后,小鹏集团董事长、CEO 何小鹏,小鹏集团车型产品高级总监杨光,小鹏 MONA 车主、代言人欧阳娜娜与媒体对话。 今年 6 月,联合国正式发布了一项全球自动驾驶技术法规 ——ADS GTR,而这部法规的核心制定者之一是中国。 何小鹏表...",
+      "id": "https://www.zaobao.com.sg/news/sea/story20260703-9310060",
+      "title": "违规添购RON95汽油 新加坡车主罚6300元",
+      "summary": "(新山综合讯)一名新加坡车主因违例在柔佛新山添购RON95补贴汽油,被庭宣判罚款2万令吉(约6300新元)。这是马来西亚今年4月1日修法对付外国违例添油者以来,首次提控外国车主。这名车主已经认罪并缴纳罚款。...",
+      "source": "Zaobao",
+      "date": "2026-07-03",
+      "url": "https://www.zaobao.com.sg/news/sea/story20260703-9310060",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869596360015963488",
+      "title": "聚焦消防、危险化学品等领域,中央安全生产考核巡查组..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-03",
+      "url": "http://baijiahao.baidu.com/s?id=1869596360015963488",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1053009",
+      "title": "经纬恒润:有知名机构星石投资参与的多家机构于7月1日调研我司-FX168",
+      "summary": "证券之星消息,2026年7月3日经纬恒润(688326)发布公告称长江证券、凯联资本、太保资产、星石投资、中泰证券于2026年7月1日调研我司。 具体内容如下:问:在智能驾驶市场竞争激烈,头部车企多数已与供应商形成稳定绑定的情况下,公司如何看待智能驾驶业务后续发展?答:随着政策法规的逐步完善和消费者...",
+      "source": "Fx168News",
+      "date": "2026-07-03",
+      "url": "https://www.fx168news.com/article/1053009",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869475968424394557",
+      "title": "HDC2026|华为HMS for Car 5.0..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-03",
+      "url": "http://baijiahao.baidu.com/s?id=1869475968424394557",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1869658420602862318",
+      "title": "福建船政:海军摇篮 潮涌马江",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-03",
+      "url": "http://baijiahao.baidu.com/s?id=1869658420602862318",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/0/972/419.htm",
+      "title": "京东物流在京启动快递行业首个 L4 自动驾驶重卡载货示范,单程 31 公里满载 43 吨",
+      "summary": "IT之家 7 月 3 日消息,7 月 3 日,京东物流宣布,与中国重汽、 嬴彻科技 在北京高级别自动驾驶示范区正式开启快递行业首个 L4 级自动驾驶重卡载货示范应用。 IT之家从官方介绍获悉,首批 L4 自动驾驶重卡从京东物流北京魏永集货分拣中心驶出, 单程 31 公里 直达兴茂散货分拣中心,途经大...",
       "source": "Ithome",
-      "date": "2026-07-02",
-      "url": "https://www.ithome.com/0/971/951.htm",
+      "date": "2026-07-03",
+      "url": "https://www.ithome.com/0/972/419.htm",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1869610293013626920",
-      "title": "留学生的夏日“智”旅|坐上“土豆巴士”,遇见未来出..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-02",
-      "url": "http://baijiahao.baidu.com/s?id=1869610293013626920",
+      "id": "https://www.chinanews.com.cn/sh/2026/07-03/10652371.shtml",
+      "title": "中东欧国家新闻发言人在上海“竖店”体验短视频创新活力",
+      "summary": "中新社上海7月3日电 (高志苗)“很真实的开车体验,就好像在真的道路上驾驶一样。”阿尔巴尼亚欧洲和外交事务部部长顾问、首席发言人阿尔蒂奥·希西3日体验模拟驾驶场景后告诉中新社记者。...",
+      "source": "Chinanews",
+      "date": "2026-07-03",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-03/10652371.shtml",
       "category": "industry"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1782994278129531.html",
-      "title": "荆华密算团队亮相链博会,在人工智能产业链中,密算在哪一环?",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-07-02",
-      "url": "https://www.bjnews.com.cn/detail/1782994278129531.html",
+      "id": "https://www.scmp.com/business/article/3359360/chinas-momenta-ipo-oversubscribed-414-times-hong-kong-listings-pack-calendar",
+      "title": "China’s Momenta IPO oversubscribed 414 times as Hong Kong listings pack calendar",
+      "summary": "Autonomous-driving firm draws nearly 210,000 orders for a US$751 million offering, making it year’s second ‘red-chip’ firm to get Beijing’s permission...",
+      "source": "South China Morning Post",
+      "date": "2026-07-03",
+      "url": "https://www.scmp.com/business/article/3359360/chinas-momenta-ipo-oversubscribed-414-times-hong-kong-listings-pack-calendar",
       "category": "industry"
     },
     {
-      "id": "https://www.ithome.com/0/971/944.htm",
-      "title": "别克至境 E7 推出“交车关怀礼”:芯片供货紧张,延迟 1 天补贴 100 元",
-      "summary": "IT之家 7 月 2 日消息,上汽通用别克 7 月 1 日针对至境 E7 推出“交车关怀礼”,承诺将自锁单之日起 3 天内完成车辆交付,延迟 1 天补贴 100 元。 公告称,受全球半导体供应链波动影响, 近期出现芯片供货紧张 ,部分用户的车辆交付时间可能有所延迟。 即日起至 7 月 31 日,下定...",
-      "source": "Ithome",
+      "id": "https://www.devdiscourse.com/article/technology/3944428-tesla-surges-with-record-deliveries-amid-economic-challenges",
+      "title": "Tesla Surges with Record Deliveries Amid Economic Challenges",
+      "summary": "Tesla reported record second-quarter delivery numbers, surpassing Wall Street estimates, driven by a European market rebound. The company's results pr...",
+      "source": "Devdiscourse",
       "date": "2026-07-02",
-      "url": "https://www.ithome.com/0/971/944.htm",
-      "category": "tech"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1869595300849546045",
-      "title": "“深圳将全域开放无人驾驶”系误读(2026·07·..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-02",
-      "url": "http://baijiahao.baidu.com/s?id=1869595300849546045",
+      "url": "https://www.devdiscourse.com/article/technology/3944428-tesla-surges-with-record-deliveries-amid-economic-challenges",
       "category": "industry"
     },
     {
@@ -163,24 +181,6 @@
       "date": "2026-07-02",
       "url": "https://www.devdiscourse.com/article/technology/3944208-tesla-surpasses-expectations-a-surge-in-european-demand-drives-success",
       "category": "industry"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3944205-teslas-surging-european-demand-boosts-q2-deliveries-beyond-expectations",
-      "title": "Tesla's Surging European Demand Boosts Q2 Deliveries Beyond Expectations",
-      "summary": "Tesla exceeded Wall Street expectations for Q2 deliveries, driven by a demand rebound in Europe. The company delivered 480,126 vehicles, outperforming...",
-      "source": "Devdiscourse",
-      "date": "2026-07-02",
-      "url": "https://www.devdiscourse.com/article/technology/3944205-teslas-surging-european-demand-boosts-q2-deliveries-beyond-expectations",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.moneycontrol.com/news/business/markets/india-s-defence-sector-enters-structural-growth-phase-as-brokerages-see-deep-tech-exports-driving-next-leg-13963880.html",
-      "title": "India's defence sector enters structural growth phase as brokerages see deep-tech, exports driving next leg",
-      "summary": "While large platform orders are expected to remain the backbone of defence spending, brokerages increasingly see the next phase of value creation shif...",
-      "source": "Moneycontrol",
-      "date": "2026-07-02",
-      "url": "https://www.moneycontrol.com/news/business/markets/india-s-defence-sector-enters-structural-growth-phase-as-brokerages-see-deep-tech-exports-driving-next-leg-13963880.html",
-      "category": "tech"
     }
   ]
 }
