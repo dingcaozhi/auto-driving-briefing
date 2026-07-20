@@ -1,122 +1,131 @@
 {
-  "lastUpdated": "2026-07-19 04:16:30",
-  "totalCount": 22,
+  "lastUpdated": "2026-07-20 04:30:07",
+  "totalCount": 23,
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1870971228816004136",
-      "title": "九识智能宣布L4级自动驾驶无图方案规模化量产",
+      "id": "http://baijiahao.baidu.com/s?id=1871154497820845251",
+      "title": "直击WAIC|智能体落地加速:进入车辆、手机和真实..",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-07-18",
-      "url": "http://baijiahao.baidu.com/s?id=1870971228816004136",
+      "date": "2026-07-19",
+      "url": "http://baijiahao.baidu.com/s?id=1871154497820845251",
       "category": "industry"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/sea/story20260718-9385263",
-      "title": "安华正式推出AI分身 PMX AI随时随地聆听民意",
-      "summary": "马来西亚首相安华正式推出名为PMX AI的人工智能分身,并邀请人民尤其是年轻人,通过这个虚拟分身与他交流,以确保国家发展真正符合民意。...",
-      "source": "Zaobao",
-      "date": "2026-07-18",
-      "url": "https://www.zaobao.com.sg/news/sea/story20260718-9385263",
+      "id": "http://baijiahao.baidu.com/s?id=1871150832536304961",
+      "title": "WAIC具身智能落地白热化,但机器人仍在等待“GP..",
+      "summary": "“一年一变样,三年大变样。”这句昔日形容上海城市发展速度的经典名言,如今放在具身智能领域,也格外贴切。三年前,世界人工智能大会如同一扇橱窗,入口处“十八罗汉”的亮相,让国内人形机器人首次走到聚光灯下;...",
+      "source": "News_Baidu",
+      "date": "2026-07-19",
+      "url": "http://baijiahao.baidu.com/s?id=1871150832536304961",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871061133391148607",
-      "title": "从AI思考到智能体行动 产业智能体互联网重塑产业组..",
+      "id": "http://baijiahao.baidu.com/s?id=1871154845404948873",
+      "title": "智元携全系列产品、多个部署态场景参展WAIC 彭志..",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-07-18",
-      "url": "http://baijiahao.baidu.com/s?id=1871061133391148607",
+      "date": "2026-07-19",
+      "url": "http://baijiahao.baidu.com/s?id=1871154845404948873",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871049492954597871",
-      "title": "焦点访谈|“三地四馆”联动 一站式走遍中国最完整A..",
+      "id": "http://baijiahao.baidu.com/s?id=1871154371633198351",
+      "title": "沿河蓝天救援队:77天全程值守,只为守护少年平安一..",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-07-18",
-      "url": "http://baijiahao.baidu.com/s?id=1871049492954597871",
+      "date": "2026-07-19",
+      "url": "http://baijiahao.baidu.com/s?id=1871154371633198351",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871061039424338449",
-      "title": "人歇岗不歇、科技赋能,上海公安交警保障WAIC展馆..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-18",
-      "url": "http://baijiahao.baidu.com/s?id=1871061039424338449",
+      "id": "https://news.cri.cn/20260719/5a06eb6c-1a96-e82a-bb96-f3b34830acff.html",
+      "title": "开局之年看中国丨秦地山河阔 烟火满人间-国际在线",
+      "summary": "盛夏的三秦,是什么光景?是晨光筛过梧桐的闪亮是山风拂过秦岭的悠长是晚霞染透城墙的酣畅是灯火点亮街巷的滚烫夏意正盛三秦万物长笑声、歌声、吆喝声搅动夏日的暑气酿出满城烟火热烈、鲜活、充满生命力西安城墙上,演员与游客近距离互动。西安城墙管委会供图...",
+      "source": "Cri_Cn",
+      "date": "2026-07-19",
+      "url": "https://news.cri.cn/20260719/5a06eb6c-1a96-e82a-bb96-f3b34830acff.html",
       "category": "industry"
     },
     {
-      "id": "https://www.ithome.com/0/978/587.htm",
-      "title": "蔚来官宣 NIO Day 2026 将在武汉举行,有望首发最新产品、技术",
-      "summary": "IT之家 7 月 18 日消息,今晚,蔚来官宣 NIO Day 2026 城市申办投票结果出炉,武汉以 178,854,028 票位居三城榜首,成为由蔚来社区用户共同决定的 NIO Day 2026 的举办城市。 IT之家注意到,蔚来 NIO Day 今年的申办城市包括:长春、重庆、哈尔滨、济南、南...",
+      "id": "https://www.ithome.com/0/978/795.htm",
+      "title": "先办牌照再造车,央视曝光非标电动车黑灰产链条",
+      "summary": "IT之家 7 月 19 日消息,据央视新闻今日报道,去年 9 月,电动自行车安全技术新国标正式落地实施。新国标通过防篡改等多重硬件设计,从源头上最大限度限制了车辆违规改装和提速,目的是减少交通意外事故的发生。然而近期,记者接到线索,部分电动自行车专卖店、生产企业依然在暗中违规生产、销售超出国家标准的...",
       "source": "Ithome",
-      "date": "2026-07-18",
-      "url": "https://www.ithome.com/0/978/587.htm",
-      "category": "tech"
+      "date": "2026-07-19",
+      "url": "https://www.ithome.com/0/978/795.htm",
+      "category": "industry"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/07-18/10662231.shtml",
-      "title": "台企组团参展世界人工智能大会:这里有投资、有技术、有合作",
-      "summary": "中新社上海7月18日电 (记者 缪璐)台湾若美科技股份有限公司品牌长林斯涵第一次来参加世界人工智能大会。此前,他就听参加过上一届的朋友说:“这个大会科技含量高、合作意向高、投资意愿高。”三个“高”,让他对这趟上海之行充满期待。...",
-      "source": "Chinanews",
-      "date": "2026-07-18",
-      "url": "https://www.chinanews.com.cn/cj/2026/07-18/10662231.shtml",
-      "category": "tech"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1784380167129020.html",
-      "title": "大空间,长续航,星海V9兼顾家庭全场景",
+      "id": "https://www.bjnews.com.cn/detail/1784446831129245.html",
+      "title": "央视直击|能量传递!大咖机器人重负载机器马彰显国产具身智能硬实力",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-07-18",
-      "url": "https://www.bjnews.com.cn/detail/1784380167129020.html",
+      "date": "2026-07-19",
+      "url": "https://www.bjnews.com.cn/detail/1784446831129245.html",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871048104167183812",
-      "title": "山东8家省属事业单位招聘,济南有岗",
+      "id": "http://www.199it.com/archives/1840697.html",
+      "title": "隐藏式门把手碰撞弹出成功率仅67%",
+      "summary": "工信部发布强制性国家标准《汽车车门把手安全技术要求》,指出纯电控隐藏式门把手在侧面碰撞后弹出成功率仅为67%,远低于传统机械把手。日常使用中,冬季结冰亦常导致门把手无法弹出。新标准要求每扇车门配备独立机械释放装置,自2027年1月1日起,全隐藏式门把手将无法通过新车型认证。外露式和半隐藏式门把手的回...",
+      "source": "A199It",
+      "date": "2026-07-19",
+      "url": "http://www.199it.com/archives/1840697.html",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871145415773877022",
+      "title": "300+机器人参展 物理AI为何站上WAIC的“C..",
+      "summary": "本届世界人工智能大会上,人们不再仅仅聚焦于AI“会说话”,而是更加关注AI如何“会干活”。物理AI被视作通往通用具身智能的必由之路。展会现场,不少具身智能企业展示了在物理AI领域的探索与实践。让AI理...",
+      "source": "News_Baidu",
+      "date": "2026-07-19",
+      "url": "http://baijiahao.baidu.com/s?id=1871145415773877022",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.time-weekly.com/post/331136",
+      "title": "对话满帮集团高艺铭:让算法进入货运物流真实交易环节,打造司机与货主的助理智能体|直击WAIC",
+      "summary": "本文来源:时代财经 作者:吴典 林心林 满帮集团AI算法总监高艺铭正在演讲 时代财经摄 7月17日至20日,申城正值酷暑,以“智能伙伴 共创未来”为主题的2026世界人工智能大会火热举行。这是一场关乎人类未来的全球对话,1100余家企业汇聚于此,共同展示科技的力量与温度。 18日,在阿里云·Agen...",
+      "source": "Time Weekly",
+      "date": "2026-07-19",
+      "url": "https://www.time-weekly.com/post/331136",
+      "category": "tech"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871139682661412586",
+      "title": "晚间公告|7月19日这些公告有看头",
+      "summary": "【品大事】长鑫科技:中签号共约770.22万个长鑫科技披露首次公开发行股票网上中签结果,中签号码共有7702207个,每个中签号码只能认购500股长鑫科技A股股票。中国神华:6月商品煤产量4270万吨...",
+      "source": "News_Baidu",
+      "date": "2026-07-19",
+      "url": "http://baijiahao.baidu.com/s?id=1871139682661412586",
+      "category": "industry"
+    },
+    {
+      "id": "https://yz.rednet.cn/content/646041/53/16095338.html",
+      "title": "2.22L超低油耗!第5代帝豪i-HEV智擎混动永州区域上市,限时7.89万起_财富_永州站",
       "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-18",
-      "url": "http://baijiahao.baidu.com/s?id=1871048104167183812",
+      "source": "Rednet_Cn",
+      "date": "2026-07-19",
+      "url": "https://yz.rednet.cn/content/646041/53/16095338.html",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871054841213190555",
-      "title": "具身智能站上大会C位:以高质量数据为基,让机器人真..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-18",
-      "url": "http://baijiahao.baidu.com/s?id=1871054841213190555",
-      "category": "industry"
+      "id": "https://post.smzdm.com/p/ak8mm5vk/",
+      "title": "35万买六座大SUV,这台三电机选手把技术拉满了",
+      "summary": "30万出头的预算,想买一台六座大SUV,智己LS9 Hyper是这个价位里一个绕不开的选项。理由很简单:三电机矢量四驱、全线控转向、800V超充——这些技术原本只出现在更贵的车型上,现在被下放到35万区间。但选车不能只看堆料,得把这些参数拆成实际的驾驶体......",
+      "source": "Smzdm",
+      "date": "2026-07-19",
+      "url": "https://post.smzdm.com/p/ak8mm5vk/",
+      "category": "tech"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1871065881899352054",
-      "title": "粉色的加宽车位,这样的“女神专属”算贴心吗?",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-18",
-      "url": "http://baijiahao.baidu.com/s?id=1871065881899352054",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871054347370564294",
-      "title": "LV告完,TIFFANY告!律师释疑",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-18",
-      "url": "http://baijiahao.baidu.com/s?id=1871054347370564294",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871046330443906877",
-      "title": "文远知行入选2026世界人工智能大会十大案例",
-      "summary": "7月17日,2026世界人工智能大会暨人工智能全球治理高级别会议在上海开幕。主论坛上,国家发展改革委会同有关部门发布《中国智·惠世界(2026)》案例集。文远知行自动驾驶出海阿联酋项目入选十大人工智能...",
-      "source": "News_Baidu",
-      "date": "2026-07-18",
-      "url": "http://baijiahao.baidu.com/s?id=1871046330443906877",
+      "id": "http://www.199it.com/archives/1840704.html",
+      "title": "宝马集团:2026年上半年中国市场销量26.18万辆,同比下降20.4%",
+      "summary": "宝马集团2026年上半年全球销量115.67万辆,同比下滑4.2%;中国市场交付26.18万辆,同比下滑20.4%,首次不再是最大单一市场。宝马在华新能源渗透率仅6.2%,已下调业绩指引,停产旧纯电车型,押注新世代iX3。...",
+      "source": "A199It",
+      "date": "2026-07-19",
+      "url": "http://www.199it.com/archives/1840704.html",
       "category": "industry"
     },
     {
@@ -171,15 +180,6 @@
       "source": "The Star",
       "date": "2026-07-17",
       "url": "https://www.thestar.com.my/tech/tech-news/2026/07/17/zoox-recalls-self-driving-cars-because-they-may-not-detect-smoke",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.news-medical.net/news/20260717/BYK-Strengthens-its-portfolio-of-measurement-and-testing-instruments-through-a-strategic-acquisition-in-the-autonomous-driving-market.aspx",
-      "title": "BYK Strengthens its portfolio of measurement and testing instruments through a strategic acquisition in the autonomous driving market",
-      "summary": "BYK-Gardner USA, a subsidiary of the specialty chemicals group ALTANA, is acquiring perisens GmbH....",
-      "source": "News-Medical.net",
-      "date": "2026-07-17",
-      "url": "https://www.news-medical.net/news/20260717/BYK-Strengthens-its-portfolio-of-measurement-and-testing-instruments-through-a-strategic-acquisition-in-the-autonomous-driving-market.aspx",
       "category": "industry"
     }
   ]
