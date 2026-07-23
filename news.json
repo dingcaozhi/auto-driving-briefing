@@ -1,159 +1,177 @@
 {
-  "lastUpdated": "2026-07-22 04:10:52",
-  "totalCount": 26,
+  "lastUpdated": "2026-07-23 04:08:49",
+  "totalCount": 25,
   "news": [
     {
-      "id": "https://www.globenewswire.com/fr/news-release/2026/07/21/3330769/0/zh-hans/Bitget-%E9%9B%86%E6%88%90-Siebly-io-SDK-%E6%8F%90%E5%8D%87%E7%AE%97%E6%B3%95%E4%BA%A4%E6%98%93%E4%BD%93%E9%AA%8C.html",
-      "title": "Bitget 集成 Siebly.io SDK,提升算法交易体验",
-      "summary": "塞舌尔维多利亚, July 22, 2026 (GLOBE NEWSWIRE) -- 全球最大的全景交易所 (UEX) Bitget 今日宣布与 Siebly.io 达成合作,以简化与 Bitget V3 Unified Trading Account 及 V2 Classic API 的集成。Si...",
-      "source": "Globenewswire_Fr",
-      "date": "2026-07-21",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/07/21/3330769/0/zh-hans/Bitget-%E9%9B%86%E6%88%90-Siebly-io-SDK-%E6%8F%90%E5%8D%87%E7%AE%97%E6%B3%95%E4%BA%A4%E6%98%93%E4%BD%93%E9%AA%8C.html",
+      "id": "http://baijiahao.baidu.com/s?id=1871427723725188705",
+      "title": "高中毕业生刘星:流水线上的青春历练",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-22",
+      "url": "http://baijiahao.baidu.com/s?id=1871427723725188705",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1784687692129090.html",
+      "title": "从全家人的默契之选中,读懂奔驰的豪华",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-07-22",
+      "url": "https://www.bjnews.com.cn/detail/1784687692129090.html",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1784718199169041.html",
+      "title": "利用大巴车遮挡监控偷车,一男子被北京海淀警方行政拘留",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-07-22",
+      "url": "https://www.bjnews.com.cn/detail/1784718199169041.html",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871206117284865539",
+      "title": "AI协同精准诊疗落地 朱思泉团队依托医学AI智能体..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-22",
+      "url": "http://baijiahao.baidu.com/s?id=1871206117284865539",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871421004974672743",
+      "title": "李尔平院士:为智能时代筑牢“电磁防线”",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-22",
+      "url": "http://baijiahao.baidu.com/s?id=1871421004974672743",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1784703676169032.html",
+      "title": "长鑫科技吹响“集结号”,车企豪掷超3亿元入局“算力心脏”",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-07-22",
+      "url": "https://www.bjnews.com.cn/detail/1784703676169032.html",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871414241083963520",
+      "title": "从大山到江城,跨越600公里的“第一次”——湖北公..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-22",
+      "url": "http://baijiahao.baidu.com/s?id=1871414241083963520",
+      "category": "industry"
+    },
+    {
+      "id": "https://news.seehua.com/post/1518621",
+      "title": "危险骑摩哆载妻女举车头 无牌骑士被警方逮捕",
+      "summary": "(亚罗士打22日讯)一名男子骑摩哆载著妻子及4岁女儿在公路上危险表演“翘孤轮(举车头)”的17秒影片在社交媒体 [...]...",
+      "source": "News_Seehua",
+      "date": "2026-07-22",
+      "url": "https://news.seehua.com/post/1518621",
+      "category": "industry"
+    },
+    {
+      "id": "https://hypebeast.cn/2026/7/lamborghini-revuelto-impavido-marks-25-years-in-japan",
+      "title": "Lamborghini 推出限量 25 部日本专属 Revuelto Impavido 超级跑车",
+      "summary": "Automobili Lamborghini 发布 Revuelto Impavido,标志着品牌在日本市场迎来重要里程碑。这款专为日本市场打造的纪念版超级跑车,献礼 Lamborghini Japan 成立 25 周年。意大利制造商仅限量生产 25 台,每台均有独立编号。其名称在意大利语中意为「无...",
+      "source": "Hypebeast_Cn",
+      "date": "2026-07-22",
+      "url": "https://hypebeast.cn/2026/7/lamborghini-revuelto-impavido-marks-25-years-in-japan",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871417168216690625",
+      "title": "萌趣“宝宝巴士”驶进老城街巷 便民出行更舒心",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-22",
+      "url": "http://baijiahao.baidu.com/s?id=1871417168216690625",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.prnasia.com/story/541596-1.shtml",
+      "title": "昂际智航低空航电飞控开放生态联盟启新程",
+      "summary": "上海 2026年7月22日 /美通社/ -- 7月22日,2026上海国际低空经济博览会于国家会展中心拉开帷幕。 昂际智航携 \"珑驭 ® \"航电及飞控解决方案 亮相4.1馆A250展位,首日便迎来超高人气,众多整机厂商、产业链伙伴及行业专家纷纷驻足交流。 低空航电飞控开放生态联盟正式启动 当日下午,...",
+      "source": "Prnasia",
+      "date": "2026-07-22",
+      "url": "https://www.prnasia.com/story/541596-1.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/07-22/10664596.shtml",
+      "title": "(长江十年行)从“一把捞网”到“机械赋能” 重庆126公里水域的清漂之变",
+      "summary": "",
+      "source": "Chinanews",
+      "date": "2026-07-22",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-22/10664596.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871420848482112773",
+      "title": "WAIC大咖说|太空算力走向何方?专访东方天算CE..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-22",
+      "url": "http://baijiahao.baidu.com/s?id=1871420848482112773",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871406662230502913",
+      "title": "一艘“济宁造”绿舟驶向越南",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-22",
+      "url": "http://baijiahao.baidu.com/s?id=1871406662230502913",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1871410151794908834",
+      "title": "中国工程院院士李骏:自动驾驶要保证全生命周期持续安..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-22",
+      "url": "http://baijiahao.baidu.com/s?id=1871410151794908834",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.theverge.com/transportation/969237/nhtsa-wants-to-know-why-tesla-got-rid-of-its-radar",
+      "title": "NHTSA wants to know why Tesla got rid of its radar.",
+      "summary": "Props to Fred Lambert at Electrek for catching this: the National Highway Traffic Safety Administration is requesting from Tesla all information about...",
+      "source": "The Verge",
+      "date": "2026-07-22",
+      "url": "https://www.theverge.com/transportation/969237/nhtsa-wants-to-know-why-tesla-got-rid-of-its-radar",
+      "category": "industry"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-tech-firms-raise-over-27-billion-in-hong-kong-to-fuel-ai-chip-expansion/articleshow/132554758.cms",
+      "title": "Global Market: Chinese tech firms raise over $27 billion in Hong Kong to fuel AI, chip expansion",
+      "summary": "Chinese technology firms are actively raising substantial funds in Hong Kong. These companies are financing growth in artificial intelligence and semi...",
+      "source": "The Economic Times",
+      "date": "2026-07-22",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-tech-firms-raise-over-27-billion-in-hong-kong-to-fuel-ai-chip-expansion/articleshow/132554758.cms",
       "category": "tech"
     },
     {
-      "id": "http://news.imobile.com.cn/articles/2026/0721/235034.shtml",
-      "title": "北京越野豪华新品牌“泰钽”发布,泰钽700预售价29.98万元",
-      "summary": "7月21日,“世界‘泰’大,皆是‘钽’途——北京越野泰钽700预售发布会”在北京雁栖湖举行。北京越野正式发布全新豪华越野品牌“泰钽”,旗下首款豪华越野SUV泰钽700同步开启预售,预售价29.98-38.98万元。 泰钽700搭载与华为深度共创、同级领先的全场景NOA系统,覆盖高速、城市、越野三大场...",
-      "source": "Imobile",
-      "date": "2026-07-21",
-      "url": "http://news.imobile.com.cn/articles/2026/0721/235034.shtml",
-      "category": "product"
-    },
-    {
-      "id": "https://www.fx168news.com/article/1061514",
-      "title": "特斯拉(TSLA)股票7月21日盘中上涨3.46%:背后推手曝光-FX168",
-      "summary": "特斯拉 (TSLA) 盘中上涨3.46%, 所属行业汽车与零部件上涨2.69% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 上涨 3.46%;通用汽车 (GM) 上涨 3.96%;Cummins Inc (CMI) 上涨 2.40%。 今日是什么导致了特斯拉(TSLA)股价上涨...",
-      "source": "Fx168News",
-      "date": "2026-07-21",
-      "url": "https://www.fx168news.com/article/1061514",
+      "id": "https://www.benzinga.com/markets/earnings/26/07/60599635/gm-ceo-mary-barra-says-chinas-price-war-isnt-sustainable-backs-companys-autonomous-driving-efforts-amid-nearly-11-billion-in-ev-charges",
+      "title": "GM CEO Mary Barra Says China's Price War Isn't 'Sustainable,' Backs Company's Autonomous Driving Efforts",
+      "summary": "GM CEO Mary Barra says China's EV price war is unsustainable; believes autonomy will provide pricing power....",
+      "source": "Benzinga",
+      "date": "2026-07-22",
+      "url": "https://www.benzinga.com/markets/earnings/26/07/60599635/gm-ceo-mary-barra-says-chinas-price-war-isnt-sustainable-backs-companys-autonomous-driving-efforts-amid-nearly-11-billion-in-ev-charges",
       "category": "industry"
     },
     {
-      "id": "https://www.ithome.com/0/979/796.htm",
-      "title": "Mobileye 将自 2027 年起为 Stellantis 部分车型提供云增强 ADAS",
-      "summary": "IT之家 7 月 21 日消息,Mobileye 当地时间 21 日宣布, 其云增强型 ADAS (高级驾驶辅助系统) 预计自 2027 年起搭载于 Stellantis 的未来部分新车型 ,率先在美国市场投放。 Stellantis 也成为最新一家加入 Mobileye REM 智能路网技术生态系...",
-      "source": "Ithome",
+      "id": "https://www.cnbctv18.com/market/earnings/gabriel-india-q1-net-profit-rises-2-pc-acquires-30-pc-stake-in-hl-klemove-india-19950846.htm",
+      "title": "Gabriel India Q1 profit inches up 2%; to buy stake in Korean auto tech firm for ₹948 crore",
+      "summary": "Gabriel India reported a modest 2% rise in June-quarter profit as revenue grew in double digits. Separately, the company announced a ₹948-crore invest...",
+      "source": "CNBC TV18",
       "date": "2026-07-21",
-      "url": "https://www.ithome.com/0/979/796.htm",
-      "category": "industry"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0721/968483.shtml",
-      "title": "MONA L03欧洲上市 小鹏拓展物理AI全球版图",
-      "summary": "小鹏这家来自中国的公司,以“PHYSICAL AI FOR ALL”的宣言显露出其野心:不光要在全球销售汽车产品,还要打通物理AI从中国走向全球的通道。...",
-      "source": "Eeo",
-      "date": "2026-07-21",
-      "url": "http://www.eeo.com.cn/2026/0721/968483.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.ithome.com/0/979/792.htm",
-      "title": "马斯克警告做空 SpaceX 的机构:存活概率极低",
-      "summary": "IT之家 7 月 21 日消息,埃隆 · 马斯克日前在社交平台 X 上发文警告称,长期持有 SpaceX 大量空头头寸的机构,“最终存活下来的概率非常低”。 这番表态正值 SpaceX 上市后股价出现波动之际。在被称为“史上最大 IPO”的上市五周后,SpaceX 股价较市值峰值已回落约 30%。此...",
-      "source": "Ithome",
-      "date": "2026-07-21",
-      "url": "https://www.ithome.com/0/979/792.htm",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.ithome.com/0/979/786.htm",
-      "title": "财报前夕,特斯拉将 Robotaxi 自动驾驶出租车服务扩展至美国奥兰多和坦帕",
-      "summary": "IT之家 7 月 21 日消息,特斯拉当地时间周二宣布,将 Robotaxi 自动驾驶出租车服务扩展至美国佛罗里达州的奥兰多和坦帕。这家电动汽车制造商正力争证明其能够将自动驾驶出租车业务从最初的投放市场扩大规模。 此次扩张正值特斯拉即将于周三公布第二季度财报前夕。华尔街正密切关注 Robotaxi ...",
-      "source": "Ithome",
-      "date": "2026-07-21",
-      "url": "https://www.ithome.com/0/979/786.htm",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.ithome.com/0/979/785.htm",
-      "title": "理想汽车回应“新一代 L6 超充是否会伤电池”:正常用车周期内,衰减基本不用操心",
-      "summary": "IT之家 7 月 21 日消息,理想汽车官方今日发布了《答网友问》节目,解答了关于新一代理想 L6 的 5 个高频问题。 目前,新一代理想 L6 的预计交付时间为 6-8 周。该车可以在理想的双枪 5C 桩、4C 桩以及 2C 桩进行补能。峰值充电功率升级至 260 千瓦, 使用双枪 5C 桩或 4...",
-      "source": "Ithome",
-      "date": "2026-07-21",
-      "url": "https://www.ithome.com/0/979/785.htm",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871333962442147629",
-      "title": "首批搭载华为乾崑智驾ADS 5,北京越野泰钽700..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-21",
-      "url": "http://baijiahao.baidu.com/s?id=1871333962442147629",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871330155081559397",
-      "title": "全球七成份额,被中国机器狗“拿捏”",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-21",
-      "url": "http://baijiahao.baidu.com/s?id=1871330155081559397",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871335817453962649",
-      "title": "凡人微光丨“上班顺便救了两个人!”",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-21",
-      "url": "http://baijiahao.baidu.com/s?id=1871335817453962649",
-      "category": "industry"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0721/968465.shtml",
-      "title": "“十五五”物流降本路线图:货运枢纽补链强链,培育百家物流龙头",
-      "summary": "21世纪经济报道记者 高江虹 7月21日,国新办举行“开局起步‘十五五’”系列主题新闻发布会,介绍加快建设交通强国、完善现代化综合交通运输体系有关情况。 交通运输部副部长徐成光在会上透露,“十四五”时期,我国完成交通固定资产投资18.8万亿元,这是新中国成立以来投资最多、网络建设最快的五年。“十五五...",
-      "source": "Eeo",
-      "date": "2026-07-21",
-      "url": "http://www.eeo.com.cn/2026/0721/968465.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871331101321712143",
-      "title": "传承弘扬沂蒙精神先进事迹巡回报告会罗庄专场举行",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-21",
-      "url": "http://baijiahao.baidu.com/s?id=1871331101321712143",
-      "category": "industry"
-    },
-    {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3471311",
-      "title": "特斯拉将无人驾驶出租车服务扩展至奥兰多和坦帕",
-      "summary": "",
-      "source": "Investing_Cn",
-      "date": "2026-07-21",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3471311",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871328834295980952",
-      "title": "WAIC2026|对话望石智慧周杰龙:用微观世界模..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-21",
-      "url": "http://baijiahao.baidu.com/s?id=1871328834295980952",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871318924273850340",
-      "title": "无人车开进了山东县城:不光送快递,连干洗店、回收站..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-21",
-      "url": "http://baijiahao.baidu.com/s?id=1871318924273850340",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871332576961900109",
-      "title": "钢铁独角兽,试装中国芯",
-      "summary": "智元已经与国产算力企业合作了。在近期举办的世界人工智能大会上,这家头部人形机器人企业的高级副总裁王闯对第一财经记者透露上述消息。这不是孤例。它石智航等企业也在将国产算力嵌入机器人。中国机器人企业起步的...",
-      "source": "News_Baidu",
-      "date": "2026-07-21",
-      "url": "http://baijiahao.baidu.com/s?id=1871332576961900109",
-      "category": "industry"
+      "url": "https://www.cnbctv18.com/market/earnings/gabriel-india-q1-net-profit-rises-2-pc-acquires-30-pc-stake-in-hl-klemove-india-19950846.htm",
+      "category": "tech"
     },
     {
       "id": "https://scanx.trade/stock-market-news/companies/gabriel-india-to-acquire-30-stake-in-hl-klemove-india-for-usd-98-44-million/46194956",
@@ -163,24 +181,6 @@
       "date": "2026-07-21",
       "url": "https://scanx.trade/stock-market-news/companies/gabriel-india-to-acquire-30-stake-in-hl-klemove-india-for-usd-98-44-million/46194956",
       "category": "industry"
-    },
-    {
-      "id": "https://www.europesays.com/3144957/",
-      "title": "Tesla talked up AI. Wall Street wants to know where the money is",
-      "summary": "After hearing Tesla Inc.’s seemingly countless promises about artificial intelligence, autonomous driving and robotics, Wall Street wants the company ...",
-      "source": "EUROPE SAYS",
-      "date": "2026-07-21",
-      "url": "https://www.europesays.com/3144957/",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.mercurynews.com/2026/07/21/teslas-problem-is-opposite-of-big-tech-not-enough-ai-spending/",
-      "title": "Tesla’s problem is opposite of big tech: Not enough AI spending",
-      "summary": "After hearing Tesla Inc.’s seemingly countless promises about artificial intelligence, autonomous driving and robotics, Wall Street wants the company ...",
-      "source": "The Mercury News",
-      "date": "2026-07-21",
-      "url": "https://www.mercurynews.com/2026/07/21/teslas-problem-is-opposite-of-big-tech-not-enough-ai-spending/",
-      "category": "tech"
     }
   ]
 }
