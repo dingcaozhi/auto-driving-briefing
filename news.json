@@ -1,176 +1,158 @@
 {
-  "lastUpdated": "2026-07-30 03:49:51",
-  "totalCount": 29,
+  "lastUpdated": "2026-07-31 04:16:02",
+  "totalCount": 25,
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872028003708592283",
-      "title": "“他是我们学校和军队的宝贝”",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-29",
-      "url": "http://baijiahao.baidu.com/s?id=1872028003708592283",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872061442151998023",
-      "title": "从“成都时间”到“成都声明”再到“成都样本”!AP..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-29",
-      "url": "http://baijiahao.baidu.com/s?id=1872061442151998023",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872036276271477404",
-      "title": "8月1日起施行!北京四部门联合印发快递、外卖非机动..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-29",
-      "url": "http://baijiahao.baidu.com/s?id=1872036276271477404",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872059884932202016",
-      "title": "【智库声音】新华社 | 曹祎遐等:越来越多外国人在..",
-      "summary": "美国游客彼得·安东尼每次来上海,都会带着一摞来自家人和朋友的验光单。这是他多年前首次光顾上海一家眼镜店后养成的习惯。跟以往一样,今年6月安东尼抵达上海后的第一站,不是外滩,也不是南京路,而是一家眼镜店。“我给孩子配,也给...",
-      "source": "News_Baidu",
-      "date": "2026-07-29",
-      "url": "http://baijiahao.baidu.com/s?id=1872059884932202016",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872056357407115806",
-      "title": "中船七〇八所牵头改造,“东方红2”号科考船完工交付",
-      "summary": "7月29日,历经现代化大修改造,由中国船舶第七〇八研究所承担整体改造设计的“东方红2”号海洋综合科考实习船,在武昌船舶重工集团完成改造并顺利交付。这艘服役27年的老牌科考船完成系统性升级优化,整体性能...",
-      "source": "News_Baidu",
-      "date": "2026-07-29",
-      "url": "http://baijiahao.baidu.com/s?id=1872056357407115806",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1785319997129103.html",
-      "title": "智驾“小蓝灯”不符合国标被禁用?车企最新回应",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-07-29",
-      "url": "https://www.bjnews.com.cn/detail/1785319997129103.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://post.smzdm.com/p/am9mll8d/",
-      "title": "深蓝S05提车后必改这12个设置,销售绝口不提,改完车价翻倍",
-      "summary": "先说个扎心的事实:九成车主把车开了一年,还在用出厂默认设置提车之后大多只关注外观、续航和基础驾驶功能,车机、钥匙、行车安全、能耗控制这些板块里,藏着大量能直接提升体验的实用设置。销售一般不会一次性讲完,不自己动手挖,这些功能就白白浪费了。今天把深蓝S05......",
-      "source": "Smzdm",
-      "date": "2026-07-29",
-      "url": "https://post.smzdm.com/p/am9mll8d/",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260729-%E9%A9%AC%E8%88%AAmh370%E5%A4%B1%E8%81%94-%E9%A9%AC%E8%88%AA%E4%B8%8A%E8%AF%89%E6%A1%88%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%BC%80%E5%BA%AD-%E9%83%A8%E5%88%86%E5%AE%B6%E5%B1%9E-%E6%97%A0%E6%AF%94%E6%84%A4%E6%80%92",
-      "title": "马航MH370失联:马航上诉案在北京开庭 部分家属“无比愤怒”",
-      "summary": "在马航MH370航班离奇失踪12年后,该航空公司上诉案周二在北京开庭审理。法新社说,“无比愤怒”的部分中国乘客家属在北京向马来西亚航空公司追责,并呼吁当局允许家属自行组织搜索行动。...",
-      "source": "Rfi_Fr",
-      "date": "2026-07-29",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260729-%E9%A9%AC%E8%88%AAmh370%E5%A4%B1%E8%81%94-%E9%A9%AC%E8%88%AA%E4%B8%8A%E8%AF%89%E6%A1%88%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%BC%80%E5%BA%AD-%E9%83%A8%E5%88%86%E5%AE%B6%E5%B1%9E-%E6%97%A0%E6%AF%94%E6%84%A4%E6%80%92",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872047549577554861",
-      "title": "明明有正规车,为什么还有人选择“黑救护”?真相扎心..",
-      "summary": "“谈好了800块,开到半路说要加2000,不然就把我爸扔高速上。”这不是段子,是真实发生在非急救转运领域的惨痛教训。很多家属不是不想选正规渠道,而是——根本不知道正规的在哪里。正规官方一直都有——湖南...",
-      "source": "News_Baidu",
-      "date": "2026-07-29",
-      "url": "http://baijiahao.baidu.com/s?id=1872047549577554861",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872048325306235232",
-      "title": "澎湃漫评|高速公路绝不容“撒野”",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-29",
-      "url": "http://baijiahao.baidu.com/s?id=1872048325306235232",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1785309048129854.html",
-      "title": "国家邮政局:“人工智能+”赋能邮政 无人机无人车加速落地",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-07-29",
-      "url": "https://www.bjnews.com.cn/detail/1785309048129854.html",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1871942882097663840",
-      "title": "AI浪潮下最讽刺一幕:苹果不争,故天下莫能与之争?",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-29",
-      "url": "http://baijiahao.baidu.com/s?id=1871942882097663840",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.ntdtv.com/b5/2026/07/29/a104119527.html",
-      "title": "廣東交警被衝卡貨車碾壓1年後去世 網民:犧牲品",
-      "summary": "廣東肇慶市一名交警被衝卡司機碾壓,住院13個月後離世。網民感嘆「中共邪惡體制的犧牲品」,並呼籲交警為自己留一條活路。 陸媒近日報導,2025年6月初,肇慶市交警倫偉健與同事在轄區高速收費站出口外查車,一輛貨車突然強行沖卡,將倫偉健撞倒並碾壓......",
-      "source": "Ntdtv",
-      "date": "2026-07-29",
-      "url": "https://www.ntdtv.com/b5/2026/07/29/a104119527.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://cn.investing.com/news/transcripts/article-93CH-3485561",
-      "title": "怡安集团2026年第二季度调整后每股收益超预期,股价盘前下跌",
-      "summary": "",
-      "source": "Investing_Cn",
-      "date": "2026-07-29",
-      "url": "https://cn.investing.com/news/transcripts/article-93CH-3485561",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872055161765724192",
-      "title": "虎踞底盘征服阴山英雄坡!岚图泰山X8为国产SUV正..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-07-29",
-      "url": "http://baijiahao.baidu.com/s?id=1872055161765724192",
-      "category": "industry"
-    },
-    {
-      "id": "http://www.pcauto.com.cn/news/5176/51762445.html",
-      "title": "岚图汽车全地形智能底盘发布 正式命名岚图虎踞",
-      "summary": "",
-      "source": "Pcauto_Cn",
-      "date": "2026-07-29",
-      "url": "http://www.pcauto.com.cn/news/5176/51762445.html",
+      "id": "http://news.imobile.com.cn/articles/2026/0730/235118.shtml",
+      "title": "小米昆仑技术架构、澎程系列新车重磅发布,完成双系列完整布局",
+      "summary": "7月30日,小米集团在京举办造车以来的第二场技术发布会,重磅发布小米汽车全新技术平台:小米昆仑技术架构。这是小米继摩德纳纯电平台后推出的第二套技术架构,包含小米昆仑平台、小米昆仑超级增程和小米昆仑全域安全三大核心技术。 小米集团创始人、董事长兼CEO雷军称,小米昆仑技术架构历时三年半打造,目标是造一...",
+      "source": "Imobile",
+      "date": "2026-07-30",
+      "url": "http://news.imobile.com.cn/articles/2026/0730/235118.shtml",
       "category": "product"
     },
     {
-      "id": "https://www.ithome.com/0/983/329.htm",
-      "title": "事关智驾小蓝灯,全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用",
-      "summary": "IT之家 7 月 29 日消息,今日有消息称,由于智驾“小蓝灯”不符合 GB 4785-2019《汽车及挂车外部照明和光信号装置的安装规定》, 未来乘用车安装“小蓝灯”或将受到限制 。 现据中国汽车标准化研究院微信公众号消息,部分车辆产品安装使用“小蓝灯”,向其他道路参与者显示本车驾驶辅助系统处于工...",
-      "source": "Ithome",
-      "date": "2026-07-29",
-      "url": "https://www.ithome.com/0/983/329.htm",
-      "category": "tech"
-    },
-    {
-      "id": "https://www.ithome.com/0/983/325.htm",
-      "title": "消息称中国市场需求强劲,法拉利首款纯电车型 Luce 提前完成年度销售目标",
-      "summary": "IT之家 7 月 29 日消息,据英国《金融时报》报道,尽管外观设计引发了投资者和车迷的广泛争议,但凭借中国市场的强劲需求,法拉利(Ferrari)今年首款纯电车 Luce 已提前完成了年度销售目标。 法拉利并未公开 Luce 的具体销量目标。不过,两位知情人士透露,公司原计划今年销售不到 500 ...",
-      "source": "Ithome",
-      "date": "2026-07-29",
-      "url": "https://www.ithome.com/0/983/325.htm",
+      "id": "https://cn.investing.com/news/stock-market-news/article-3489170",
+      "title": "雷军:50万内最好的增程SUV之一!小米澎程N90 Max预售29.99万元,能否复制YU7热度?",
+      "summary": "",
+      "source": "Investing_Cn",
+      "date": "2026-07-30",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3489170",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872054587247378225",
-      "title": "「财闻联播」兆易创新最新公告,事关回购、增持!国际..",
+      "id": "http://www.pcauto.com.cn/news/5176/51765392.html",
+      "title": "小米澎程N90 Max 首搭RoboSense速腾聚创全固态激光雷达",
+      "summary": "",
+      "source": "Pcauto_Cn",
+      "date": "2026-07-30",
+      "url": "http://www.pcauto.com.cn/news/5176/51765392.html",
+      "category": "tech"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872128856327544609",
+      "title": "不拼整机拼“大脑” 杭州滨江低空经济亮“肌肉”",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-07-29",
-      "url": "http://baijiahao.baidu.com/s?id=1872054587247378225",
+      "date": "2026-07-30",
+      "url": "http://baijiahao.baidu.com/s?id=1872128856327544609",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/0/983/903.htm",
+      "title": "小米澎程系列技术发布会一文汇总:雷军详解昆仑架构,N90/N70 预售价亮眼",
+      "summary": "久等了,小米澎程系列新车终于迎来首秀,就在今天(7 月 30 日)19:00,SKYNOMAD 小米澎程小米汽车技术发布会如期举行。 这是小米汽车的第二次技术发布会,距 2023 年 12 月 28 日的首场,已过去两年半之久。 如果说 SU7/YU7 系列是小米交出的第一份答卷,那么澎程这个历时三...",
+      "source": "Ithome",
+      "date": "2026-07-30",
+      "url": "https://www.ithome.com/0/983/903.htm",
+      "category": "product"
+    },
+    {
+      "id": "http://news.imobile.com.cn/articles/2026/0730/235117.shtml",
+      "title": "纯平地台+旋转座椅,澎程N90玩出花",
+      "summary": "",
+      "source": "Imobile",
+      "date": "2026-07-30",
+      "url": "http://news.imobile.com.cn/articles/2026/0730/235117.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/sh/2026/07-30/10669555.shtml",
+      "title": "中越跨境自驾游趋热 海关高效助力游客“丝滑过关”畅游山水",
+      "summary": "中新网广西凭祥7月30日电(谢豪 林洁琪)广西友谊关海关30日介绍,友谊关口岸作为直达越南河内的陆路便捷通道,吸引不少汽车、摩托车骑行爱好者组团赴越长线游览,海关优化专属通关模式,以精准监管、温情服务架起中越文旅交流“连心桥”。...",
+      "source": "Chinanews",
+      "date": "2026-07-30",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-30/10669555.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14852803.html",
+      "title": "小米澎程两款增程SUV亮相, 预售价N70 MAX 25.99万元、N90 MAX 29.99万元",
+      "summary": "",
+      "source": "Jiemian",
+      "date": "2026-07-30",
+      "url": "https://www.jiemian.com/article/14852803.html",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872141421564311775",
+      "title": "AI赋能千行百业,就业迎来哪些新变化?",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-30",
+      "url": "http://baijiahao.baidu.com/s?id=1872141421564311775",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872145245633369243",
+      "title": "共享数字发展新机遇——2026数博会亮点前瞻",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-30",
+      "url": "http://baijiahao.baidu.com/s?id=1872145245633369243",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1785417364129948.html",
+      "title": "雷军谈小米澎程加92号汽油:用车成本更低",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-07-30",
+      "url": "https://www.bjnews.com.cn/detail/1785417364129948.html",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872144709850865727",
+      "title": "全国首个!行深智能通过ASPICE 4.0认证",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-30",
+      "url": "http://baijiahao.baidu.com/s?id=1872144709850865727",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872144646569172782",
+      "title": "禁用科技手段猎捕野生动物!新版《重庆市野生动物保护..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-07-30",
+      "url": "http://baijiahao.baidu.com/s?id=1872144646569172782",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/0/983/900.htm",
+      "title": "奇瑞捷豹路虎 FREELANDER 神行者 8 首台量产车正式下线:标配华为乾崑智驾,8 月 10 日开启预售",
+      "summary": "IT之家 7 月 30 日消息,由奇瑞 × 捷豹路虎合作打造的 FREELANDER 神行者品牌今日宣布,旗下首车 —— 神行者 8 的首台量产车正式下线。 新车将在 8 月 10 日开启预售 。 据介绍, 新车全系标配华为乾崑智驾 ADS 5 ;全球首批搭载高通骁龙最新一代 8397 车规级芯片;...",
+      "source": "Ithome",
+      "date": "2026-07-30",
+      "url": "https://www.ithome.com/0/983/900.htm",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/0/983/889.htm",
+      "title": "鸿蒙智行智界 RX 路测车曝光,消息称该车也经历了数百万公里路测",
+      "summary": "IT之家 7 月 30 日消息,博主 @爱叨叨的Steven 今日分享了鸿蒙智行智界 RX 的路测车照片。博主表示,路测是每辆车都会经历的事, 智界 RX 也是经历了数百万公里的路测 。 综合IT之家此前报道, 智界 RX 搭载“创新 L 形”星眸大灯和贯穿式环形星钻尾灯 ,宣称具有“极致”轮高比和...",
+      "source": "Ithome",
+      "date": "2026-07-30",
+      "url": "https://www.ithome.com/0/983/889.htm",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.devdiscourse.com/article/technology/3957234-zoox-makes-history-with-first-us-approval-for-steering-wheel-free-robotaxis",
+      "title": "Zoox Makes History with First U.S. Approval for Steering-Wheel-Free Robotaxis",
+      "summary": "Zoox received U.S. approval for deploying steering-wheel-free robotaxis, marking a significant milestone for the autonomous ride industry. The exempti...",
+      "source": "Devdiscourse",
+      "date": "2026-07-30",
+      "url": "https://www.devdiscourse.com/article/technology/3957234-zoox-makes-history-with-first-us-approval-for-steering-wheel-free-robotaxis",
+      "category": "policy"
+    },
+    {
+      "id": "https://www.cityam.com/lseg-boss-hails-growing-momentum-of-pisces-as-profit-soars/",
+      "title": "LSEG boss hails ‘growing momentum’ of Pisces as profit soars",
+      "summary": "Autonomous driving startup Wayve became one of the first companies to use LSEG's Pisces venue for its employee secondary share sale...",
+      "source": "City A.M.",
+      "date": "2026-07-30",
+      "url": "https://www.cityam.com/lseg-boss-hails-growing-momentum-of-pisces-as-profit-soars/",
       "category": "industry"
     },
     {
@@ -181,6 +163,24 @@
       "date": "2026-07-29",
       "url": "https://www.sfgate.com/news/bayarea/article/wednesday-morning-news-roundup-22364992.php",
       "category": "industry"
+    },
+    {
+      "id": "https://www.sfgate.com/news/bayarea/article/regional-feds-to-draw-on-sf-emergency-response-22364645.php",
+      "title": "Regional: Feds To Draw On Sf Emergency Response And Autonomous Vehicles",
+      "summary": "San Francisco firefighters have been practically writing the book on how to deal with autonomous vehicles during emergencies as they've dealt with car...",
+      "source": "SFGATE",
+      "date": "2026-07-28",
+      "url": "https://www.sfgate.com/news/bayarea/article/regional-feds-to-draw-on-sf-emergency-response-22364645.php",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.theglobeandmail.com/business/article-tfi-to-launch-autonomous-trucks-in-us/",
+      "title": "TFI to launch autonomous trucks in U.S.",
+      "summary": "The self-driving tractors would haul semi-trailers on fixed, long-distance legs between terminals or distribution centres in parts of the U.S....",
+      "source": "The Globe and Mail",
+      "date": "2026-07-28",
+      "url": "https://www.theglobeandmail.com/business/article-tfi-to-launch-autonomous-trucks-in-us/",
+      "category": "product"
     }
   ]
 }
