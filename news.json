@@ -1,149 +1,176 @@
 {
-  "lastUpdated": "2026-08-04 03:57:20",
-  "totalCount": 26,
+  "lastUpdated": "2026-08-05 03:52:53",
+  "totalCount": 28,
   "news": [
     {
-      "id": "https://www.fx168news.com/article/1068157",
-      "title": "特斯拉(TSLA)股票8月3日盘中上涨3.39%:背后推手曝光-FX168",
-      "summary": "特斯拉 (TSLA) 盘中上涨3.39%, 所属行业汽车与零部件上涨2.23% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 特斯拉 (TSLA) 上涨 3.39%;Ford Motor Co (F) 上涨 1.29%;Rivian Automotive Inc (RIVN) 上涨 3.38%。 今日...",
+      "id": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260804-%E5%9C%A8%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E4%B8%AD-%E7%BE%8E%E5%9B%BD%E9%99%86%E5%86%9B%E5%B7%B2%E5%8A%A8%E7%94%A8%E4%BA%86-%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89-atacms%E7%AD%89%E9%AB%98%E7%B2%BE%E5%BA%A6%E5%9C%B0%E5%AF%B9%E5%9C%B0%E5%AF%BC%E5%BC%B9",
+      "title": "在与伊朗战争中 美陆军已使用“几乎所有”ATACMS等精准地对地导弹",
+      "summary": "据路透社援引三位知情人士报导称,美国陆军在与伊朗长达五个月的冲突中,已消耗了其大部分高精度远程导弹库存,这引发了人们对美军应对未来冲突的战备能力的担忧。...",
+      "source": "Rfi_Fr",
+      "date": "2026-08-04",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260804-%E5%9C%A8%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E4%B8%AD-%E7%BE%8E%E5%9B%BD%E9%99%86%E5%86%9B%E5%B7%B2%E5%8A%A8%E7%94%A8%E4%BA%86-%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89-atacms%E7%AD%89%E9%AB%98%E7%B2%BE%E5%BA%A6%E5%9C%B0%E5%AF%B9%E5%9C%B0%E5%AF%BC%E5%BC%B9",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872605875932309745",
+      "title": "世赛倒计时50天 上海全城“解锁新技能”",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872605875932309745",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.fx168news.com/article/1068920",
+      "title": "Caterpillar Inc(CAT)股票8月4日盘中上涨5.72%:关键驱动因素揭晓-FX168",
+      "summary": "Caterpillar Inc (CAT) 盘中上涨5.72%, 所属行业工业产品上涨1.33% ,公司涨幅跑赢行业涨幅,行业成交额前三股票 Caterpillar Inc (CAT) 上涨 5.72%;Bloom Energy Corp (BE) 上涨 6.81%;Rocket Lab USA I...",
       "source": "Fx168News",
-      "date": "2026-08-03",
-      "url": "https://www.fx168news.com/article/1068157",
+      "date": "2026-08-04",
+      "url": "https://www.fx168news.com/article/1068920",
       "category": "industry"
     },
     {
-      "id": "https://www.chinanews.com.cn/gn/2026/08-03/10671485.shtml",
-      "title": "“中国是一个高度创新的国家”(国际论道)",
-      "summary": "用于台风救灾的“现实版变形金刚”、全球AI界瞩目的“Kimi时刻”、世界人工智能大会上的“机器人天团”......近期,中国创新成果密集亮相,引发外媒持续讨论。越来越多海外媒体和研究机构注意到,中国多项原创技术、前沿研究和创新产品正跻身全球第一梯队。...",
-      "source": "Chinanews",
-      "date": "2026-08-03",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-03/10671485.shtml",
-      "category": "industry"
+      "id": "https://www.zaobao.com.sg/news/singapore/story20260804-9471183",
+      "title": "交通部或探讨发布更多巴士业者长期表现数据",
+      "summary": "提高巴士行业的竞争不会自动解决新加坡资源、人力和道路空间受限的问题,但交通部可探讨工人党议员建议,公布更多巴士业者的长期表现数据。...",
+      "source": "Zaobao",
+      "date": "2026-08-04",
+      "url": "https://www.zaobao.com.sg/news/singapore/story20260804-9471183",
+      "category": "product"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872498825672442723",
-      "title": "这五大产业,岗位人才紧缺",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-03",
-      "url": "http://baijiahao.baidu.com/s?id=1872498825672442723",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/08-03/10671480.shtml",
-      "title": "开启一场自下而上的“真实中国”记录 多彩中国之“酷”圈粉全球游客沉浸体验",
-      "summary": "央视网消息:长期以来,暑期并非我国传统入境游的旺季。而2026年暑期,入境游市场不仅实现“淡季不淡”,更呈现“量质齐升”的向好态势。“China Cool”等词汇成为全球文旅热词,到中国旅游正在成为一种潮流。...",
-      "source": "Chinanews",
-      "date": "2026-08-03",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-03/10671480.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gn/2026/08-03/10671472.shtml",
-      "title": "长江十年行 | 百里乌江源 处处气象新",
-      "summary": "“有迤逦碧水入眼,有奇峰峡谷相伴,坐在崖边喝一杯咖啡,便是盛夏独有的治愈享受。”沉醉在贵州省黔西市化屋村“花都里”度假营地的景致中,游客罗女士不禁感叹。...",
-      "source": "Chinanews",
-      "date": "2026-08-03",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-03/10671472.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872509868534962132",
-      "title": "5830米 猛士M817高性能版以智驾登顶世界公路..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-03",
-      "url": "http://baijiahao.baidu.com/s?id=1872509868534962132",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872510746970382822",
-      "title": "开局之年看中国·解码“产业大脑”|“一脑感知”为智..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-03",
-      "url": "http://baijiahao.baidu.com/s?id=1872510746970382822",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872509205939916929",
-      "title": "靠前慰问鼓干劲 夏送清凉护安康|六盘水公交凝心聚力..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-03",
-      "url": "http://baijiahao.baidu.com/s?id=1872509205939916929",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1785755484129186.html",
-      "title": "上海开出首批网约车平台集中处罚:12个平台479辆不合规车,罚款超2500万",
+      "id": "https://www.bjnews.com.cn/detail/1785854300169278.html",
+      "title": "拉丁美洲最大垃圾场里,拾荒者在辨认世界的形状",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-08-03",
-      "url": "https://www.bjnews.com.cn/detail/1785755484129186.html",
+      "date": "2026-08-04",
+      "url": "https://www.bjnews.com.cn/detail/1785854300169278.html",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872302403309947451",
-      "title": "严禁“特供”噱头,严禁食品“美颜”!涉食品广告,北..",
+      "id": "https://cn.investing.com/news/assorted/article-432SI-3497084",
+      "title": "Nvidia发布自动驾驶推理模型Alpamayo 2 Super",
+      "summary": "",
+      "source": "Investing_Cn",
+      "date": "2026-08-04",
+      "url": "https://cn.investing.com/news/assorted/article-432SI-3497084",
+      "category": "product"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872596688184518216",
+      "title": "港股公告精选|中国铁建上半年新签合同额同比降逾一成..",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-08-03",
-      "url": "http://baijiahao.baidu.com/s?id=1872302403309947451",
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872596688184518216",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872511309932398429",
-      "title": "出租车转弯时突然停车!民警:快打120!",
+      "id": "http://baijiahao.baidu.com/s?id=1872580298682986089",
+      "title": "主动“迎风” 承接未来!山西运城经开区全力打造高端..",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-08-03",
-      "url": "http://baijiahao.baidu.com/s?id=1872511309932398429",
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872580298682986089",
       "category": "industry"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0803/985090.shtml",
-      "title": "从参数比拼到价值决胜:中大型SUV迈入家庭主场",
-      "summary": "本报讯 (记者矫月)近日,中国汽车消费者研究与评价(CCRT)发布了《CCRT新能源中大型及以上SUV用户体验洞察及趋势研判报告》(以下简称“报告”)。该报告基于2026年第一批车型评价,覆盖20款市场主流车型、2004份有效用户样本,结合4场用户定性工作坊,系统呈现了当前该品类的体验全貌与进化方向...",
+      "id": "https://www.chinanews.com.cn/cj/2026/08-04/10672042.shtml",
+      "title": "中国出台强制性国标明确自动驾驶产品安全准入基线",
+      "summary": "中新社北京8月4日电 (记者 刘亮)中国工信部4日公布,其组织制定并归口的《智能网联汽车 自动驾驶系统安全要求》强制性国家标准(下称“标准”)近日获批发布,拟于2027年7月1日起正式实施,将为自动驾驶产品明确统一的安全准入基线。...",
+      "source": "Chinanews",
+      "date": "2026-08-04",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-04/10672042.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/society/2026/08/04/838275",
+      "title": "载妻女危险举车头 26岁骑士判监1天罚5500令吉",
+      "summary": "(亚罗士打4日讯)一名男子骑摩哆载著妻子及4岁女儿在公路上危险表演“翘孤轮(举车头)”的17秒影片在社交媒体广传,如今事隔约4个月后,他今日在亚罗士打交通特别法庭认罪,遭判监禁1天、罚款5500令吉及吊销驾驶执照5年。哥打士打县交通调查及执法组今日透过面子书发文告指出,被告承认触犯《1987年陆路交...",
+      "source": "Orientaldaily",
+      "date": "2026-08-04",
+      "url": "https://www.orientaldaily.com.my/news/society/2026/08/04/838275",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872593668526141223",
+      "title": "飞行员带女网红进驾驶舱合影?航司称正在调查核实,业..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872593668526141223",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872601847563942127",
+      "title": "网友爆料长龙航空飞行员巡航阶段将女网红带进驾驶舱合..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872601847563942127",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872594356936539739",
+      "title": "上海一出租车右转时突然停车,民警发现不对劲!高温天..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872594356936539739",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a958zzn0/",
+      "title": "强制国标落地!L3/L4 自动驾驶明年 7 月正式实施,真正智驾来了",
+      "summary": "#智能汽车自动驾驶强制性国标完整解读# 智能汽车自动驾驶强制性国标发布 #话题刷屏汽车与数码圈,国家市场监督管理总局、国标委正式批准《智能网联汽车 自动驾驶系统安全要求》(GB 44721—2026)强制性国家标准,明确标准将于 2027 年 7 月 1......",
+      "source": "Smzdm",
+      "date": "2026-08-04",
+      "url": "https://post.smzdm.com/p/a958zzn0/",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1785847969129883.html",
+      "title": "机器人项目适合做吗,先看清这三点,再决定入局",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-04",
+      "url": "https://www.bjnews.com.cn/detail/1785847969129883.html",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872499454998560980",
+      "title": "中国日报“游走中国”系列发布天津专题《依河傍海,津..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872499454998560980",
+      "category": "product"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872589705401259408",
+      "title": "自动驾驶系统安全要求国家标准发布",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-04",
+      "url": "http://baijiahao.baidu.com/s?id=1872589705401259408",
+      "category": "product"
+    },
+    {
+      "id": "http://www.eeo.com.cn/2026/0804/986256.shtml",
+      "title": "工信部:加快构建面向智能网联汽车的测试与评价体系",
+      "summary": "中新经纬8月4日电 据工信部网站消息,8月4日,工业和信息化部装备工业一司组织道路机动车辆检验检测机构开展座谈,分析当前产品安全和检验检测工作形势,部署规范道路机动车辆检验检测行业竞争秩序、提升检验检测工作质量相关工作。 会议强调,检验检测是质量基础设施的重要组成部分,是守牢道路机动车辆产品安全底线...",
       "source": "Eeo",
-      "date": "2026-08-03",
-      "url": "http://www.eeo.com.cn/2026/0803/985090.shtml",
+      "date": "2026-08-04",
+      "url": "http://www.eeo.com.cn/2026/0804/986256.shtml",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1872507318295748986",
-      "title": "中国无人驾驶出海再提速!文远知行Robotaxi驶..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-03",
-      "url": "http://baijiahao.baidu.com/s?id=1872507318295748986",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872508205069512404",
-      "title": "不对劲!上海一出租车转弯时突然停车!民警:快打12..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-03",
-      "url": "http://baijiahao.baidu.com/s?id=1872508205069512404",
-      "category": "industry"
-    },
-    {
-      "id": "https://news.cri.cn/20260803/a6fe8465-d202-34c0-a998-850cfecc9a54.html",
-      "title": "“中国是一个高度创新的国家”(国际论道)-国际在线",
-      "summary": "用于台风救灾的“现实版变形金刚”、全球AI界瞩目的“Kimi时刻”、世界人工智能大会上的“机器人天团”......近期,中国创新成果密集亮相,引...",
-      "source": "Cri_Cn",
-      "date": "2026-08-03",
-      "url": "https://news.cri.cn/20260803/a6fe8465-d202-34c0-a998-850cfecc9a54.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://news.cri.cn/20260803/7fe8b90f-6e96-327d-1aca-5899dbc28904.html",
-      "title": "开启一场自下而上的“真实中国”记录 多彩中国之“酷”圈粉全球游客沉浸体验-国际在线",
-      "summary": "央视网消息:长期以来,暑期并非我国传统入境游的旺季。而2026年暑期,入境游市场不仅实现“淡季不淡”,更呈现“量质齐升”的向好态势。“ChinaCool”等词汇成为...",
-      "source": "Cri_Cn",
-      "date": "2026-08-03",
-      "url": "https://news.cri.cn/20260803/7fe8b90f-6e96-327d-1aca-5899dbc28904.html",
+      "id": "https://www.devdiscourse.com/article/technology/3959281-china-issues-mandatory-safety-requirements-for-autonomous-vehicles",
+      "title": "China issues mandatory safety requirements for autonomous vehicles",
+      "summary": "China has introduced mandatory safety requirements for vehicles with conditional or highly automated driving systems, set to take effect on July 1, 20...",
+      "source": "Devdiscourse",
+      "date": "2026-08-04",
+      "url": "https://www.devdiscourse.com/article/technology/3959281-china-issues-mandatory-safety-requirements-for-autonomous-vehicles",
       "category": "industry"
     },
     {
@@ -154,33 +181,6 @@
       "date": "2026-08-03",
       "url": "https://economictimes.indiatimes.com/tech/technology/chinas-weride-enters-denmark-extending-european-footprint/articleshow/132820372.cms",
       "category": "industry"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/08/03/tmt-newswire/globenewswire/weride-and-greenmobility-announce-strategic-partnership-to-advance-level-4-autonomous-mobility-in-denmark-marking-werides-entry-into-the-nordic-region/2396696",
-      "title": "WeRide and GreenMobility Announce Strategic Partnership to Advance Level 4 Autonomous Mobility in Denmark, Marking WeRide’s Entry into the Nordic Region",
-      "summary": "COPENHAGEN, Denmark, Aug. 03, 2026 (GLOBE NEWSWIRE) -- WeRide (Nasdaq: WRD, HKEX: 0800), a global leader in autonomous driving technology, and GreenMo...",
-      "source": "The Manila Times",
-      "date": "2026-08-03",
-      "url": "https://www.manilatimes.net/2026/08/03/tmt-newswire/globenewswire/weride-and-greenmobility-announce-strategic-partnership-to-advance-level-4-autonomous-mobility-in-denmark-marking-werides-entry-into-the-nordic-region/2396696",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.dallasnews.com/news/transportation/article/know-tesla-s-gold-cybercabs-dallas-22366736.php",
-      "title": "What to know about Tesla's gold Cybercabs in Dallas",
-      "summary": "From operating hours to service areas, here's what to know about Tesla's gold autonomous vehicles now driving through Dallas neighborhoods....",
-      "source": "The Dallas Morning News",
-      "date": "2026-07-30",
-      "url": "https://www.dallasnews.com/news/transportation/article/know-tesla-s-gold-cybercabs-dallas-22366736.php",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.devdiscourse.com/article/technology/3957234-zoox-makes-history-with-first-us-approval-for-steering-wheel-free-robotaxis",
-      "title": "Zoox Makes History with First U.S. Approval for Steering-Wheel-Free Robotaxis",
-      "summary": "Zoox received U.S. approval for deploying steering-wheel-free robotaxis, marking a significant milestone for the autonomous ride industry. The exempti...",
-      "source": "Devdiscourse",
-      "date": "2026-07-30",
-      "url": "https://www.devdiscourse.com/article/technology/3957234-zoox-makes-history-with-first-us-approval-for-steering-wheel-free-robotaxis",
-      "category": "policy"
     }
   ]
 }
