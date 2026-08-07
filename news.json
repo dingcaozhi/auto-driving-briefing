@@ -1,185 +1,185 @@
 {
-  "lastUpdated": "2026-08-06 03:57:27",
-  "totalCount": 24,
+  "lastUpdated": "2026-08-07 03:42:46",
+  "totalCount": 27,
   "news": [
     {
-      "id": "https://news.cri.cn/20260805/441428de-dbba-3f38-6a8d-f965b6d195c1.html",
-      "title": "透过合肥看中国:驻华外交官眼中的中国创新加速度-国际在线",
-      "summary": "国际在线报道(记者任丽君):“在中国,无论我们走到哪里,都能看到机器人的身影。”“能够参观这样一座充满创新活力的园区,我感到非常荣幸。”8月4日,“欣欣向荣的中国·驻华外交官看安徽”国际传播活动走进位于安徽省合肥市庐阳区的合肥国际传感智...",
-      "source": "Cri_Cn",
-      "date": "2026-08-05",
-      "url": "https://news.cri.cn/20260805/441428de-dbba-3f38-6a8d-f965b6d195c1.html",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872695307608683545",
-      "title": "三日大涨33% 魅视科技宣布布局磷化铟业务",
+      "id": "http://baijiahao.baidu.com/s?id=1872783423148546494",
+      "title": "平安度汛期 安全伴出行",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-08-05",
-      "url": "http://baijiahao.baidu.com/s?id=1872695307608683545",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872783423148546494",
       "category": "industry"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3500034",
-      "title": "亚马逊旗下Zoox无人驾驶出租车下周将在拉斯维加斯开始收费运营",
+      "id": "http://baijiahao.baidu.com/s?id=1872785266336850488",
+      "title": "武汉街头织起一张立体降温网,为市民送清凉",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872785266336850488",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872765112585300519",
+      "title": "四川15岁少年骑电动车独闯G318 摩旅大哥善意拖..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872765112585300519",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/0/986/763.htm",
+      "title": "特斯拉 FSD v14 取消自定义限速后风波不断:超速被警方拦停后司机辩称是“自动驾驶”",
+      "summary": "IT之家 8 月 6 日消息,据 Electrek 今日报道,美国科罗拉多州帕克市警方于当地时间 8 月 5 日公布了一起交通违法案例。 一辆开启 FSD 功能的特斯拉车辆在限速 45 英里 / 小时(约 72 公里 / 小时)的道路上以 64 英里 / 小时(约 103 公里 / 小时)的速度行驶...",
+      "source": "Ithome",
+      "date": "2026-08-06",
+      "url": "https://www.ithome.com/0/986/763.htm",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.chinanews.com.cn/cj/2026/08-06/10673283.shtml",
+      "title": "晶采观察丨超7万亿元织密“六张网” 激活实体经济新动能",
+      "summary": "7月30日,中共中央政治局召开会议,分析研究当前经济形势,部署下半年经济工作。会议明确传递出八个关键字——“向新向优向好发展”,并作出一个重要部署:扎实推进“六张网”规划建设。...",
+      "source": "Chinanews",
+      "date": "2026-08-06",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-06/10673283.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3503503",
+      "title": "鸿蒙智行推新车:尊界V800、尊界V680正式上市,享界G9同步预售",
       "summary": "",
       "source": "Investing_Cn",
-      "date": "2026-08-05",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3500034",
-      "category": "industry"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0805/987559.shtml",
-      "title": "合资续约后 广汽本田开启“更懂中国”本土化升级",
-      "summary": "未来两年广汽本田将陆续推出5款新车,包括全新迭代的混动产品,以及两款整合双方股东资源的本土化新能源车型...",
-      "source": "Eeo",
-      "date": "2026-08-05",
-      "url": "http://www.eeo.com.cn/2026/0805/987559.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872692894420768914",
-      "title": "AI之问:智能的另几种可能",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-05",
-      "url": "http://baijiahao.baidu.com/s?id=1872692894420768914",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872680534369638126",
-      "title": "@危化品车辆驾驶人 这些细节不容忽视→",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-05",
-      "url": "http://baijiahao.baidu.com/s?id=1872680534369638126",
-      "category": "industry"
-    },
-    {
-      "id": "https://news.cri.cn/20260805/f152cbaf-3ef0-c9b5-2aab-a1aa7a797ed8.html",
-      "title": "这些“超级工厂”有何魔力?驻华外交官解码合肥智造新力量-国际在线",
-      "summary": "国际在线报道(记者魏寒冰):8月4日,来自埃塞俄比亚、拉脱维亚、土耳其、博茨瓦纳、几内亚、多米尼加、波斯尼亚和黑塞哥维那等国的十余位驻华外交官走进合肥国际传感智造港展示中心和安徽江淮汽车集团股份有限公司(以下简称:江汽集团),近距离感受...",
-      "source": "Cri_Cn",
-      "date": "2026-08-05",
-      "url": "https://news.cri.cn/20260805/f152cbaf-3ef0-c9b5-2aab-a1aa7a797ed8.html",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872693549096047093",
-      "title": "「财闻联播」9连板牛股,明日复牌!4天2板平安电工..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-05",
-      "url": "http://baijiahao.baidu.com/s?id=1872693549096047093",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872693551452652333",
-      "title": "硬派越野选购推荐:纵横G700/豹8/坦克500H..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-05",
-      "url": "http://baijiahao.baidu.com/s?id=1872693551452652333",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1785937992168657.html",
-      "title": "《冲呀,战斗机》:以135架战机,串起百年航空史",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-08-05",
-      "url": "https://www.bjnews.com.cn/detail/1785937992168657.html",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872564602138385513",
-      "title": "核载2人,实载11人!永州9名烤烟务工人员挤进货车..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-05",
-      "url": "http://baijiahao.baidu.com/s?id=1872564602138385513",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.time-weekly.com/post/331658",
-      "title": "无人车开进深圳晚高峰,也开出了另一条全球化路径",
-      "summary": "本文来源:时代周报 作者:唐洛 根据港媒报道,2026年7月,香港机场岛。一辆无人车行驶在右舵左行的道路上,车内没有安全员。这是“全球首次”在右舵交通体系中开展的全无人驾驶公开道路测试,完成这次测试的,正是百度的萝卜快跑第六代无人车。 “全球首次”并不容易。左舵和右舵的差异不只是把方向盘挪个位置那么...",
-      "source": "Time Weekly",
-      "date": "2026-08-05",
-      "url": "https://www.time-weekly.com/post/331658",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1872689236288187462",
-      "title": "“金陵飞鹰”抓拍“低头族”:请抬头看路、放下手机!",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-05",
-      "url": "http://baijiahao.baidu.com/s?id=1872689236288187462",
-      "category": "industry"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0805/987548.shtml",
-      "title": "“压线”续约,上汽与通用合资延期20年",
-      "summary": "对通用汽车而言,中国市场早已不再是“产品供不应求”的蓝海市场,伴随自主品牌崛起、全面电动化转型,中国市场的竞争压力增大。在上汽集团层面,传统合资板块红利逐步消退,自主品牌已成为新的增长核心动力。...",
-      "source": "Eeo",
-      "date": "2026-08-05",
-      "url": "http://www.eeo.com.cn/2026/0805/987548.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber",
-      "title": "‘Leicester Square, please guv’: Self-driving taxis cleared for London streets ‘later this summer’",
-      "summary": "Wayve Uber wins first minicab licence for autonomous cabs from TfL but vehicles will have a safety driver (at first)...",
-      "source": "The Guardian",
-      "date": "2026-08-05",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.irishtimes.com/motors/review/2026/08/05/big-reduction-in-costs-could-see-explosion-of-robot-car-services/",
-      "title": "Big reduction in costs could see explosion of robot car services",
-      "summary": "As costs fall, partly thanks to AI, autonomous driving services including robotaxis are set to increase dramatically...",
-      "source": "The Irish Times",
-      "date": "2026-08-05",
-      "url": "https://www.irishtimes.com/motors/review/2026/08/05/big-reduction-in-costs-could-see-explosion-of-robot-car-services/",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/08/05/tmt-newswire/pr-newswire/tier-iv-to-jointly-develop-next-generation-development-platform-with-astemo-accelerating-e2e-autonomous-driving-ai-with-co-mlops-solution/2398575",
-      "title": "TIER IV to jointly develop next-generation development platform with Astemo, accelerating E2E autonomous driving AI with Co-MLOps solution",
-      "summary": "**media[1164178]**TOKYO, Aug. 5, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has signed a m...",
-      "source": "The Manila Times",
-      "date": "2026-08-05",
-      "url": "https://www.manilatimes.net/2026/08/05/tmt-newswire/pr-newswire/tier-iv-to-jointly-develop-next-generation-development-platform-with-astemo-accelerating-e2e-autonomous-driving-ai-with-co-mlops-solution/2398575",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.nakedcapitalism.com/2026/08/coffee-break-armed-madhouse-zero-latency-war.html",
-      "title": "Coffee Break: Armed Madhouse - Zero-Latency War",
-      "summary": "AI and autonomous weapons are driving warfare toward machine-speed decision cycles. This leads to the military technology challenge of governing zero-...",
-      "source": "Naked Capitalism",
-      "date": "2026-08-04",
-      "url": "https://www.nakedcapitalism.com/2026/08/coffee-break-armed-madhouse-zero-latency-war.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://techstartups.com/2026/08/04/nvidia-launches-alpamayo-2-super-a-frontier-open-reasoning-model-for-robotaxis-and-autonomous-vehicles/",
-      "title": "Nvidia launches Alpamayo 2 Super, a frontier open reasoning model for robotaxis and autonomous vehicles",
-      "summary": "Nvidia has launched Alpamayo 2 Super, a new open reasoning model for autonomous vehicles that the chip giant says can analyze complicated driving situ...",
-      "source": "TechStartups.com",
-      "date": "2026-08-04",
-      "url": "https://techstartups.com/2026/08/04/nvidia-launches-alpamayo-2-super-a-frontier-open-reasoning-model-for-robotaxis-and-autonomous-vehicles/",
+      "date": "2026-08-06",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3503503",
       "category": "product"
     },
     {
-      "id": "https://www.thenews.com.pk/latest/1411250-what-is-nvidia-alpamayo-2-super-everything-you-need-to-know",
-      "title": "What is NVIDIA Alpamayo 2 Super? Everything you need to know",
-      "summary": "NVIDIA Alpamayo 2 Super is reportedly now available for commercial use on Hugging Face- a significant move for the most widely adopted family of open ...",
-      "source": "The News International",
-      "date": "2026-08-04",
-      "url": "https://www.thenews.com.pk/latest/1411250-what-is-nvidia-alpamayo-2-super-everything-you-need-to-know",
+      "id": "http://baijiahao.baidu.com/s?id=1872732678687870066",
+      "title": "宁波六旬老人高温天气骑车出行,途中车辆方向失控,径..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872732678687870066",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872780873292843860",
+      "title": "纵横F700正式上市 限时权益价29.99万元起 ..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872780873292843860",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872754951377487942",
+      "title": "自动驾驶迈向“有标可依”",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872754951377487942",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872781813650518982",
+      "title": "黄永斌:老兵的33年坚守",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872781813650518982",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872786518113623880",
+      "title": "张泾河有人落水?他们来了!",
+      "summary": "近日电影《蜘蛛侠:崭新之日》上映影片中蜘蛛侠肩负守护城市的使命大量动作场面令人目不暇接主角穿梭于林立高楼之间借助蛛丝在楼宇间飞檐走壁时而纵身跃向高空时而贴着建筑侧面急速滑行利落帅气的一幕幕引得不少影迷为之喝彩而在金山也有...",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872786518113623880",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872783824734119966",
+      "title": "铁骑绕桩、特警索降、无人机探路......金山公安夏季练兵..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872783824734119966",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872774263692178648",
+      "title": "一身盐霜护通途,衡阳热浪下的真“汗”子",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872774263692178648",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872765142949770138",
+      "title": "对话艾欧智能联创丁哲章:“人类数据”成具身预训练核..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872765142949770138",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872763474305608129",
+      "title": "德媒:世界石油市场的喘息时间即将结束",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872763474305608129",
+      "category": "industry"
+    },
+    {
+      "id": "https://news.cri.cn/20260806/ab88a751-1be1-fc91-6a99-3a62a841532d.html",
+      "title": "“三个转变”看中原-国际在线",
+      "summary": "“十五五”开局之年,“河南制造”佳音频传—— 中铁工程装备集团有限公司参与研发的“江汉神农号”硬岩掘进机下线,助力引江补汉工程; 宇通客...",
+      "source": "Cri_Cn",
+      "date": "2026-08-06",
+      "url": "https://news.cri.cn/20260806/ab88a751-1be1-fc91-6a99-3a62a841532d.html",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a3monqvr/",
+      "title": "全新深蓝S05上市11.59万元起,天枢领航智能驾驶辅助系统重磅加持",
+      "summary": "8月6日,“全球时尚激光智能SUV”全新深蓝S05正式上市,提供520智行版、520智臻版、520智臻版激光版、620智臻版、620智臻激光版共5款车型,限时优惠价为11.59万元-14.49万元,下订即享至高价值38360元的八大超值礼包。作为深蓝汽车......",
+      "source": "Smzdm",
+      "date": "2026-08-06",
+      "url": "https://post.smzdm.com/p/a3monqvr/",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1872770459767156115",
+      "title": "高温天气,途经故宫北海公交线路将调整运营计划减少乘..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-06",
+      "url": "http://baijiahao.baidu.com/s?id=1872770459767156115",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/08/60985118/gary-black-says-uber-not-tesla-or-waymo-has-the-best-shot-at-bringing-robotaxis-to-the-masses",
+      "title": "Gary Black Says Uber, Not Tesla or Waymo, Has the Best Shot at Bringing Robotaxis to the Masses",
+      "summary": "Gary Black backs Uber as the leader in autonomous driving and Robotaxi race as Uber delivers mixed Q2 earnings...",
+      "source": "Benzinga",
+      "date": "2026-08-06",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60985118/gary-black-says-uber-not-tesla-or-waymo-has-the-best-shot-at-bringing-robotaxis-to-the-masses",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.tribuneindia.com/news/business/uber-building-infrastructure-to-commercialise-autonomous-mobility-at-global-scale-q2-earnings-report/",
+      "title": "Uber building infrastructure to commercialise autonomous mobility at global scale: Q2 earnings report",
+      "summary": "Ride-hailing and delivery platform Uber said it is laying the foundation to commercialise autonomous mobility at a global scale, as the company expand...",
+      "source": "The Tribune",
+      "date": "2026-08-06",
+      "url": "https://www.tribuneindia.com/news/business/uber-building-infrastructure-to-commercialise-autonomous-mobility-at-global-scale-q2-earnings-report/",
       "category": "industry"
     }
   ]
