@@ -1,159 +1,132 @@
 {
-  "lastUpdated": "2026-08-13 03:21:37",
-  "totalCount": 26,
+  "lastUpdated": "2026-08-14 03:19:42",
+  "totalCount": 23,
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873103464652377101",
-      "title": "快递、外卖行业非机动车新规本月施行,以下行为或触碰..",
+      "id": "http://baijiahao.baidu.com/s?id=1873385700463401703",
+      "title": "边开车边追剧、刷视频?部分网约车司机“分心驾驶”引..",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-08-12",
-      "url": "http://baijiahao.baidu.com/s?id=1873103464652377101",
+      "date": "2026-08-13",
+      "url": "http://baijiahao.baidu.com/s?id=1873385700463401703",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873300449953036204",
-      "title": "嘉善这款工业级“无人驾驶汽车”让智能制造更高效",
+      "id": "http://baijiahao.baidu.com/s?id=1873389732002262580",
+      "title": "首善南湖·深一度丨余新镇:主城区南大门发展跑出加速..",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-08-12",
-      "url": "http://baijiahao.baidu.com/s?id=1873300449953036204",
+      "date": "2026-08-13",
+      "url": "http://baijiahao.baidu.com/s?id=1873389732002262580",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873304036496106755",
-      "title": "重庆多家驾校合伙垄断抬价被罚,学员目前统一在政务平..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-12",
-      "url": "http://baijiahao.baidu.com/s?id=1873304036496106755",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873324800391597777",
-      "title": "荆楚交警之星1|曾怀庆:一声声“碎碎念”,他把柔法..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-12",
-      "url": "http://baijiahao.baidu.com/s?id=1873324800391597777",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1786540768168778.html",
-      "title": "《海上婚姻》:“老娘与海”还是“老人与海”?",
+      "id": "https://www.bjnews.com.cn/detail/1786622674169397.html",
+      "title": "淘宝闪购在北京推出“等灯不计时”机制,骑手配送更从容",
       "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-08-12",
-      "url": "https://www.bjnews.com.cn/detail/1786540768168778.html",
+      "date": "2026-08-13",
+      "url": "https://www.bjnews.com.cn/detail/1786622674169397.html",
       "category": "industry"
     },
     {
-      "id": "https://www.chinanews.com.cn/sh/2026/08-12/10676596.shtml",
-      "title": "湖北山区客运司机成功避险塌方事故 获万元奖励",
-      "summary": "中新网湖北长阳8月12日电 (郭晓莹 税浪)湖北省宜昌市自然资源和城乡建设局12日向农村客运司机熊飞颁发1万元“成功避险奖金”,对其及时预判山体塌方险情、果断停车避险,保障乘客及过往车辆安全的先进事迹予以嘉奖。...",
-      "source": "Chinanews",
-      "date": "2026-08-12",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676596.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873322534648654966",
-      "title": "“海豚”过境 “大鱼”突围",
+      "id": "http://baijiahao.baidu.com/s?id=1873411308536572887",
+      "title": "蹚齐腰深水拖车!太保理赔员以“三心”服务迎战台风“..",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-08-12",
-      "url": "http://baijiahao.baidu.com/s?id=1873322534648654966",
+      "date": "2026-08-13",
+      "url": "http://baijiahao.baidu.com/s?id=1873411308536572887",
       "category": "industry"
     },
     {
-      "id": "https://cn.investing.com/news/transcripts/article-93CH-3513946",
-      "title": "Aptiv出席摩根大通汽车会议:在中国业务承压背景下押注增长",
+      "id": "http://news.imobile.com.cn/articles/2026/0813/235226.shtml",
+      "title": "年轻人首选B级闪充轿车秦MAX正式上市,售价10.99-14.39万元",
+      "summary": "8月13日,比亚迪秦MAX正式上市,推出EV与DM-i双动力版本,官方指导价9.99-14.39万元,并带多重上市权益。整场发布会以“大有不同,尽秦MAX”为主题,王朝网总经理路天用三“大”五“不同”,生动介绍了秦MAX的超强产品力。作为面向都市青年、务实家庭与科技尝鲜族的全新车型,秦MAX集第二代...",
+      "source": "Imobile",
+      "date": "2026-08-13",
+      "url": "http://news.imobile.com.cn/articles/2026/0813/235226.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14919797.html",
+      "title": "8月13日晚间公告集锦|宇树科技网上投资者放弃认购8734股,中科曙光上半年净利润同比增长34%,中际旭创拟17.47亿元受让中石科技10.47%股份",
       "summary": "",
-      "source": "Investing_Cn",
-      "date": "2026-08-12",
-      "url": "https://cn.investing.com/news/transcripts/article-93CH-3513946",
+      "source": "Jiemian",
+      "date": "2026-08-13",
+      "url": "https://www.jiemian.com/article/14919797.html",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873321433960838897",
-      "title": "近6万元现金遗落车上!呼和浩特的哥6小时不眠不休寻..",
+      "id": "https://www.fx168news.com/article/1075052",
+      "title": "今日晚间重要公告抢先看——宇树科技披露发行结果,散户弃购8734股;中际旭创拟豪掷17.47亿元受让中石科技10.47%股份,强化光模块散热产业链协同;中芯国际二季度营收达30亿美元,环比大增20%-FX168",
+      "summary": "今日晚间重要公告抢先看——宇树科技:网上投资者放弃认购8734股;中际旭创:拟17.47亿元受让中石科技10.47%股份;中芯国际:二季度整体实现销售收入30亿美元,环比增长20%;海光信息:上半年净利润17.98亿元,同比增长49.69%;中科曙光业绩快报:上半年净利润9.78亿元,同...",
+      "source": "Fx168News",
+      "date": "2026-08-13",
+      "url": "https://www.fx168news.com/article/1075052",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.jiemian.com/article/14919733.html",
+      "title": "领克连续四个月销量下滑,部分车型陷激光雷达故障风波",
       "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-12",
-      "url": "http://baijiahao.baidu.com/s?id=1873321433960838897",
-      "category": "industry"
+      "source": "Jiemian",
+      "date": "2026-08-13",
+      "url": "https://www.jiemian.com/article/14919733.html",
+      "category": "tech"
     },
     {
-      "id": "http://www.eeo.com.cn/2026/0812/995992.shtml",
-      "title": "合资新能源拼了!ID.ERA 5S将城市NOA下探至15万元级",
-      "summary": "到了新能源时代,上汽大众融合“全球智慧+中国速度”,依托行云智行、云栖智舱、黄金超混、黄金标准等核心技术,打造新能源产品,上汽大众称之为“国民家轿4.0”。...",
-      "source": "Eeo",
-      "date": "2026-08-12",
-      "url": "http://www.eeo.com.cn/2026/0812/995992.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/sh/2026/08-12/10676681.shtml",
-      "title": "平陆运河开启通航前“大考” 实船试验攻坚四大核心难点",
-      "summary": "中新网南宁8月12日电(记者 杨陈)8月12日上午,随着首艘5000吨级试验船舶从广西南宁新福水上综合服务区起航,平陆运河实船试验正式启动。这也是平陆运河9月通航前最后一项大型现场实测。...",
-      "source": "Chinanews",
-      "date": "2026-08-12",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-12/10676681.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873309101212263691",
-      "title": "界面晚报|上半年中国人形机器人出货量全球占比超97..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-12",
-      "url": "http://baijiahao.baidu.com/s?id=1873309101212263691",
-      "category": "industry"
-    },
-    {
-      "id": "http://www.199it.com/archives/1845046.html",
-      "title": "懂车帝:2026年7月全国乘用车零售销量,吉利星愿32306辆夺冠",
-      "summary": "懂车帝发布2026年7月乘用车零售销量榜,吉利星愿32306辆夺冠,零跑A10 26424辆居次,Model Y 25158辆第三。小米SU7 21044辆列国产中高端轿车第一。前十新能源占八席,合资仅卡罗拉锐放等入围,国产新能源全面领先。...",
-      "source": "A199It",
-      "date": "2026-08-12",
-      "url": "http://www.199it.com/archives/1845046.html",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873324831719560454",
-      "title": "“通”堵点,行路“畅”!城市副中心交通综合治理惠民..",
+      "id": "http://baijiahao.baidu.com/s?id=1873406431970946136",
+      "title": "滴滴2026年Q2业绩报告:滴滴中国出行单量连续1..",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-08-12",
-      "url": "http://baijiahao.baidu.com/s?id=1873324831719560454",
+      "date": "2026-08-13",
+      "url": "http://baijiahao.baidu.com/s?id=1873406431970946136",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873319576780428461",
-      "title": "聚焦智能驾驶、机器人、光伏产业 创业板再添三条新指..",
+      "id": "http://baijiahao.baidu.com/s?id=1873406128205008153",
+      "title": "他们在高速检查站扔“垃圾”,这个行为太反常!",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-08-12",
-      "url": "http://baijiahao.baidu.com/s?id=1873319576780428461",
+      "date": "2026-08-13",
+      "url": "http://baijiahao.baidu.com/s?id=1873406128205008153",
       "category": "industry"
     },
     {
-      "id": "https://www.chinanews.com.cn/gn/2026/08-12/10676572.shtml",
-      "title": "强降雨持续影响多地 各地各部门以“雨”为令全力保通保畅保安全",
-      "summary": "央视网消息:入汛以来,北京降雨明显偏多,短时强降雨、冰雹等极端天气频发。针对严峻防汛形势,北京交通部门依托智慧调度、应急值守等多项举措,守护市民及游客出行安全。...",
-      "source": "Chinanews",
-      "date": "2026-08-12",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-12/10676572.shtml",
+      "id": "https://www.ithome.com/0/989/467.htm",
+      "title": "吉利银河 TT 纯电轿车预售发布:全域 800V 高压平台、千里浩瀚 H5 / H7,14.59 万元起",
+      "summary": "IT之家 8 月 13 日消息,吉利银河 TT 纯电轿车今晚预售发布,全系标配全域 800V 高压平台、宁德时代神行 TT 高定电池,预售指导价 14.59 万元起。 540 后驱尊享版:14.59 万元; 540 后驱尊贵版:15.59 万元; 640 后驱旗舰版:16.99 万元。 外观方面,吉...",
+      "source": "Ithome",
+      "date": "2026-08-13",
+      "url": "https://www.ithome.com/0/989/467.htm",
+      "category": "product"
+    },
+    {
+      "id": "https://www.ign.com.cn/topic/61933/nautus-gong-bu-yu-gao",
+      "title": "《NAUTUS》公布预告",
+      "summary": "海面悠然惬意 深海暗藏危机 在《NAUTUS》中,玩家收到叔叔Bernard Torpedo 发来的一则令人不安的无线电讯息后,来到偏远的N.A.U.T.U.S.研究站。抵达后,玩家发现这里的科学家们全都失去了记忆,并对海洋产生了令人瘫痪般的恐惧。作为唯一愿意勇闯深海的人,玩家必须驾驶一艘可升级的潜...",
+      "source": "Ign_Cn",
+      "date": "2026-08-13",
+      "url": "https://www.ign.com.cn/topic/61933/nautus-gong-bu-yu-gao",
       "category": "industry"
     },
     {
-      "id": "https://news.cri.cn/20260812/573faf78-726d-ce1f-522e-aca11aedb957.html",
-      "title": "强降雨持续影响多地 各地各部门以“雨”为令全力保通保畅保安全-国际在线",
-      "summary": "央视网消息:入汛以来,北京降雨明显偏多,短时强降雨、冰雹等极端天气频发。针对严峻防汛形势,北京交通部门依托智慧调度、应急值守等多项举措,守护市民及游客出行安全。 北京市交通委员会应急指挥大厅内,电子大屏实时展示全市重点点位防汛值守动态...",
-      "source": "Cri_Cn",
-      "date": "2026-08-12",
-      "url": "https://news.cri.cn/20260812/573faf78-726d-ce1f-522e-aca11aedb957.html",
+      "id": "http://www.pcauto.com.cn/news/5178/51781475.html",
+      "title": "六年深耕汽车托运 拖车帝以品质服务护航大众出行",
+      "summary": "近些年,高速公路上时常能看到这样的场景-双层轿运大板车整齐码放着崭新的商品车、各地牌照的私家车乃至满身个性涂鸦的改装车...",
+      "source": "Pcauto_Cn",
+      "date": "2026-08-13",
+      "url": "http://www.pcauto.com.cn/news/5178/51781475.html",
       "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873411946703542704",
+      "title": "橡木果机器人发布Natus具身本能模型 获招商局创..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-13",
+      "url": "http://baijiahao.baidu.com/s?id=1873411946703542704",
+      "category": "product"
     },
     {
       "id": "https://techbullion.com/the-best-data-annotation-providers-for-autonomous-driving/",
@@ -180,6 +153,33 @@
       "source": "Mashable India",
       "date": "2026-08-07",
       "url": "https://in.mashable.com/tech/112593/uber-reportedly-plans-10-billion-robotaxi-expansion-raising-questions-about-driver-jobs",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/waymo-ceo-says-camera-only-self-driving-systems-cant-support-fully-autonomous-driving-systems-and-after-testing-multiple-robotaxis-i-have-to-agree",
+      "title": "Waymo CEO says camera-only self-driving systems can’t support fully autonomous driving systems, and after testing multiple robotaxis, I have to agree",
+      "summary": "Waymo co-CEO Dmitri Dolgov laid out reasons why Lidar and radar are required...",
+      "source": "TechRadar",
+      "date": "2026-08-06",
+      "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/waymo-ceo-says-camera-only-self-driving-systems-cant-support-fully-autonomous-driving-systems-and-after-testing-multiple-robotaxis-i-have-to-agree",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.forbes.com/sites/technology/article/self-driving-cars/",
+      "title": "The Technology Behind Self",
+      "summary": "What exactly is a self-driving car? Learn how autonomous vehicles work, the technology behind them, and where the industry is headed....",
+      "source": "Forbes",
+      "date": "2026-08-06",
+      "url": "https://www.forbes.com/sites/technology/article/self-driving-cars/",
+      "category": "tech"
+    },
+    {
+      "id": "https://www.benzinga.com/markets/tech/26/08/60985118/gary-black-says-uber-not-tesla-or-waymo-has-the-best-shot-at-bringing-robotaxis-to-the-masses",
+      "title": "Gary Black Says Uber, Not Tesla or Waymo, Has the Best Shot at Bringing Robotaxis to the Masses",
+      "summary": "Gary Black backs Uber as the leader in autonomous driving and Robotaxi race as Uber delivers mixed Q2 earnings...",
+      "source": "Benzinga",
+      "date": "2026-08-06",
+      "url": "https://www.benzinga.com/markets/tech/26/08/60985118/gary-black-says-uber-not-tesla-or-waymo-has-the-best-shot-at-bringing-robotaxis-to-the-masses",
       "category": "industry"
     }
   ]
