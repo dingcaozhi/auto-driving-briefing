@@ -1,149 +1,167 @@
 {
-  "lastUpdated": "2026-08-17 02:13:27",
-  "totalCount": 26,
+  "lastUpdated": "2026-08-18 02:09:08",
+  "totalCount": 27,
   "news": [
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873683061118907063",
-      "title": "对话“奋斗者”号深潜科学家彭晓彤:万米深渊为何藏着..",
-      "summary": "它“你有没有听说过,人类对深海的了解比对月球的了解还少?不久前,中国的“奋斗者”号全海深载人潜水器带来重大突破。在完全没有阳光的万米深云,竟然存在一个充满生机的世界,坚韧不拔的生物们依靠化学反应获取能量。更令人吃惊的是,...",
+      "id": "http://baijiahao.baidu.com/s?id=1873777453681013352",
+      "title": "从“数字大区”迈向“数智强区”,长宁如何走好攀峰之..",
+      "summary": "十一届区委十二次全会清晰亮出“数字长宁攀峰”战略蓝图,锚定数智经济强区建设目标。二十多年来,“数字长宁”依靠互联网生根发芽,长宁成为数字经济大区。随着浪潮更迭,人工智能重构产业逻辑,一场深刻转型正在虹桥之畔悄然发生。如何...",
       "source": "News_Baidu",
-      "date": "2026-08-16",
-      "url": "http://baijiahao.baidu.com/s?id=1873683061118907063",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873777453681013352",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873668375936283566",
-      "title": "暴雨、大暴雨!接下来雨会下在哪?",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-16",
-      "url": "http://baijiahao.baidu.com/s?id=1873668375936283566",
+      "id": "https://post.smzdm.com/p/awwrq5n2/",
+      "title": "FF14与EVA首次深度联动:24人副本+横尾太郎操刀,2027年1月解锁三段剧情",
+      "summary": "2027年1月,你将在艾欧泽亚驾驶初号机等了四年,FF14玩家终于不用只眼馋别人家的联动了。2027年1月,「Ghosts of Desire」将作为8.5版本核心内容正式上线,这是FF14首次与Square Enix自家IP以外的作品进行如此深度的24......",
+      "source": "Smzdm",
+      "date": "2026-08-17",
+      "url": "https://post.smzdm.com/p/awwrq5n2/",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873684702812694352",
-      "title": "涉及人工智能、无人机驾驶等 四川启动2026年高校..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-16",
-      "url": "http://baijiahao.baidu.com/s?id=1873684702812694352",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.woshipm.com/ai/6447944.html",
-      "title": "AI互联网日报:阿里通义千问下载破20亿、腾讯QQ Bot接入Harness、微信框架升级与PayPal交易传出变局",
-      "summary": "当工具开始接手开发、社交和支付入口,真正被重写的是哪一步?入口正在变近。DeepSeek进国家超算互联网,腾讯把QQ Bot接上Harness,NVIDIA把算力融资和能源伙伴一起推进,说明AI工作流正在从模型能力变成可交付系统。PayPal出售谈判和微信小程序框架升级,也在提醒平台入口仍会换形态。...",
-      "source": "Woshipm",
-      "date": "2026-08-16",
-      "url": "https://www.woshipm.com/ai/6447944.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/cul/2026/08-16/10678787.shtml",
-      "title": "我的新疆日记·第五天|北庭与天山,在遗址与群山之间",
-      "summary": "这几天,我随人民网2026“行进中国”调研行前往新疆维吾尔自治区采访,以日记的形式,记录一路的所见所闻、所思所感。...",
+      "id": "https://www.chinanews.com.cn/cj/2026/08-17/10679307.shtml",
+      "title": "全国首批:淘宝闪购青岛率先上线“等灯不计时”,骑士等灯时间不计入考核",
+      "summary": "送外卖等红灯不计时来了。8月17日“城市骑士日”,青岛联合淘宝闪购正式上线“等灯不计时”功能,成为全国首批落地城市之一。在青岛,首期将覆盖即墨区全部淘宝闪购骑士,接下来将进一步推广。...",
       "source": "Chinanews",
-      "date": "2026-08-16",
-      "url": "https://www.chinanews.com.cn/cul/2026/08-16/10678787.shtml",
+      "date": "2026-08-17",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679307.shtml",
       "category": "industry"
     },
     {
-      "id": "https://www.zaobao.com.sg/news/singapore/story20260816-9524384",
-      "title": "新马跨境德士服务放宽后需求上升 每日往返趟次增加近两成",
-      "summary": "新马两国扩大跨境德士服务范围及调整收费措施已满三个月,乘客需求稳健上升。陆路交通管理局数据显示,新措施落实一个月后,每日载客跨境趟次增加近两成。...",
-      "source": "Zaobao",
-      "date": "2026-08-16",
-      "url": "https://www.zaobao.com.sg/news/singapore/story20260816-9524384",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873682879655465743",
-      "title": "京东旗下24小时智能化无人咖啡店落地北京;拼多多上..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-16",
-      "url": "http://baijiahao.baidu.com/s?id=1873682879655465743",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873684671901592869",
-      "title": "法拉利首款纯电动跑车来了,全新法拉利Luce亮相长..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-16",
-      "url": "http://baijiahao.baidu.com/s?id=1873684671901592869",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.chinanews.com.cn/gj/2026/08-16/10678763.shtml",
-      "title": "特稿|开放发展、可靠担当、魅力十足——国际人士眼里的中国",
+      "id": "https://www.chinanews.com.cn/cj/2026/08-17/10679302.shtml",
+      "title": "具身智能浪潮下,浙江产业如何“枝繁叶茂”?",
       "summary": "",
       "source": "Chinanews",
-      "date": "2026-08-16",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-16/10678763.shtml",
+      "date": "2026-08-17",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-17/10679302.shtml",
       "category": "industry"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-08-16/4543237.html",
-      "title": "京东旗下24小时智能化无人咖啡店落地北京;拼多多上线“最快明天达”|一周未来商业",
-      "summary": "| 2026年8月10日—8月16日 |#电商新零售NO.1 京东集团二季度收入3464亿元,归母净利润同比增长15.4%8月13日,京东集团发布2026年第二季度及上半年业绩。财报显示,第二季度,京...",
-      "source": "Nbd_Cn",
-      "date": "2026-08-16",
-      "url": "https://www.nbd.com.cn/articles/2026-08-16/4543237.html",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1873412007095639516",
-      "title": "谁在制造驾校“退费难”",
+      "id": "http://baijiahao.baidu.com/s?id=1873777311758548773",
+      "title": "2026成都车展|越野文化催生新机遇 新能源硬派车..",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-08-16",
-      "url": "http://baijiahao.baidu.com/s?id=1873412007095639516",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873777311758548773",
       "category": "industry"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-3520155",
-      "title": "从扩权强县到强县扩权:湖南广东四川为县“松绑”,释放什么信号?",
-      "summary": "",
-      "source": "Investing_Cn",
-      "date": "2026-08-16",
-      "url": "https://cn.investing.com/news/stock-market-news/article-3520155",
+      "id": "https://news.cri.cn/20260817/b7c26283-14a0-1a32-127d-3eff89b49f49.html",
+      "title": "外眼看新疆丨隧道里感受中国基建的民生温度-国际在线",
+      "summary": "天山网-新疆日报记者沈祖孝 8月12日,天山深处,巍峨的雪峰在阳光下熠熠生辉。当天,“海外高校教师看新疆”参访团一行来到天山胜利隧道地质展览馆,近距离感受这项“世界之最”超级工程背后的中...",
+      "source": "Cri_Cn",
+      "date": "2026-08-17",
+      "url": "https://news.cri.cn/20260817/b7c26283-14a0-1a32-127d-3eff89b49f49.html",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873676804610134867",
-      "title": "IPO周报:加特兰申报前20余家机构突击入股,每股..",
+      "id": "http://baijiahao.baidu.com/s?id=1873766239052201761",
+      "title": "给AI“上班”提速降本!理想汽车或自研云端推理芯片..",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-08-16",
-      "url": "http://baijiahao.baidu.com/s?id=1873676804610134867",
-      "category": "industry"
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873766239052201761",
+      "category": "tech"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873669991388248434",
-      "title": "“中国赛道设计第一人”走进上海科技馆,上海科普大讲..",
-      "summary": "提到赛车,首先浮现在人们脑海中的是引擎轰鸣、极速冲刺的热血画面。F1赛车直道速度可达300km/h。如何保障这场速度盛宴的安全?8月15日,同济大学设计集团副总工程师姚启明教授来到上海科技馆,作为第245期上海科普大讲坛...",
+      "id": "http://baijiahao.baidu.com/s?id=1873773287121975434",
+      "title": "平凡岗位显温情,青岛有轨电车司机常年暖心护送深夜滞..",
+      "summary": "",
       "source": "News_Baidu",
-      "date": "2026-08-16",
-      "url": "http://baijiahao.baidu.com/s?id=1873669991388248434",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873773287121975434",
       "category": "industry"
     },
     {
-      "id": "https://www.chinanews.com.cn/cj/2026/08-16/10678749.shtml",
-      "title": "“我是廊坊推荐官”走进8大领域 解锁产业发展新动能",
-      "summary": "中新网廊坊8月16日电 8月14日至15日,由中共廊坊市委网信办组织开展的“我是廊坊推荐官”之行在河北廊坊举行。活动聚焦新材料、空港装备、智慧康养、数字档案、航空实训、柔性显示、高端医疗、文化科教八大领域,系统记录并展示廊坊现代化产业体系建设的阶段性成果。...",
+      "id": "https://www.chinanews.com.cn/sh/2026/08-17/10679278.shtml",
+      "title": "三个醉驾案例告诉你:这些“小聪明”没用",
+      "summary": "“喝酒不开车,开车不喝酒”在当下已成为社会共识,但随着汽车驾驶越来越智能化,各类辅助驾驶功能层出不穷。于是,有些人出于侥幸或无知,在酒后启动辅助驾驶功能,企图将“智驾”当“代驾”,终酿车祸。...",
       "source": "Chinanews",
-      "date": "2026-08-16",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-16/10678749.shtml",
+      "date": "2026-08-17",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-17/10679278.shtml",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1873645322991173501",
-      "title": "英伟达持仓股票曝光!位列SpaceX第六大股东,持..",
+      "id": "http://baijiahao.baidu.com/s?id=1873770107462146452",
+      "title": "铁塔矗立红土地 数字赋能新长征",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-08-16",
-      "url": "http://baijiahao.baidu.com/s?id=1873645322991173501",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873770107462146452",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873773661302061395",
+      "title": "三一无人驾驶矿卡首次出口南美",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873773661302061395",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873775207459833761",
+      "title": "种下一颗科技的种子!壹点公益带少年开启“数字”初遇",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873775207459833761",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873775502113221282",
+      "title": "一家三口在云南昆明游玩,幼童呕吐弄脏网约车,家长被..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873775502113221282",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873773697469313176",
+      "title": "筑牢夏季滨海安全防线,奉贤公安为文旅保驾护航",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873773697469313176",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873730692769872851",
+      "title": "整零协同 向“新”而行——西安商用车产业链半年报里..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873730692769872851",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873774290464998117",
+      "title": "控制权或变更!002906,明起停牌",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873774290464998117",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1873774609179036822",
+      "title": "控制权或变更!华阳集团,明起停牌",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-17",
+      "url": "http://baijiahao.baidu.com/s?id=1873774609179036822",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.scmp.com/business/banking-finance/article/3364257/chinas-self-driving-push-gains-ground-europe-momenta-ponyai-expand",
+      "title": "China’s self-driving push gains ground in Europe as Momenta, Pony.ai expand",
+      "summary": "Deutsche Bank raises its price target for Momenta while Pony.ai widens partnership with Uber to accelerate autonomous-vehicle roll-out in European cit...",
+      "source": "South China Morning Post",
+      "date": "2026-08-17",
+      "url": "https://www.scmp.com/business/banking-finance/article/3364257/chinas-self-driving-push-gains-ground-europe-momenta-ponyai-expand",
       "category": "industry"
     },
     {
@@ -163,24 +181,6 @@
       "date": "2026-08-14",
       "url": "https://www.ibtimes.com/uber-bringing-thousands-chinese-robotaxis-europe-its-driverless-push-gets-bigger-3806411",
       "category": "industry"
-    },
-    {
-      "id": "https://www.euronews.com/next/2026/08/14/uber-and-chinas-pony-ai-to-launch-over-2000-robotaxis-across-europe",
-      "title": "Uber and China’s Pony AI to launch over 2,000 robotaxis across Europe",
-      "summary": "The expanded partnership with blend a mobility platform, fleet management capacity and autonomous driving technology....",
-      "source": "Euronews",
-      "date": "2026-08-14",
-      "url": "https://www.euronews.com/next/2026/08/14/uber-and-chinas-pony-ai-to-launch-over-2000-robotaxis-across-europe",
-      "category": "product"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/08/14/tmt-newswire/pr-newswire/tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program-to-open-source-ai-chip-designs-for-autonomous-driving/2405491",
-      "title": "TIER IV joins JST's Next-Generation Edge AI Semiconductor R&D Program to open-source AI chip designs for autonomous driving",
-      "summary": "**media[1176768]**TOKYO, Aug. 14, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, has joined th...",
-      "source": "The Manila Times",
-      "date": "2026-08-14",
-      "url": "https://www.manilatimes.net/2026/08/14/tmt-newswire/pr-newswire/tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program-to-open-source-ai-chip-designs-for-autonomous-driving/2405491",
-      "category": "tech"
     }
   ]
 }
