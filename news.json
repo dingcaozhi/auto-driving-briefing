@@ -1,122 +1,167 @@
 {
-  "lastUpdated": "2026-08-27 10:44:55",
-  "totalCount": 23,
+  "lastUpdated": "2026-08-28 12:22:28",
+  "totalCount": 26,
   "news": [
     {
-      "id": "https://www.nbd.com.cn/articles/2026-08-26/4558075.html",
-      "title": "我国新能源汽车产业规模已超千万辆级;现代汽车公布史上最大产品投放计划 | 汽车早参",
-      "summary": "| 2026年8月27日 星期四 |NO.1 我国新能源汽车产业规模已超千万辆级8月26日,工业和信息化部副部长辛国斌在国新办新闻发布会上表示,“十四五”期间,我国新能源汽车产业规模从百万辆级跃升到千...",
-      "source": "Nbd_Cn",
-      "date": "2026-08-26",
-      "url": "https://www.nbd.com.cn/articles/2026-08-26/4558075.html",
+      "id": "http://baijiahao.baidu.com/s?id=1874720339687938336",
+      "title": "印度小城两个“宅男”,用AI做了一家永远不送餐的外..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-28",
+      "url": "http://baijiahao.baidu.com/s?id=1874720339687938336",
       "category": "industry"
     },
     {
-      "id": "https://www.nbd.com.cn/articles/2026-08-26/4559588.html",
-      "title": "西藏吉隆泥石流已致3人遇难265人失联;特朗普:伊朗何时重返谈判“没有时间表”;苹果发布会定档9月10日;英伟达最新财报公布丨每经早参",
-      "summary": "西藏吉隆泥石流已致3人遇难265人失联;特朗普:伊朗何时重返谈判“没有时间表”;苹果发布会定档9月10日;英伟达最新财报公布丨每经早参...",
+      "id": "http://baijiahao.baidu.com/s?id=1874597308917386054",
+      "title": "北京通州站短途游热度高,“轨道上的京津冀”暑期火热",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-28",
+      "url": "http://baijiahao.baidu.com/s?id=1874597308917386054",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874600061473203163",
+      "title": "央视曝光:政务App日活用户仅60人,当地投467..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-28",
+      "url": "http://baijiahao.baidu.com/s?id=1874600061473203163",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874720747784336335",
+      "title": "大外交|日本跨党派议员团访华,专家:要中方单方面回..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-28",
+      "url": "http://baijiahao.baidu.com/s?id=1874720747784336335",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874720967649859319",
+      "title": "周末人物|“最美新时代革命军人”王晓明:齐鲁兵的“..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-28",
+      "url": "http://baijiahao.baidu.com/s?id=1874720967649859319",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1787886724189727.html",
+      "title": "通州永乐、应寺、西集进京检查站8月28日起改造升级,将扩容通行通道",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-28",
+      "url": "https://www.bjnews.com.cn/detail/1787886724189727.html",
+      "category": "industry"
+    },
+    {
+      "id": "http://www.81.cn/ss_208539/16481797.html",
+      "title": "挺近吉隆口岸——泥石流灾害救援现场见闻",
+      "summary": "挺近吉隆口岸——泥石流灾害救援现场见闻 新华社记者 “接下来争取道路通到哪里,我们的信号就延伸到哪里。”西藏自治区通信管理局党组书记、局长尼玛多吉在救灾现场一线,通过电话告诉新华社记者,27日16时许,应急通信保障队伍在吉隆口岸方向成功抢通1座基站、新增2座基站,距离吉隆口岸方向3公里处的热索村已恢...",
+      "source": "81Cn",
+      "date": "2026-08-28",
+      "url": "http://www.81.cn/ss_208539/16481797.html",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874716908978632119",
+      "title": "AI的风吹进就业市场 AI智能体开发人才需求大涨2..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-27",
+      "url": "http://baijiahao.baidu.com/s?id=1874716908978632119",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874575257685159213",
+      "title": "闪电新闻记者实地体验:外卖“等灯不计时” 最安心的..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-27",
+      "url": "http://baijiahao.baidu.com/s?id=1874575257685159213",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/axkl68rd/",
+      "title": "神行者8首批试驾口碑出炉:越野内容基本是官方局,真正能听的判断在城市这一边",
+      "summary": "这两天只要打开任何一个App,大概率刷到过几台方盒子爬火山的视频。先把背景说清楚:8月26日,奇瑞捷豹路虎FREELANDER神行者的首款车神行者8,在大同办了上市前规模最大的一场官方全地形试驾,演员......",
+      "source": "Smzdm",
+      "date": "2026-08-27",
+      "url": "https://post.smzdm.com/p/axkl68rd/",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874720252396365909",
+      "title": "大学专业迎来一轮“上新” 就业前景如何?",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-27",
+      "url": "http://baijiahao.baidu.com/s?id=1874720252396365909",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.orientaldaily.com.my/news/nation/2026/08/28/843678",
+      "title": "勿为躲避警示声使用假安全带扣",
+      "summary": "(美里28日讯)安全带不是“要不要系”的选择题,而是发生车祸时保护生命的重要防线。根据严重交通事故伤亡相关报告显示,车内人员一旦没有正确系上安全带,在发生严重碰撞时,受伤甚至死亡的风险也会随之增加。然而,仍有一些驾驶人士为了避免车辆发出安全带警告声,使用所谓的“假安全带扣”欺骗车辆系统,让警示声停止...",
+      "source": "Orientaldaily",
+      "date": "2026-08-27",
+      "url": "https://www.orientaldaily.com.my/news/nation/2026/08/28/843678",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/0/995/339.htm",
+      "title": "吉利银河 TT 小订突破 2 万:预售 14.59 万元起,将于 9 月上市",
+      "summary": "IT之家 8 月 28 日消息,吉利银河昨日宣布,吉利银河 TT 小订突破 2 万 ,将于 9 月上市。 官方还宣布,将为用户追加专属权益: 限时 2500 元享价值 5000 元醇红专属内饰(追加开放 540 后驱尊贵 / 640 后驱旗舰,其中橄榄绿 / 晴午蓝车色可选) 预售期下订用户,可赠送...",
+      "source": "Ithome",
+      "date": "2026-08-27",
+      "url": "https://www.ithome.com/0/995/339.htm",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.nbd.com.cn/articles/2026-08-27/4562052.html",
+      "title": "美官员称“罗斯福”航母将被派往中东;英伟达市值暴增2.9万亿元;西藏吉隆泥石流原因查明;商务部回应美考虑对华额外加征7.5%关税丨每经早参",
+      "summary": "美官员称“罗斯福”航母将被派往中东;英伟达市值暴增2.9万亿元;西藏吉隆泥石流原因查明;商务部回应美考虑对华额外加征7.5%关税丨每经早参...",
       "source": "Nbd_Cn",
-      "date": "2026-08-26",
-      "url": "https://www.nbd.com.cn/articles/2026-08-26/4559588.html",
+      "date": "2026-08-27",
+      "url": "https://www.nbd.com.cn/articles/2026-08-27/4562052.html",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1874679630334120416",
+      "title": "数智向新,人机协同:山西培育新质生产力的转型密码",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-08-27",
+      "url": "http://baijiahao.baidu.com/s?id=1874679630334120416",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1787836275129195.html",
+      "title": "享界G9正式发布,全系首发华为智擎自适应差速锁电驱,以精准控制守护出行安全",
+      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-08-27",
+      "url": "https://www.bjnews.com.cn/detail/1787836275129195.html",
       "category": "product"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874572366673229436",
-      "title": "工信部回应新能源汽车“内卷”",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-26",
-      "url": "http://baijiahao.baidu.com/s?id=1874572366673229436",
-      "category": "industry"
+      "id": "https://www.livemint.com/auto-news/autonomous-driving-technology-gabriel-india-joins-hands-with-south-koreas-hl-klemove-whats-inside-the-joint-venture-11787828253279.html",
+      "title": "Autonomous driving technology: Gabriel India joins hands with South Korea's HL Klemove - what's inside the joint venture",
+      "summary": "Gabriel India HL Klemove joint venture, ₹935 crore investment, 30% stake, ADAS, autonomous driving technology and automotive electronics in India....",
+      "source": "Livemint",
+      "date": "2026-08-27",
+      "url": "https://www.livemint.com/auto-news/autonomous-driving-technology-gabriel-india-joins-hands-with-south-koreas-hl-klemove-whats-inside-the-joint-venture-11787828253279.html",
+      "category": "tech"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1874623168039926801",
-      "title": "中国制造,未来五年这么做!",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-26",
-      "url": "http://baijiahao.baidu.com/s?id=1874623168039926801",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874626216848648630",
-      "title": "黄河隧道如何改写一座城市的命运基因",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-26",
-      "url": "http://baijiahao.baidu.com/s?id=1874626216848648630",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874578497036973757",
-      "title": "践行为民初心 提升服务质效 河南信息通信业扎实开展..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-26",
-      "url": "http://baijiahao.baidu.com/s?id=1874578497036973757",
-      "category": "industry"
-    },
-    {
-      "id": "https://news.smm.cn/news/104083571",
-      "title": "工信部等四部门:持续整治汽车行业网络乱象 严厉打击夸大和虚假宣传等行为",
-      "summary": "",
-      "source": "Smm_Cn",
-      "date": "2026-08-26",
-      "url": "https://news.smm.cn/news/104083571",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874610993036089931",
-      "title": "机器人自主进化学院亮相HICOOL",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-26",
-      "url": "http://baijiahao.baidu.com/s?id=1874610993036089931",
-      "category": "industry"
-    },
-    {
-      "id": "https://news.gmw.cn/2026-08/27/content_38966319.htm",
-      "title": "数智时代,快递业质效再跃升",
-      "summary": "",
-      "source": "Gmw",
-      "date": "2026-08-26",
-      "url": "https://news.gmw.cn/2026-08/27/content_38966319.htm",
-      "category": "industry"
-    },
-    {
-      "id": "https://news.gmw.cn/2026-08/27/content_38966338.htm",
-      "title": "【新闻随笔】农学专业“上新”背后的时代之变",
-      "summary": "",
-      "source": "Gmw",
-      "date": "2026-08-26",
-      "url": "https://news.gmw.cn/2026-08/27/content_38966338.htm",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874582272107797323",
-      "title": "北京地铁智慧车站将升级!员工手上佩戴的智能终端有大..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-26",
-      "url": "http://baijiahao.baidu.com/s?id=1874582272107797323",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1874496610518287946",
-      "title": "欧菲光“光启未来”战略:四大业务矩阵浮现 光学底座..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-08-26",
-      "url": "http://baijiahao.baidu.com/s?id=1874496610518287946",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.bjnews.com.cn/detail/1787758794169632.html",
-      "title": "“AI交警”上岗,提升通行效率也是治堵良策 | 新京报快评",
-      "summary": "新京报以文字、图片、视频等全媒体形式,为用户提供全天候热点新闻,涵盖突发新闻、时事、财经、娱乐、体育,以及评论、杂志和博客等,新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
-      "source": "Bjnews",
-      "date": "2026-08-26",
-      "url": "https://www.bjnews.com.cn/detail/1787758794169632.html",
+      "id": "https://economictimes.indiatimes.com/industry/auto/auto-components/gabriel-india-teams-up-with-south-koreas-hl-klemove-for-autonomous-driving/articleshow/133559487.cms",
+      "title": "Gabriel India teams up with South Korea’s HL Klemove for autonomous driving",
+      "summary": "Gabriel India has formed a strategic joint venture with South Korea's HL Klemove. This partnership aims to expand Gabriel India's presence in high-gro...",
+      "source": "The Economic Times",
+      "date": "2026-08-27",
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-components/gabriel-india-teams-up-with-south-koreas-hl-klemove-for-autonomous-driving/articleshow/133559487.cms",
       "category": "industry"
     },
     {
@@ -135,51 +180,6 @@
       "source": "Free Press Journal",
       "date": "2026-08-26",
       "url": "https://www.freepressjournal.in/business/gabriel-india-makes-935-crore-mega-bet-on-autonomous-driving-partners-with-south-koreas-hl-klemove-in-joint-venture",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.cnbctv18.com/business/companies/gabriel-india-hl-klemove-korea-joint-venture-stake-acquisition-adas-autonomous-driving-automotive-19977438.htm",
-      "title": "based firm bets ₹935 crore on South Korean firm to crack self",
-      "summary": "Gabriel India will acquire a 30% minus one share stake in South Korea's HL Klemove for ₹935 crore, further entering ADAS, autonomous driving and autom...",
-      "source": "CNBC TV18",
-      "date": "2026-08-26",
-      "url": "https://www.cnbctv18.com/business/companies/gabriel-india-hl-klemove-korea-joint-venture-stake-acquisition-adas-autonomous-driving-automotive-19977438.htm",
-      "category": "industry"
-    },
-    {
-      "id": "https://economictimes.indiatimes.com/industry/auto/auto-news/gabriel-india-forms-jv-with-south-koreas-hl-klemove-for-autonomous-driving-technology/articleshow/133534551.cms",
-      "title": "Gabriel India forms JV with South Korea's HL Klemove for autonomous driving technology",
-      "summary": "Gabriel India has formed a joint venture with South Korea's HL Klemove. This partnership aims to expand presence in autonomous driving solutions and e...",
-      "source": "The Economic Times",
-      "date": "2026-08-26",
-      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/gabriel-india-forms-jv-with-south-koreas-hl-klemove-for-autonomous-driving-technology/articleshow/133534551.cms",
-      "category": "tech"
-    },
-    {
-      "id": "https://www.outlookbusiness.com/corporate/gabriel-india-forms-jv-with-south-koreas-hl-klemove-for-autonomous-driving-technology",
-      "title": "Gabriel India Forms JV With South Korea's HL Klemove For Autonomous Driving Technology",
-      "summary": "To form the joint venture, Gabriel India Ltd will acquire a 30% less one share stake in HL Klemove India for $98.44 million (approximately ₹935 crore)...",
-      "source": "Outlook Business",
-      "date": "2026-08-26",
-      "url": "https://www.outlookbusiness.com/corporate/gabriel-india-forms-jv-with-south-koreas-hl-klemove-for-autonomous-driving-technology",
-      "category": "tech"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/08/26/tmt-newswire/pr-newswire/tier-iv-to-showcase-integrated-ai-data-and-computing-solution-for-sdvs-at-automotive-world-2026/2412255",
-      "title": "TIER IV to showcase integrated AI, data, and computing solution for SDVs at Automotive World 2026",
-      "summary": "**media[1190500]**TOKYO, Aug. 26, 2026 /PRNewswire/ -- TIER IV, the pioneering force behind open-source software for autonomous driving, will showcase...",
-      "source": "The Manila Times",
-      "date": "2026-08-26",
-      "url": "https://www.manilatimes.net/2026/08/26/tmt-newswire/pr-newswire/tier-iv-to-showcase-integrated-ai-data-and-computing-solution-for-sdvs-at-automotive-world-2026/2412255",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.thestar.com.my/tech/tech-news/2026/08/25/waymo-to-begin-testing-autonomous-vehicles-in-munich",
-      "title": "Waymo to begin testing autonomous vehicles in Munich",
-      "summary": "Aug 25 (Reuters) - Self-driving ⁠technology company Waymo said on Tuesday it ⁠would begin testing its autonomous vehicles in ‌Munich in the coming wee...",
-      "source": "The Star",
-      "date": "2026-08-25",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/08/25/waymo-to-begin-testing-autonomous-vehicles-in-munich",
       "category": "industry"
     }
   ]
