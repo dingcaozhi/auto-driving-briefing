@@ -1,131 +1,158 @@
 {
-  "lastUpdated": "2026-09-29 06:23:52",
-  "totalCount": 23,
+  "lastUpdated": "2026-09-30 06:09:20",
+  "totalCount": 26,
   "news": [
     {
-      "id": "https://post.smzdm.com/p/a3m0v07r/",
-      "title": "10万出头买什么车？2026年最值得入手的3台家轿，省油耐造",
-      "summary": "10万预算买家用轿车，要求就三个：省油、耐造、空间大。作为开过10几台车的老司机，给大家推荐3台闭眼入不踩坑的车。一、朗逸 1.5L 自动满逸版指导价：12.09万，终端优惠3万左右，落地9万多优点：1. 大众EA211发动机+6AT，开20万公里不用修......",
-      "source": "Smzdm",
-      "date": "2026-09-28",
-      "url": "https://post.smzdm.com/p/a3m0v07r/",
+      "id": "http://baijiahao.baidu.com/s?id=1877666112060993527",
+      "title": "山河+调查｜别再凭颜值选头盔了！记者实地走访教你科..",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-09-29",
+      "url": "http://baijiahao.baidu.com/s?id=1877666112060993527",
       "category": "industry"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1790591687129523.html",
-      "title": "十一自驾出行更实惠！京东汽车“新能源车主省钱节”全场不止5折",
+      "id": "https://post.smzdm.com/p/az86g5q5/",
+      "title": "6.98万起！长城发布新车：9月30日继续开售",
+      "summary": "9月30日消息，2027款长城欧拉好猫目前已经上市开售。我之前曾预测过它的价格不会高于7万元，因为今年这个新版本增加了335km续航入门版，低于往年入门版，事实果真如此，最终定价6.98万起。该车定位......",
+      "source": "Smzdm",
+      "date": "2026-09-29",
+      "url": "https://post.smzdm.com/p/az86g5q5/",
+      "category": "product"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a3m07g3k/",
+      "title": "纯电续航650km！现代新车上市：9月30日继续开售",
+      "summary": "9月30日消息，范丞丞代言的新车北京现代艾尼氪V目前已经上市开售。之所以我会提到它的代言人范丞丞，是因为一般来说请明星代言的车型，都是车企们很重视的新车，该车就属于是一个典型的例子，车企对它寄予厚望，......",
+      "source": "Smzdm",
+      "date": "2026-09-29",
+      "url": "https://post.smzdm.com/p/a3m07g3k/",
+      "category": "product"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a260dm5p/",
+      "title": "仰望U7产品力解读，为何被视作60万性价比最高的车",
+      "summary": "60万性价比最高的车仰望U7，2026款五座豪华版依托易四方、第二代刀片电池、云辇A⁺等成套技术，构建起旗舰轿车的硬件基础。该车型定位纯电豪华旗舰，在动力、底盘、电池安全、座舱与智驾方面均搭载品牌前沿......",
+      "source": "Smzdm",
+      "date": "2026-09-29",
+      "url": "https://post.smzdm.com/p/a260dm5p/",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20260930/5b969e7909f359553d73080488b7af7e.html",
+      "title": "AMD收购李飞飞公司背后：AI芯片巨头“抢”AI定义权？",
+      "summary": "",
+      "source": "21Jingji",
+      "date": "2026-09-29",
+      "url": "https://www.21jingji.com/article/20260930/5b969e7909f359553d73080488b7af7e.html",
+      "category": "tech"
+    },
+    {
+      "id": "https://post.smzdm.com/p/awwz4xg2/",
+      "title": "国庆21亿人次出行,错峰时段机票降价超80%,避堵捡漏指南来了",
+      "summary": "国庆7天预计21.3亿人次踏上旅途，首日峰值将达3.4亿人次，史诗级黄金周真的来了。这不仅是人多，更是大家的出行方向和节点高度重叠，公路、铁路、民航同时承压。想走得顺畅、花得值当，这篇避堵捡漏指南你得......",
+      "source": "Smzdm",
+      "date": "2026-09-29",
+      "url": "https://post.smzdm.com/p/awwz4xg2/",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20260930/20e8be1806ef0f1cce9c2a4837dc81c8.html",
+      "title": "AMD收购李飞飞公司背后：AI芯片巨头开始“抢”AI定义权？",
+      "summary": "",
+      "source": "21Jingji",
+      "date": "2026-09-29",
+      "url": "https://www.21jingji.com/article/20260930/20e8be1806ef0f1cce9c2a4837dc81c8.html",
+      "category": "tech"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03qn2g8/",
+      "title": "赛力斯代工生产 赛豆科技首款量产车AIVA ME7全球首秀",
+      "summary": "快科技9月30日消息，当地时间28日晚间，赛豆科技旗下AIVA品牌首车AIVA ME7于巴黎完成全球首秀，标志着这家独立AI汽车品牌正式落地量产车型。赛豆科技前身为蓝电科技，由赛力斯100%持股，后完......",
+      "source": "Smzdm",
+      "date": "2026-09-29",
+      "url": "https://post.smzdm.com/p/a03qn2g8/",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a950wd45/",
+      "title": "刚需与玩具之争：武汉禁摩政策下的交通现实",
+      "summary": "哈喽大家好，我是超人我会飞。今天我们聊摩托车。在武汉的城市交通讨论中，摩托车一直是颇具争议的话题。很多市民时常疑惑，武汉究竟是否禁摩？摩托车对于本地居民而言，是日常通勤的刚需工具，还是仅供玩乐的代步玩......",
+      "source": "Smzdm",
+      "date": "2026-09-29",
+      "url": "https://post.smzdm.com/p/a950wd45/",
+      "category": "policy"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1790660964129025.html",
+      "title": "世界智能网联汽车大会再聚北京亦庄",
       "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-09-28",
-      "url": "https://www.bjnews.com.cn/detail/1790591687129523.html",
+      "date": "2026-09-29",
+      "url": "https://www.bjnews.com.cn/detail/1790660964129025.html",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877568449951249915",
-      "title": "雄安日记丨体验“未来之城”的未来感",
+      "id": "https://www.fx168news.com/article/1098346",
+      "title": "股市必读：福田汽车新发布《十届二次董事会决议公告》-FX168",
+      "summary": "截至2026年9月29日收盘，福田汽车(600166)报收于2.76元，上涨0.36%，换手率0.86%，成交量67.85万手，成交额1.87亿元。 当日关注点 交易信息汇总：9月29日主力资金净流入550.2万元，占总成交额2.94%。 公司公告汇总：福田汽车董事会审议通过《关于制定“十五五”战略...",
+      "source": "Fx168News",
+      "date": "2026-09-29",
+      "url": "https://www.fx168news.com/article/1098346",
+      "category": "product"
+    },
+    {
+      "id": "https://news.cri.cn/20260929/6024fed7-3a66-42c6-1256-cab86d4fd49c.html",
+      "title": "伊朗否认与英国空军基地附近涉嫌“恐袭”者有关-国际在线",
+      "summary": "新华社北京9月29日电 伊朗驻英国大使馆28日否认与一天前在英国空军费尔福德基地附近被捕、涉嫌策划“恐怖袭击”的5人有关。当天晚些时候，英国警方宣布这5名英国籍嫌疑人已获得保释，同时称正从&l...",
+      "source": "Cri_Cn",
+      "date": "2026-09-29",
+      "url": "https://news.cri.cn/20260929/6024fed7-3a66-42c6-1256-cab86d4fd49c.html",
+      "category": "industry"
+    },
+    {
+      "id": "https://wallstreetcn.com/articles/3782777",
+      "title": "华尔街见闻早餐FM-Radio | 2026年9月30日",
+      "summary": "",
+      "source": "Wallstreetcn",
+      "date": "2026-09-29",
+      "url": "https://wallstreetcn.com/articles/3782777",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877673203991083164",
+      "title": "普陀区青少年庆祝新中国成立77周年主题活动举办",
+      "summary": "9月29日，“红旗赓续薪火 少年奋楫逐光”普陀区青少年庆祝新中国成立77周年主题活动暨“向国旗敬礼”启动仪式在普陀区曹杨实验小学举行。活动在昂扬欢快的《红领巾进行曲》中拉开帷幕。少先队员们整齐有序入......",
+      "source": "News_Baidu",
+      "date": "2026-09-29",
+      "url": "http://baijiahao.baidu.com/s?id=1877673203991083164",
+      "category": "industry"
+    },
+    {
+      "id": "http://baijiahao.baidu.com/s?id=1877635106112753532",
+      "title": "双域控背后的安全哲学：天瞳威视为L4商业化筑牢底线",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-09-28",
-      "url": "http://baijiahao.baidu.com/s?id=1877568449951249915",
+      "date": "2026-09-29",
+      "url": "http://baijiahao.baidu.com/s?id=1877635106112753532",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1877573887969035413",
-      "title": "俄罗斯姑娘的广州情缘：我是中文十级、略懂粤语的老广..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-09-28",
-      "url": "http://baijiahao.baidu.com/s?id=1877573887969035413",
+      "id": "https://www.bjnews.com.cn/detail/1790667890129165.html",
+      "title": "谨防机票退改签等电信网络诈骗 假期民航出行安全提示请查收",
+      "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
+      "source": "Bjnews",
+      "date": "2026-09-29",
+      "url": "https://www.bjnews.com.cn/detail/1790667890129165.html",
       "category": "industry"
     },
     {
-      "id": "https://post.smzdm.com/p/a82x0xwn/",
-      "title": "吉利新车上市：9月29日继续开售，专享价11.88万起",
-      "summary": "9月29日消息，吉利系车型全新领克20目前已经上市开售。我个人还挺喜欢这台车的，因为它属于是入门即高配，很多新车起步价虽然低，但入门版配置很差，多项配置都有阉割，而这台12万级新车全系标配800V高压......",
-      "source": "Smzdm",
-      "date": "2026-09-28",
-      "url": "https://post.smzdm.com/p/a82x0xwn/",
-      "category": "product"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a26090qq/",
-      "title": "纯电续航852km！华为乾崑新车上市：9月29继续开售",
-      "summary": "带华为乾崑智驾的又一款新车开卖了，智界RX目前已经上市，9月29日我实测该车已经开启下定。它是鸿蒙智行首款以X命名、主打驾控的中大型纯电轿跑SUV，属于华为和奇瑞合作车型，余承东曾评价它是鸿蒙智行最好......",
-      "source": "Smzdm",
-      "date": "2026-09-28",
-      "url": "https://post.smzdm.com/p/a26090qq/",
-      "category": "product"
-    },
-    {
-      "id": "https://post.smzdm.com/p/apqv3zw7/",
-      "title": "上汽发布新车：9月28日正式上市，限时补贴价8.48万",
-      "summary": "预算不到10万元打算买车，往年我一般都更建议买油车或者混动车，不太推荐选纯电车，因为续航太低，但今年情况不一样。因为今年出现了多款纯电续航超过500km的低价纯电车，9月28上汽就行发布了一台MG4 ......",
-      "source": "Smzdm",
-      "date": "2026-09-28",
-      "url": "https://post.smzdm.com/p/apqv3zw7/",
-      "category": "product"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20260929/5368318ed1133851daf730c4b8693be4.html",
-      "title": "“产业雨林”生于沃野：跨越3000公里的中国农业调研",
-      "summary": "",
-      "source": "21Jingji",
-      "date": "2026-09-28",
-      "url": "https://www.21jingji.com/article/20260929/5368318ed1133851daf730c4b8693be4.html",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1877571616391276991",
-      "title": "「长三角日报」张家齐签约的杭州MCN放出岗位，招聘..",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-09-28",
-      "url": "http://baijiahao.baidu.com/s?id=1877571616391276991",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20260929/d7ec5e6520461b3fdc212a9b4c4941c0.html",
-      "title": "21社论丨推动北斗产业加速迈向万亿级规模",
-      "summary": "",
-      "source": "21Jingji",
-      "date": "2026-09-28",
-      "url": "https://www.21jingji.com/article/20260929/d7ec5e6520461b3fdc212a9b4c4941c0.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://post.smzdm.com/p/aqrm9mkx/",
-      "title": "120度电池！北汽新车官宣：9月28日开启预订",
-      "summary": "车长超过5.3米的MPV售价30多万并不稀奇，但如果是鸿蒙智行旗下的车型就这个价格就真的算是惊喜了。9月28日享界V8正式开启预订，预售价32.98万起，老实说它的价格有点低于我的预估，估计是因为现在......",
-      "source": "Smzdm",
-      "date": "2026-09-28",
-      "url": "https://post.smzdm.com/p/aqrm9mkx/",
-      "category": "product"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgxzwom/",
-      "title": "问界单飞后智界能接住多少盘，华为四界分摊格局已定",
-      "summary": "智界无法完全接住问界留下的全部市场位置，只能在部分细分赛道实现补位。9月15日问界合作模式调整后，华为资源转向智界等“四界”，但智界与问界定位差异显著，难以填补问界核心的家用SUV基本盘，问界让出的空间将由鸿蒙智行体系内多个品牌共同分摊。问界单飞，华为资......",
-      "source": "Smzdm",
-      "date": "2026-09-28",
-      "url": "https://post.smzdm.com/p/avgxzwom/",
-      "category": "industry"
-    },
-    {
-      "id": "http://www.eeo.com.cn/2026/0929/1051150.shtml",
-      "title": "多地密集出台举措 激活假期车市消费潜力",
-      "summary": "每年的“金九银十”向来是国内车市传统消费旺季，近期全国多地密集出台汽车促消费组合举措，兼顾“刚性”购置补贴与“柔性”配套权益，双向撬动市场消费活力。 例如，甘肃省统筹600万元省级专项促消费资金，于9月23日至10月7日期间在全省范围内开展汽车购新补贴活动，补贴面向在甘肃购置非营运全新乘用车的个人消...",
-      "source": "Eeo",
-      "date": "2026-09-28",
-      "url": "http://www.eeo.com.cn/2026/0929/1051150.shtml",
-      "category": "industry"
-    },
-    {
-      "id": "https://post.smzdm.com/p/am98k8m4/",
-      "title": "全系800V吸引力十足 领克20上市1小时大定14663台",
-      "summary": "快科技9月29日消息，领克汽车官宣，领克20上市1小时大定14663台，成为品牌内部的爆款车型。该车之所以受欢迎，全系800V架构绝对是最大的卖点，在同价位实属罕见，因此形成了差异化的竞争力。领克20......",
-      "source": "Smzdm",
-      "date": "2026-09-28",
-      "url": "https://post.smzdm.com/p/am98k8m4/",
+      "id": "https://www.nbd.com.cn/articles/2026-09-29/4595109.html",
+      "title": "冲击万亿目标，“汽车第一城”迎来关键时刻",
+      "summary": "行业高增长时代结束，正式步入深度调整期，赛力斯自身也在经历一轮重构。此次调研，不但提到要“尽心尽力帮助企业解决实际困难，推动企业抢抓机遇跨越发展”，智能网联新能源汽车之都建设也被再次提及。...",
+      "source": "Nbd_Cn",
+      "date": "2026-09-29",
+      "url": "https://www.nbd.com.cn/articles/2026-09-29/4595109.html",
       "category": "industry"
     },
     {
@@ -154,33 +181,6 @@
       "date": "2026-09-28",
       "url": "https://www.europesays.com/3276494/",
       "category": "product"
-    },
-    {
-      "id": "https://www.thehindu.com/sci-tech/technology/waymo-self-driving-taxi-review-making-peace-with-autonomous-driving-technology/article71507319.ece",
-      "title": "Waymo Self-Driving Taxi Review | Making peace with autonomous driving technology",
-      "summary": "Waymo is a game changer for short, inner-city rides where accessibility and women’s safety are priorities....",
-      "source": "The Hindu",
-      "date": "2026-09-26",
-      "url": "https://www.thehindu.com/sci-tech/technology/waymo-self-driving-taxi-review-making-peace-with-autonomous-driving-technology/article71507319.ece",
-      "category": "tech"
-    },
-    {
-      "id": "https://lfpress.com/press-releases/globe-newswire/monaco-smart-and-sustainable-marina-awards/",
-      "title": "Monaco Smart and sustainable marina awards",
-      "summary": "Monaco awards technologies driving the future of sustainable marinasMONACO, Sept. 25, 2026 (GLOBE NEWSWIRE) -- From autonomous charging for electric b...",
-      "source": "The London Free Press",
-      "date": "2026-09-25",
-      "url": "https://lfpress.com/press-releases/globe-newswire/monaco-smart-and-sustainable-marina-awards/",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.freightwaves.com/news/einride-nvidia-hyperion-autonomous-trucking",
-      "title": "Einride, Nvidia partner on heavy-duty autonomous trucking",
-      "summary": "Einride will build its next autonomous driving system on Nvidia Hyperion, adapting it for heavy-duty trucks as it targets 1,500 to 2,000 vehicles by 2...",
-      "source": "FreightWaves",
-      "date": "2026-09-24",
-      "url": "https://www.freightwaves.com/news/einride-nvidia-hyperion-autonomous-trucking",
-      "category": "industry"
     }
   ]
 }
