@@ -1,149 +1,167 @@
 {
-  "lastUpdated": "2026-10-08 06:49:11",
-  "totalCount": 26,
+  "lastUpdated": "2026-10-09 06:57:42",
+  "totalCount": 25,
   "news": [
     {
-      "id": "https://wallstreetcn.com/articles/3783145",
-      "title": "“AI央行”英伟达的“千亿资本局”",
-      "summary": "",
-      "source": "Wallstreetcn",
-      "date": "2026-10-07",
-      "url": "https://wallstreetcn.com/articles/3783145",
+      "id": "http://news.imobile.com.cn/articles/2026/1008/235730.shtml",
+      "title": "当汽车遇上音乐节，极狐汽车引领潮流生活新风尚",
+      "summary": "10月5日至6日，2026北京大运河音乐节在北京城市副中心·城市绿心森林公园燃情开唱，现场数万乐迷汇聚于此，万人合唱此起彼伏，共同点燃这个国庆假期的音乐嘉年华。...",
+      "source": "Imobile",
+      "date": "2026-10-08",
+      "url": "http://news.imobile.com.cn/articles/2026/1008/235730.shtml",
       "category": "industry"
     },
     {
-      "id": "https://post.smzdm.com/p/arzrgmn7/",
-      "title": "预估13万左右！长安新车官宣，10月8日，即将上市",
-      "summary": "10月8日消息，长安深蓝官方官宣了新车2027款深蓝L06即将上市，有两大智能体。该车属于年度改款，分为普通版与追风运动特别版两个系列，其中普通版目前还没有亮相，但追风版运动特别版在之前的车展中已经举办了一个简单的发布会，外观和内饰都已经公开，再加上工信......",
+      "id": "http://news.imobile.com.cn/articles/2026/1008/235731.shtml",
+      "title": "倍耐力专为全新国际汽联F1安全车打造轮胎",
+      "summary": "2026年10月5日，全新倍耐力P Zero R轮胎，专为最新亮相的梅赛德斯-AMG GT 63 PRO 4MATIC+车型量身定制，该款车型是首款配备可变四轮驱动系统的国际汽联F1®官方安全车。...",
+      "source": "Imobile",
+      "date": "2026-10-08",
+      "url": "http://news.imobile.com.cn/articles/2026/1008/235731.shtml",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ad7m69kp/",
+      "title": "解析零跑A10产品力与配置逻辑",
+      "summary": "6.58万起售的零跑A10上市之后，直接搅动6-9万纯电小型SUV赛道。网上舆论两极分化严重：一部分人直接把它捧为“8万价位激光雷达神车”，宣扬自研硬件下放带来的科技平权；另一派则抓住扭力梁悬架、后排舒适性短板全盘否定产品价值。在我看来，评价一台平价电车......",
       "source": "Smzdm",
-      "date": "2026-10-07",
-      "url": "https://post.smzdm.com/p/arzrgmn7/",
+      "date": "2026-10-08",
+      "url": "https://post.smzdm.com/p/ad7m69kp/",
+      "category": "industry"
+    },
+    {
+      "id": "https://wallstreetcn.com/articles/3783239",
+      "title": "江淮汽车盘中再次跌停，封单11万手",
+      "summary": "",
+      "source": "Wallstreetcn",
+      "date": "2026-10-08",
+      "url": "https://wallstreetcn.com/articles/3783239",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a3mxprxd/",
+      "title": "华为乾崑新车官宣：10月11日，全球首秀",
+      "summary": "能在这个月巴黎车展上亮相的国产车，基本上都是各大国产车企非常重视的车型，其中就包括阿维塔T09概念版。目前阿维塔官方已经宣布10月11日新车将在巴黎车展首秀，此次亮相的阿维塔T09概念版在此之前没有消......",
+      "source": "Smzdm",
+      "date": "2026-10-08",
+      "url": "https://post.smzdm.com/p/a3mxprxd/",
       "category": "product"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878373692180821058",
-      "title": "租外骨骼设备爬长城？前沿科技“抢镜”黄金周说明了什..",
+      "id": "http://baijiahao.baidu.com/s?id=1878499163746398299",
+      "title": "年内港股IPO募资总额同比增长104.52%",
       "summary": "",
       "source": "News_Baidu",
-      "date": "2026-10-07",
-      "url": "http://baijiahao.baidu.com/s?id=1878373692180821058",
+      "date": "2026-10-08",
+      "url": "http://baijiahao.baidu.com/s?id=1878499163746398299",
       "category": "industry"
     },
     {
-      "id": "https://wallstreetcn.com/articles/3783135",
-      "title": "微软携手英伟达发布Surface旗舰新机，同步推出“龙虾”个人助手Scout",
-      "summary": "",
-      "source": "Wallstreetcn",
-      "date": "2026-10-07",
-      "url": "https://wallstreetcn.com/articles/3783135",
-      "category": "product"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261007/herald/d019c9d61e7b7a76eebe09c158a801a1.html",
-      "title": "外资机构重估中国：A股估值凸显，AI主线外的增长机遇在哪里？",
-      "summary": "",
-      "source": "21Jingji",
-      "date": "2026-10-07",
-      "url": "https://www.21jingji.com/article/20261007/herald/d019c9d61e7b7a76eebe09c158a801a1.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://cn.investing.com/news/analyst-ratings/article-93CH-3598428",
-      "title": "约克维尔·艾夫斯首次覆盖通用汽车股票，给予跑赢大市评级",
-      "summary": "",
-      "source": "Investing_Cn",
-      "date": "2026-10-07",
-      "url": "https://cn.investing.com/news/analyst-ratings/article-93CH-3598428",
-      "category": "industry"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a5rx592k/",
-      "title": "央视点名高速智驾睡觉，出事车企不担责你得自己扛",
-      "summary": "央视这次点名，把很多人的侥幸心理戳破了——在高速上开着辅助驾驶直接睡大觉，就是拿命赌博。10月1日国庆出行高峰，沪昆高速浙江衢州往江西上饶路段，一辆车的司机在主驾位闭眼熟睡，旁车跟了足足3分钟，疯狂按喇叭都叫不醒，最后全靠前方堵车系统自动刹停，司机才惊醒......",
+      "id": "https://post.smzdm.com/p/ad7m6o2k/",
+      "title": "战舰700后天上市，小订43900台先放一边：价格表中间那1万块，是重复收费",
+      "summary": "10月10日，吉利银河战舰700在杭州正式上市。9月15号预售那晚，官方海报的数字很唬人：60分钟小订破43900台，9分钟先破一万，限量700台的陆地方舟版直接售罄。我看到这种数字的第一反应，从来不是「好厉害」，而是想翻它的价格表。在车企做过几年产品规......",
       "source": "Smzdm",
-      "date": "2026-10-07",
-      "url": "https://post.smzdm.com/p/a5rx592k/",
+      "date": "2026-10-08",
+      "url": "https://post.smzdm.com/p/ad7m6o2k/",
       "category": "industry"
     },
     {
-      "id": "https://cn.investing.com/news/stock-market-news/article-93CH-3598411",
-      "title": "Parallel Systems完成1亿美元C轮融资，加速自动驾驶货运车辆量产",
+      "id": "http://baijiahao.baidu.com/s?id=1878499164598699295",
+      "title": "外资机构看好A股长期价值 关注人工智能等赛道",
+      "summary": "",
+      "source": "News_Baidu",
+      "date": "2026-10-08",
+      "url": "http://baijiahao.baidu.com/s?id=1878499164598699295",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgp4dzm/",
+      "title": "男子最后1分钟卡点下高速：省了760元",
+      "summary": "10月8日消息，据媒体报道，国庆假期免费通行最后一分钟，一男子成功卡点免费通过，直接省下760元通行费。男子激动表示，冲过去的这一刻比七天假期还开心。据了解，国庆假期全国实施7座及以下小客车免收通行费......",
+      "source": "Smzdm",
+      "date": "2026-10-08",
+      "url": "https://post.smzdm.com/p/avgp4dzm/",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/anv9k3gp/",
+      "title": "零跑A10七千公里长测报告",
+      "summary": "在6-9万A0级纯电SUV市场，零跑A10是一台话题热度极高、评价两极分化的车型。短视频平台一边疯狂鼓吹它是“八万级激光雷达神车”，把高阶智驾拉下平民代步车的门槛；另一边大量真实车主吐槽底盘颠簸、缺少......",
+      "source": "Smzdm",
+      "date": "2026-10-08",
+      "url": "https://post.smzdm.com/p/anv9k3gp/",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/avgp4ndn/",
+      "title": "尊界V800刹车踏板事件",
+      "summary": "懂车帝测试尊界V800刹车踏板支架断裂一事引发广泛讨论。从官方说明来看，车辆产品本身通过相关标准验证，在普通用户日常使用场景中暂未出现同类失效案例，从合规层面或许符合现有标准。但我始终认为，安全，才是......",
+      "source": "Smzdm",
+      "date": "2026-10-08",
+      "url": "https://post.smzdm.com/p/avgp4ndn/",
+      "category": "industry"
+    },
+    {
+      "id": "https://cn.investing.com/news/stock-market-news/article-3600559",
+      "title": "国标无量化门槛、团标比行标更严苛!尊界刹车踏板支架断裂风波，揭开高端新能源汽车安全冗余乱象",
       "summary": "",
       "source": "Investing_Cn",
-      "date": "2026-10-07",
-      "url": "https://cn.investing.com/news/stock-market-news/article-93CH-3598411",
+      "date": "2026-10-08",
+      "url": "https://cn.investing.com/news/stock-market-news/article-3600559",
       "category": "industry"
     },
     {
-      "id": "https://www.bjnews.com.cn/detail/1791382265129262.html",
-      "title": "各大火车站迎来客流最高峰，今天23时后预计十万人次乘火车抵京",
+      "id": "https://post.smzdm.com/p/avgp4xkm/",
+      "title": "零跑A10七千公里实测报告",
+      "summary": "6-9万A0级纯电SUV市场，零跑A10是争议最大的一台车。短视频平台一边疯狂吹捧它是“八万级激光雷达神车”，把高阶智驾拉下神坛；另一边大量车主吐槽底盘颠簸、缺失后雨刮、后排舒适性差，直言营销大于产品......",
+      "source": "Smzdm",
+      "date": "2026-10-08",
+      "url": "https://post.smzdm.com/p/avgp4xkm/",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/1/010/738.htm",
+      "title": "R 星公布《GTA6》六大电台阵容：首次加入播客功能、走路时也能戴耳机收听",
+      "summary": "IT之家 10 月 8 日消息，Rockstar 今日公布《GTA6》游戏内广播电台详情。官方宣称，《GTA6》将带来系列游戏迄今最大、风格最丰富的电台阵容。 据介绍，《GTA6》首次加入了一系列播客，让玩家随时收听。除了开车的时候听广播，玩家还可以在游戏中戴上耳机，在步行时收听音乐。 IT之家附《...",
+      "source": "Ithome",
+      "date": "2026-10-08",
+      "url": "https://www.ithome.com/1/010/738.htm",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.ithome.com/1/010/734.htm",
+      "title": "Waymo 获 50 亿美元贷款：未来将推动无人驾驶出租车扩张，入局欧洲、日本等市场",
+      "summary": "IT之家 10 月 8 日消息，自动驾驶技术公司 Waymo 近日宣布获得 50 亿美元（IT之家注：现汇率约合 335.62 亿元人民币）贷款，融资方包括黑石、太平洋投资管理公司、Sixth Street 等。 据悉，这是 Waymo 首次进行债务融资。这笔资金将用于推动无人驾驶出租车扩张，并帮助...",
+      "source": "Ithome",
+      "date": "2026-10-08",
+      "url": "https://www.ithome.com/1/010/734.htm",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.bjnews.com.cn/detail/1791445016129589.html",
+      "title": "深耕汽车产业内容建设，懂车帝打造产业动态与深度报道信息阵地",
       "summary": "新京报以文字、图片、视频等全媒体形式，为用户提供全天候热点新闻，涵盖突发新闻、时事、财经、娱乐、体育，以及评论、杂志和博客等，新京报网本着品质源于责任的的信念,致力于成为用户喜爱的精品新闻网站。...",
       "source": "Bjnews",
-      "date": "2026-10-07",
-      "url": "https://www.bjnews.com.cn/detail/1791382265129262.html",
+      "date": "2026-10-08",
+      "url": "https://www.bjnews.com.cn/detail/1791445016129589.html",
       "category": "industry"
     },
     {
-      "id": "http://baijiahao.baidu.com/s?id=1878402413540744174",
-      "title": "凌晨湘江有人落水，长沙九洲龙骧号游轮紧急救援",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-10-07",
-      "url": "http://baijiahao.baidu.com/s?id=1878402413540744174",
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/10/08/alphabet039s-waymo-secures-5-billion-term-loan-to-accelerate-expansion",
+      "title": "Alphabet's Waymo secures $5 billion term loan to accelerate expansion",
+      "summary": "Oct 8 (Reuters) - ⁠Alphabet's self-driving unit Waymo ⁠on Thursday said it has ‌closed a $5 billion term loan, marking the company's first debt financ...",
+      "source": "The Star",
+      "date": "2026-10-08",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/08/alphabet039s-waymo-secures-5-billion-term-loan-to-accelerate-expansion",
       "category": "industry"
     },
     {
-      "id": "https://www.ithome.com/1/010/294.htm",
-      "title": "赛豆 AIVA ME7 量产路测车无伪谍照曝光，定位介于轿车与 SUV 之间的跨界车",
-      "summary": "IT之家 10 月 7 日消息，博主 @SugarDesign 今日曝光了赛豆 AIVA ME7 量产版路测无伪谍照。 从图中可以看到，AIVA ME7 的车身造型延续 AIVA Origin Concept 概念车的设计， 车顶处配有激光雷达 ，预计将支持高阶智能辅助驾驶功能。 参考IT之家此前报...",
-      "source": "Ithome",
-      "date": "2026-10-07",
-      "url": "https://www.ithome.com/1/010/294.htm",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261007/herald/bd3250b0ca3aaec391803ba503850e48.html",
-      "title": "假期重磅！港股，利好来了！",
-      "summary": "",
-      "source": "21Jingji",
-      "date": "2026-10-07",
-      "url": "https://www.21jingji.com/article/20261007/herald/bd3250b0ca3aaec391803ba503850e48.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://post.smzdm.com/p/agg5035m/",
-      "title": "官方说\"多数地区无需注册\"，评论区说先查空域：哈浮VERSA发售第10天，3999元飞行版的账我先替三类人算完",
-      "summary": "国庆这趟出门，航拍圈聊得最多的一台新机器，是台\"长得不像无人机\"的无人机。8月18日，智能飞行影像品牌哈浮（HoverAir）发布VERSA飞行口袋云台相机，可拆卸模块化设计，在手持三轴云台相机与自主飞行无人机之间自由切换，首发定价2999元起并开启全渠......",
-      "source": "Smzdm",
-      "date": "2026-10-07",
-      "url": "https://post.smzdm.com/p/agg5035m/",
-      "category": "industry"
-    },
-    {
-      "id": "http://www.199it.com/archives/1855653.html",
-      "title": "俄罗斯工贸部：2026年1-8月俄罗斯电动车销量达8.3万辆，同比增长近一倍",
-      "summary": "《纽约时报》报道，俄罗斯工贸部数据显示，2026年1-8月俄罗斯电动车销量达8.3万辆，同比增长近一倍；截至9月底市场份额11.5%，较年初几乎翻倍。燃油短缺推动中国电动车热销，但充电设施不足和传统观念制约纯电普及，混动车型或成下一增长点。...",
-      "source": "A199It",
-      "date": "2026-10-07",
-      "url": "http://www.199it.com/archives/1855653.html",
-      "category": "industry"
-    },
-    {
-      "id": "http://baijiahao.baidu.com/s?id=1878401546263819126",
-      "title": "千万别用这个姿势坐车！安全风险极大",
-      "summary": "",
-      "source": "News_Baidu",
-      "date": "2026-10-07",
-      "url": "http://baijiahao.baidu.com/s?id=1878401546263819126",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.nbd.com.cn/articles/2026-10-07/4597838.html",
-      "title": "奔驰第三季度在华交付超9万辆，高端市场优势持续巩固，纯电GLC表现超预期",
-      "summary": "10月7日，梅赛德斯-奔驰（以下简称奔驰）公布2026年第三季度中国市场表现。数据显示，第三季度，奔驰在华向客户交付新车超9万辆（含乘用车及轻型商务车）。在国内豪华车市场持续调整、主力车型进入迭代周期...",
-      "source": "Nbd_Cn",
-      "date": "2026-10-07",
-      "url": "https://www.nbd.com.cn/articles/2026-10-07/4597838.html",
+      "id": "https://www.marketscreener.com/news/lemonade-expands-autonomous-car-insurance-coverage-to-tesla-models-with-fsd-v14-lite-ce785ddfd881f726",
+      "title": "Lemonade Expands Autonomous Car Insurance Coverage to Tesla Models With FSD v14 Lite",
+      "summary": "Lemonade has expanded its autonomous vehicle insurance coverage to include older Tesla models with HW3 onboard computers running the new full self-dri...",
+      "source": "MarketScreener",
+      "date": "2026-10-08",
+      "url": "https://www.marketscreener.com/news/lemonade-expands-autonomous-car-insurance-coverage-to-tesla-models-with-fsd-v14-lite-ce785ddfd881f726",
       "category": "industry"
     },
     {
@@ -162,24 +180,6 @@
       "source": "WDIV ClickOnDetroit",
       "date": "2026-10-06",
       "url": "https://www.clickondetroit.com/news/local/2026/10/06/waymo-begins-fully-autonomous-driving-in-detroit-what-to-know/",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/10/06/tmt-newswire/pr-newswire/optro-establishes-uae-hub-to-support-rapid-transition-to-agentic-grc-across-the-middle-east/2440257",
-      "title": "Optro Establishes UAE Hub to Support Rapid Transition to Agentic GRC Across the Middle East",
-      "summary": "**media[1248854]**Expansion comes as UAE government mandates transition to Agentic AI models, driving demand for continuous assurance and autonomous r...",
-      "source": "The Manila Times",
-      "date": "2026-10-06",
-      "url": "https://www.manilatimes.net/2026/10/06/tmt-newswire/pr-newswire/optro-establishes-uae-hub-to-support-rapid-transition-to-agentic-grc-across-the-middle-east/2440257",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.pressherald.com/2026/10/05/are-self-driving-cars-legal-for-public-use-in-maine-fact-brief/",
-      "title": "Are self-driving cars legal for public use in Maine? | Fact brief",
-      "summary": "Fully autonomous driving is completely legal in 21 states, according to a recent report....",
-      "source": "Portland Press Herald",
-      "date": "2026-10-05",
-      "url": "https://www.pressherald.com/2026/10/05/are-self-driving-cars-legal-for-public-use-in-maine-fact-brief/",
       "category": "industry"
     }
   ]
