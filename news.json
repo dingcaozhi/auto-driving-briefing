@@ -1,149 +1,176 @@
 {
-  "lastUpdated": "2026-10-27 05:48:20",
-  "totalCount": 25,
+  "lastUpdated": "2026-10-28 06:26:22",
+  "totalCount": 28,
   "news": [
     {
-      "id": "https://www.21jingji.com/article/20261027/2051071f0c73bced8cd6e2219f32e1e1.html",
-      "title": "“十五五”信息化蓝图落定 智能体等普及率超90%，6G适时商用",
-      "summary": "",
-      "source": "21Jingji",
-      "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261027/2051071f0c73bced8cd6e2219f32e1e1.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261027/a68e1c5b35c036a66be383096d0539cf.html",
-      "title": "专访启境CEO刘嘉铭：境模式，让能力沉淀在自己身上",
-      "summary": "",
-      "source": "21Jingji",
-      "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261027/a68e1c5b35c036a66be383096d0539cf.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261027/fae4aaef14cdf5af7156a0790061effc.html",
-      "title": "详解“十五五”信息化蓝图 智能体等应用普及率超90%",
-      "summary": "",
-      "source": "21Jingji",
-      "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261027/fae4aaef14cdf5af7156a0790061effc.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261027/82a62678ac23bba50eb1051b79a6c285.html",
-      "title": "影响因素不再仅是“出险次数” 新能源车险正被模型重新定价",
-      "summary": "",
-      "source": "21Jingji",
-      "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261027/82a62678ac23bba50eb1051b79a6c285.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a70p302o/",
-      "title": "华境S详解，三排电动调节座椅，高速城区领航全都配齐",
-      "summary": "今天咱们一起来看一看五菱汽车与华为乾坤共同打造的一款大六座旗舰 SUV。它就是在今年 5 月份正式上市的华境 S。目前该车型在 9 月份进行了产品扩容，增加了 4 款不同配置的版本，也就让整个车辆的在......",
+      "id": "https://post.smzdm.com/p/a03x83pz/",
+      "title": "2026款零跑C系列OTA推送避坑指南：升级前必知的3项准备",
+      "summary": "2026款零跑C系列的这轮OTA，已经开始陆续落地。10月27日上午，零跑汽车官宣C系2026款车型OTA\"12项功能新增 + 16项功能优化\"，覆盖辅助驾驶、泊车、座舱娱乐与手机互联，并说明\"本次OTA即日起开始陆续推送，请耐心等待并关注车机提示哦\"。......",
       "source": "Smzdm",
-      "date": "2026-10-26",
-      "url": "https://post.smzdm.com/p/a70p302o/",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/a03x83pz/",
       "category": "industry"
     },
     {
-      "id": "https://post.smzdm.com/p/agg52grw/",
-      "title": "修车店推的轮胎充氮气，要不要花这钱？",
-      "summary": "在店里补胎、打气，师傅常会顺嘴来一句：加钱升级氮气吧，胎压更稳，不容易爆胎。听着挺专业，价格也不算离谱，四条胎便宜的五六十，贵的一百多。不少车主想着\"多一层保险\"，就把钱付了。这事我以前也纠结过。后来......",
+      "id": "https://post.smzdm.com/p/al38w3zg/",
+      "title": "2026款理想i6底盘沿用25款？拆车直播给出答案：硬件没减配，转向刹车调得更好开",
+      "summary": "10月26日晚，2026款理想i6还没上市，理想先把它拆开了——车机屏幕、座椅、连山电池、底盘逐项摆到镜头前。这场3.5小时的直播回应的是新车“底盘有没有减配”的质疑。官方结论很直接：底盘硬件与25款保持一致、没有减配，优化集中在转向、刹车的调校层面。按......",
       "source": "Smzdm",
-      "date": "2026-10-26",
-      "url": "https://post.smzdm.com/p/agg52grw/",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/al38w3zg/",
       "category": "industry"
     },
     {
-      "id": "https://www.21jingji.com/article/20261026/herald/deb1076825d4dc5c187d026d08d196ed.html",
-      "title": "暴增1386%！一芯片公司董事长发声：紧缺格局大概率持续至2028年",
-      "summary": "",
-      "source": "21Jingji",
-      "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261026/herald/deb1076825d4dc5c187d026d08d196ed.html",
+      "id": "https://post.smzdm.com/p/a956257e/",
+      "title": "零跑C系2026款OTA推送：车位到车位只给激光雷达版，一半新增看配置",
+      "summary": "10月27日上午，零跑宣布C系2026款车型OTA开始陆续推送，12项新增、16项优化。零跑汽车官方给的范围是：C10部分车型（除530舒享版）、C11全系、C16部分车型（除六座580尊享版和200尊享版）。推送节奏是“即日起开始陆续推送”，不是当天全......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/a956257e/",
       "category": "tech"
     },
     {
-      "id": "https://post.smzdm.com/p/aqrqlr7v/",
-      "title": "27款赛600还是34999，马力一匹没加，加的是轴瓦、机油泵和记录仪：钱江这回卖的是安心——下订前先问死刹车上泵还是不是布雷博；想省五千看同机同电控的26款活力版；想要124匹，隔壁凯越便宜一千，但终身质保只绑创世版前777台",
-      "summary": "27款赛600是10月22号晚上发的。我把升级名单从头翻到尾，最先盯住的是三个词：轴瓦、机油泵、记录仪。马力一点没加，还是那台680cc直四，101.3匹、68牛·米，指导价也没动，34999，跟今年......",
-      "source": "Smzdm",
-      "date": "2026-10-26",
-      "url": "https://post.smzdm.com/p/aqrqlr7v/",
+      "id": "https://www.21jingji.com/article/20261028/e2b56fa8a63152ea23a27a090047bfc6.html",
+      "title": "物理AI刷屏 券商分析师电话会排满 AI投资新主线浮出水面？",
+      "summary": "",
+      "source": "21Jingji",
+      "date": "2026-10-27",
+      "url": "https://www.21jingji.com/article/20261028/e2b56fa8a63152ea23a27a090047bfc6.html",
       "category": "industry"
     },
     {
-      "id": "https://www.ithome.com/1/018/178.htm",
-      "title": "美国 NHTSA 监管压力下，特斯拉仍推进 Cybercab 无人驾驶出租车交付",
-      "summary": "IT之家 10 月 26 日消息，据汽车媒体 CarBuzz 今天报道，特斯拉正为 Cybercab 无人驾驶出租车大规模交付做准备，该公司已在得州奥斯汀启动了小规模部署。不过美国国家公路交通安全管理局（NHTSA）已经盯上了特斯拉，重点审查这辆没有方向盘和踏板的车辆是如何获得认证的。 IT之家从原...",
-      "source": "Ithome",
-      "date": "2026-10-26",
-      "url": "https://www.ithome.com/1/018/178.htm",
+      "id": "https://post.smzdm.com/p/a70pz0pg/",
+      "title": "不带四环的奥迪电车，反而卖得动",
+      "summary": "10月26日晚上，奥迪中国把传了一个多月的事官宣了：和中国一汽、上汽集团分别签了战略协议，四环标完整归一汽奥迪，上汽奥迪只保留AUDI字母标，专心做纯电，协议即日生效。说得直白点：以后市面上有两个奥迪......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/a70pz0pg/",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/apqm3qvw/",
+      "title": "第三代秦PLUS DM-i上市：7.69万起售，混动车型也那么卷吗？",
+      "summary": "比亚迪第三代秦PLUS DM-i正式上市。作为连续三年坐稳紧凑级家轿销量冠军的热门车型，这次换代可以说是从里到外全面升级，还把价格打到了7.69万-9.79万元的价格区间。新车一共 3 款配置，覆盖1......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/apqm3qvw/",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a26x967n/",
+      "title": "大众想把小鹏的电子架构搬回欧洲：拆解CEA，它到底解决了什么痛点？",
+      "summary": "大众正在认真讨论一件十年前不可能发生的事：把与中国小鹏联合开发的电子电气架构，装回欧洲本土的主力车型。德国《经理人杂志》当地时间10月26日报道，大众汽车集团考虑将中国市场车型使用的软件架构引入欧洲主流车型，削弱美国合作伙伴Rivian在集团软件战略中的......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/a26x967n/",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a03x83d9/",
+      "title": "小鹏架构出海赋能大众系，中国智驾技术反向输出加速？",
+      "summary": "中国智驾技术的“反向输出”出现了近期分量最重的一个信号：大众汽车集团正考虑把与小鹏联合开发的电子电气架构从中国市场带到欧洲，为大众、斯柯达、Cupra 三大品牌的下一代车型打底，但目前这仍是一份等待批准的提案，尚未落地。 提案由大众品牌负责人施文韬（Th......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/a03x83d9/",
+      "category": "tech"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a70pz0kd/",
+      "title": "2026款理想i6确认转向刹车优化，25款已停售：只剩两条路",
+      "summary": "10月27日，理想给出2026款i6的官方口径：新车10月28日上市、29日交付，底盘延续全铝悬架+双腔空气弹簧等25款配置，重点优化转向响应与刹车脚感，并新增薄荷绿和紫色外观。先把\"现在买25款\"的......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/a70pz0kd/",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261028/1f05bf33ed79ba271d7e6b2e2084363f.html",
+      "title": "具身智能的超级共识撞上工程现实 是创业者的困境还是机会？",
+      "summary": "",
+      "source": "21Jingji",
+      "date": "2026-10-27",
+      "url": "https://www.21jingji.com/article/20261028/1f05bf33ed79ba271d7e6b2e2084363f.html",
+      "category": "industry"
+    },
+    {
+      "id": "https://www.21jingji.com/article/20261028/5817ae2fa80a30f355acfab632f76902.html",
+      "title": "物理AI刷屏，券商分析师电话会排满 AI投资新主线浮出水面？",
+      "summary": "",
+      "source": "21Jingji",
+      "date": "2026-10-27",
+      "url": "https://www.21jingji.com/article/20261028/5817ae2fa80a30f355acfab632f76902.html",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/arzrvz47/",
+      "title": "大众拿到L3路测牌照，但这不是“准生证”",
+      "summary": "10月26日，大众汽车集团（中国）宣布，已在合肥获得L3级自动驾驶路测牌照，并启动路测与数据采集。但路测牌照不是准生证，允许的是测试，不是卖车。L3也不是无人驾驶，驾驶员要在系统请求时接管。大众中国两......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/arzrvz47/",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/ak8lg8pk/",
+      "title": "大众拿下L3路测牌照，现在买车该等智驾还是直接下手？",
+      "summary": "10月26日，大众汽车集团（中国）官宣在合肥正式获得L3级自动驾驶道路测试牌照，真实道路测试与数据采集已经启动。但对攥着购车预算的人来说，先别急着改计划：这是一张“路测牌照”，换不来一台今天就能买到、......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/ak8lg8pk/",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/aomv8gzn/",
+      "title": "小鹏Robotaxi拿下广州全域L4示范运营资质：先等邀请码，再闯三道关",
+      "summary": "10月26日，小鹏汽车官方微博官宣：集团Robotaxi“小鹏悠游”正式获批L4级自动驾驶示范运营资质。官宣评论区里，求邀请码、问“其他城市什么时候轮到”的留言已经刷了屏。但先把结论说清楚：对广州用户......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/aomv8gzn/",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a26x9qdp/",
+      "title": "L4资质落地广州，小鹏Robotaxi何时普及到全城？",
+      "summary": "小鹏拿到了在广州全域跑Robotaxi的许可，但广州市民要像打网约车一样随手叫到它，中间还隔着车队规模、定价和安全操作员移除三个变量。10月26日，小鹏集团宣布旗下Robotaxi品牌\"小鹏悠游\"获批......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/a26x9qdp/",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/az8oezdo/",
+      "title": "上市之前先拆车，2026 款理想 i6 还剩最后一个悬念",
+      "summary": "新车还没上市，理想先把它拆开了。10 月 26 日，理想汽车对即将发布的 2026 款理想 i6 进行了一场拆车直播。从屏幕、座椅，到电池和底盘，这次年款升级的主要变化，随着拆解逐一呈现在镜头前。按照......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/az8oezdo/",
+      "category": "industry"
+    },
+    {
+      "id": "https://post.smzdm.com/p/a5rxq0xl/",
+      "title": "全地形车在美国多挣钱？揭秘中美使用场景与法规差异",
+      "summary": "全地形车（俗称沙滩车、四轮摩托，以及带方向盘的UTV、SSV）在北美是农活工具车，在中国却是\"场地车\"——这个身份差，决定了中国厂商的钱从哪儿挣。信达证券研报援引Polaris年报数据称，近年全球全地......",
+      "source": "Smzdm",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/a5rxq0xl/",
       "category": "policy"
     },
     {
-      "id": "https://www.21jingji.com/article/20261026/herald/2327daa580f127a4b1c738f9d4d3b931.html",
-      "title": "热财经 | 自动驾驶彻底告别传统出行，智能汽车的高安全该如何做",
-      "summary": "",
-      "source": "21Jingji",
-      "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261026/herald/2327daa580f127a4b1c738f9d4d3b931.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://post.smzdm.com/p/ae6qzowz/",
-      "title": "智界高管：赛道不会陪人嘴硬，RX赢了小米YU7 Max！",
-      "summary": "赵长江终究还是没忍住。这段时间汽车圈吵得最凶的浙赛圈速话题，赵长江直接下场接招。面对网友扎堆吐槽，说他的成绩定语不够、换套轮胎小米YU7 Max就能反超，他一句话简单粗暴：RX赢了YU7 Max。没有......",
+      "id": "https://post.smzdm.com/p/a3mxvmzn/",
+      "title": "2026款零跑C系列OTA推送后购车决策：现款抄底还是等新款？",
+      "summary": "10月27日，零跑汽车官宣零跑C系2026款车型OTA已于10月开始陆续推送，涉及C10（除530舒享版）、C11全系和C16（除六座580尊享版/200尊享版），激光雷达车型新增“车位到车位”辅助驾驶。这项功能正是6月上市的2027款全新C系列压过20......",
       "source": "Smzdm",
-      "date": "2026-10-26",
-      "url": "https://post.smzdm.com/p/ae6qzowz/",
+      "date": "2026-10-27",
+      "url": "https://post.smzdm.com/p/a3mxvmzn/",
       "category": "industry"
     },
     {
-      "id": "https://www.21jingji.com/article/20261026/herald/db720c0f4217b5e8c02d150ba9c4d2e9.html",
-      "title": "热财经｜第三方智驾“上车”竞赛：各大厂商都在押注Momenta这张牌",
-      "summary": "",
-      "source": "21Jingji",
-      "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261026/herald/db720c0f4217b5e8c02d150ba9c4d2e9.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://post.smzdm.com/p/a03xovow/",
-      "title": "SNK兴衰录：格斗之王是怎么把自己输掉的",
-      "summary": "对于无数在九十年代街机厅里长大的男孩来说，关于「厉害」这件事的启蒙，几乎都来自一台贴着 SNK 标的柜机。投一枚币，《拳皇97》的开场音乐就响起来，摇杆被搓得发烫，屏幕里八神庵的紫色火焰劈开人群，身后......",
-      "source": "Smzdm",
-      "date": "2026-10-26",
-      "url": "https://post.smzdm.com/p/a03xovow/",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.21jingji.com/article/20261026/herald/8b8e3c75936ecff9fb7143d9baad0ff8.html",
-      "title": "换电又火了！车企巨头纷纷入局，但赚钱仍是难题",
-      "summary": "",
-      "source": "21Jingji",
-      "date": "2026-10-26",
-      "url": "https://www.21jingji.com/article/20261026/herald/8b8e3c75936ecff9fb7143d9baad0ff8.html",
-      "category": "industry"
-    },
-    {
-      "id": "https://post.smzdm.com/p/apqmkwe0/",
-      "title": "长城发布新车：10月26日正式上市，25.98万起",
-      "summary": "10月26日消息，长城新车魏牌高山8 HEV上市，25.98万起正式开卖，价格比之前公布的预售价又低了一些。这是国内首款带激光雷达和城市NOA的HEV油混MPV，全系标配Hi4四驱，无需插电上蓝牌。其......",
-      "source": "Smzdm",
-      "date": "2026-10-26",
-      "url": "https://post.smzdm.com/p/apqmkwe0/",
-      "category": "product"
-    },
-    {
-      "id": "https://post.smzdm.com/p/avgpmgn9/",
-      "title": "不吹不黑！实测问界M7：到底值不值30万？",
-      "summary": "结论先行： 如果你是为了“华为智驾”和“全家出行大空间”买车，这车值；如果你追求操控乐趣和底盘质感，建议去看看理想或者去看看传统油车。静态体验：外观见仁见智，但内部空间确实大。第二排零重力座椅坐上去真......",
-      "source": "Smzdm",
-      "date": "2026-10-26",
-      "url": "https://post.smzdm.com/p/avgpmgn9/",
+      "id": "https://techstartups.com/2026/10/27/startup-funding-news-today-october-27-2026-bedrock-robotics-cent-epoch-nevis-north-vector-hyperbolic-more/",
+      "title": "Startup Funding News Today, October 27, 2026: Bedrock Robotics, Cent, Epoch, Nevis, North Vector, Hyperbolic & More",
+      "summary": "Venture capital is moving into technologies that do more than generate AI responses. Autonomous construction equipment, specialized cloud infrastructu...",
+      "source": "TechStartups.com",
+      "date": "2026-10-27",
+      "url": "https://techstartups.com/2026/10/27/startup-funding-news-today-october-27-2026-bedrock-robotics-cent-epoch-nevis-north-vector-hyperbolic-more/",
       "category": "industry"
     },
     {
@@ -153,33 +180,6 @@
       "source": "TechCrunch",
       "date": "2026-10-26",
       "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.foxbusiness.com/technology/gm-expands-eyes-off-autonomous-driving-plans-pickups-suvs",
-      "title": "General Motors plans ‘eyes-off’ driving tech for trucks and SUVs",
-      "summary": "General Motors is betting on autonomous driving, AI and connected services as it looks to transform the driving experience and grow its digital busine...",
-      "source": "Fox Business",
-      "date": "2026-10-25",
-      "url": "https://www.foxbusiness.com/technology/gm-expands-eyes-off-autonomous-driving-plans-pickups-suvs",
-      "category": "tech"
-    },
-    {
-      "id": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
-      "title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
-      "summary": "NHTSA proposes updating federal safety rules to allow cyan lights for autonomous vehicles and remove legacy human-driver requirements like turn signal...",
-      "source": "The Verge",
-      "date": "2026-10-23",
-      "url": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
-      "category": "industry"
-    },
-    {
-      "id": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/from-physical-ai-to-scaled-deployment-weride-named-among-wicv-2026s-top-10-automotive-ai-application-cases/2452707",
-      "title": "From Physical AI to Scaled Deployment: WeRide Named Among WICV 2026's Top 10 Automotive AI Application Cases",
-      "summary": "WeRide was named among WICV 2026’s 'Top 10 Automotive AI Application Cases of 2026” for its Physical AI flywheel powered by GENESIS and WITT.Founder a...",
-      "source": "The Manila Times",
-      "date": "2026-10-23",
-      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/from-physical-ai-to-scaled-deployment-weride-named-among-wicv-2026s-top-10-automotive-ai-application-cases/2452707",
       "category": "industry"
     }
   ]
